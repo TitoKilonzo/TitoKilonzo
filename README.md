@@ -1,5 +1,5 @@
-``Hi 👋, I'm Tito Kilonzo
-A Passionate Full Stack Software Engineer``
+`Hi 👋, I'm Tito Kilonzo`
+`A Passionate Full Stack Software Engineer`
 
 Crafting digital experiences with clean code and creative design.
 
@@ -23,26 +23,26 @@ Crafting digital experiences with clean code and creative design.
 
 Frontend Development:
 
-html5
-css3
-javascript
-typescript
-react
-nextjs
-tailwind
+- html5
+- css3
+- javascript
+- typescript
+- react
+- nextjs
+- tailwind
 
 Backend & Languages:
 
-python
-nodejs
-express
-django
+- python
+- nodejs
+- express
+- django
 
 Tools & Databases:
 
-mongodb
-postgreSQL
-git
-docker
-linux
+- mongodb
+- postgreSQL
+- git
+- docker
+- linux
 
