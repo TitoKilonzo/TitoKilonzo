@@ -19,7 +19,7 @@ Crafting digital experiences with clean code and creative design.
 
 ⚡ Fun fact: I turn caffeine into code.
 
-🛠️ My Tech Stack
+`🛠️ My Tech Stack`
 
 `Frontend Development`
 
