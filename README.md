@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi 👋, I'm Tito Kilonzo
+A Passionate Full Stack Software Engineer
 
-<!--
-**TitoKilonzo/TitoKilonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting digital experiences with clean code and creative design.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+🏢 I’m a Full Stack Developer specialized in building exceptional digital experiences.
+🔭 I’m currently working on Scalable Web Applications & AI Integrations.
+🌱 I’m currently learning Advanced System Design and Cloud Architecture.
+👯 I’m looking to collaborate on Open Source Projects and Innovative Startups.
+💬 Ask me about HTML, CSS, Python, Next.js, Node.js, and Modern Frameworks.
+📫 How to reach me: titokilonzo3@gmail.com
+⚡ Fun fact: I turn caffeine into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My Tech Stack
+Frontend Development:
+
+html5
+css3
+javascript
+typescript
+react
+nextjs
+tailwind
+
+Backend & Languages:
+
+python
+nodejs
+express
+django
+
+Tools & Databases:
+
+mongodb
+postgresql
+git
+docker
+linux
+appwite
+
