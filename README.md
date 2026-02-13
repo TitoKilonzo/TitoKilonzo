@@ -21,7 +21,7 @@ Crafting digital experiences with clean code and creative design.
 
 🛠️ My Tech Stack
 
-Frontend Development:
+`Frontend Development`
 
 - html5
 - css3
@@ -31,14 +31,14 @@ Frontend Development:
 - nextjs
 - tailwind
 
-Backend & Languages:
+`Backend & Languages`
 
 - python
 - nodejs
 - express
 - django
 
-Tools & Databases:
+`Tools & Databases`
 
 - mongodb
 - postgreSQL
