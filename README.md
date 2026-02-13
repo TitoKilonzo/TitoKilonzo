@@ -33,9 +33,8 @@ django
 Tools & Databases:
 
 mongodb
-postgresql
+postgreSQL
 git
 docker
 linux
-appwite
 
