@@ -1,9 +1,9 @@
-Hi 👋, I'm Tito Kilonzo
-A Passionate Full Stack Software Engineer
+``Hi 👋, I'm Tito Kilonzo
+A Passionate Full Stack Software Engineer``
 
 Crafting digital experiences with clean code and creative design.
 
-👨‍💻 About Me
+`👨‍💻 About Me`
 
 🏢 I’m a Full Stack Developer specialized in building exceptional digital experiences.
 
@@ -20,6 +20,7 @@ Crafting digital experiences with clean code and creative design.
 ⚡ Fun fact: I turn caffeine into code.
 
 🛠️ My Tech Stack
+
 Frontend Development:
 
 html5
