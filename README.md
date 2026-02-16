@@ -116,22 +116,32 @@
 
 ## 💼 Featured Projects
 
-<!-- You can add your featured projects here -->
+### 🚀 WebApplication-Flask-XT-MongoDB
+> A full-stack web application built with Flask and MongoDB, demonstrating modern backend architecture and database integration.
+- **Tech Stack:** Flask, Python, MongoDB, HTML
+- **Stars:** ⭐ 1
+- [Source Code](https://github.com/TitoKilonzo/WebApplication-Flask-XT-MongoDB-)
 
-### 🚀 Project 1: [Project Name]
-> Brief description of your project
-- Tech Stack: Next.js, TypeScript, MongoDB
-- [Live Demo](#) | [Source Code](#)
+### 🌟 Node.js Weather App
+> A dynamic weather application that fetches real-time weather data, showcasing API integration and responsive design.
+- **Tech Stack:** Node.js, JavaScript, Weather API
+- **Stars:** ⭐ 1
+- [Source Code](https://github.com/TitoKilonzo/nodejs-weather-app)
 
-### 🌟 Project 2: [Project Name]
-> Brief description of your project
-- Tech Stack: React, Node.js, PostgreSQL
-- [Live Demo](#) | [Source Code](#)
+### ⚡ Shift Master
+> A mobile application for shift management built with Flutter, demonstrating cross-platform development expertise.
+- **Tech Stack:** Flutter, Dart
+- [Source Code](https://github.com/TitoKilonzo/shift_master)
 
-### ⚡ Project 3: [Project Name]
-> Brief description of your project
-- Tech Stack: Python, Django, Docker
-- [Live Demo](#) | [Source Code](#)
+### 🤖 ChatBot
+> An intelligent chatbot application showcasing natural language processing and AI integration capabilities.
+- **Tech Stack:** Python
+- [Source Code](https://github.com/TitoKilonzo/ChatBot)
+
+### 📊 Portfolio Website
+> Personal portfolio website showcasing projects, skills, and professional journey.
+- **Tech Stack:** HTML, CSS, JavaScript
+- [Live Demo](https://TitoKinyambu.github.io) | [Source Code](https://github.com/TitoKilonzo/TitoKinyambu.github.io)
 
 ---
 
