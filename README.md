@@ -69,11 +69,15 @@
 
 <div align="center">
   
-![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" height="180em" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TitoKilonzo&theme=radical)
+</div>
+
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com/?user=TitoKilonzo&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
@@ -83,7 +87,7 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=TitoKilonzo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TitoKilonzo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -93,7 +97,7 @@
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TitoKilonzo&theme=react-dark&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TitoKilonzo&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -107,6 +111,27 @@
 <a href="https://twitter.com/SciTechEnthusia" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
 <a href="https://github.com/TitoKilonzo" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
+
+---
+
+## 💼 Featured Projects
+
+<!-- You can add your featured projects here -->
+
+### 🚀 Project 1: [Project Name]
+> Brief description of your project
+- Tech Stack: Next.js, TypeScript, MongoDB
+- [Live Demo](#) | [Source Code](#)
+
+### 🌟 Project 2: [Project Name]
+> Brief description of your project
+- Tech Stack: React, Node.js, PostgreSQL
+- [Live Demo](#) | [Source Code](#)
+
+### ⚡ Project 3: [Project Name]
+> Brief description of your project
+- Tech Stack: Python, Django, Docker
+- [Live Demo](#) | [Source Code](#)
 
 ---
 
@@ -155,8 +180,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 - 💼 LinkedIn: [Tito Kinyambu](https://linkedin.com/in/titokinyambu)
 - 📧 Email: titokilonzo3@gmail.com
-- 🐦 Twitter: [SciTechEnthusia](https://twitter.com/ScieTechEnthusia)
-- 💻 GitHub: [TitoKilonzo](https://github.com/TitoKilonzo)
+- 🐦 Twitter: [@SciTechEnthusia](https://twitter.com/SciTechEnthusia)
+- 💻 GitHub: [@TitoKilonzo](https://github.com/TitoKilonzo)
 
 ---
 
@@ -164,7 +189,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### Show some ❤️ by starring some of my repositories!
 
-![Visitor Count](https://profile-counter.glitch.me/TitoKilonzo/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=TitoKilonzo&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **Thanks for visiting my profile!** 😊
 
