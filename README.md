@@ -138,11 +138,6 @@
 - **Tech Stack:** Python
 - [Source Code](https://github.com/TitoKilonzo/ChatBot)
 
-### 📊 Portfolio Website
-> Personal portfolio website showcasing projects, skills, and professional journey.
-- **Tech Stack:** HTML, CSS, JavaScript
-- [Live Demo](https://TitoKinyambu.github.io) | [Source Code](https://github.com/TitoKilonzo/TitoKinyambu.github.io)
-
 ---
 
 ## 📝 Latest Blog Posts
