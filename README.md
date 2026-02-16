@@ -114,17 +114,17 @@
 
 <!-- You can add your featured projects here -->
 
-### 🚀 Project 1: [Project Name]
+### 🚀 Project 1: ShiftManagentment System.
 > Brief description of your project
 - Tech Stack: Next.js, TypeScript, MongoDB
 - [Live Demo](#) | [Source Code](#)
 
-### 🌟 Project 2: [Project Name]
+### 🌟 Project 2: RentalManagentment System.
 > Brief description of your project
 - Tech Stack: React, Node.js, PostgreSQL
 - [Live Demo](#) | [Source Code](#)
 
-### ⚡ Project 3: [Project Name]
+### ⚡ Project 3: Web Dev
 > Brief description of your project
 - Tech Stack: Python, Django, Docker
 - [Live Demo](#) | [Source Code](#)
@@ -174,10 +174,10 @@ const titoKilonzo = {
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 LinkedIn: [Tito Kilonzo](https://linkedin.com/in/titokinyambu)
+- 💼 LinkedIn: [Tito Kinyambu](https://linkedin.com/in/titokinyambu)
 - 📧 Email: titokilonzo3@gmail.com
-- 🐦 Twitter: [@titokilonzo](https://twitter.com/ScieTechEnthusia)
-- 💻 GitHub: [@titokilonzo](https://github.com/TitoKilonzo)
+- 🐦 Twitter: [SciTechEnthusia](https://twitter.com/ScieTechEnthusia)
+- 💻 GitHub: [TitoKilonzo](https://github.com/TitoKilonzo)
 
 ---
 
