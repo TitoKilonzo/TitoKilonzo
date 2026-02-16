@@ -69,11 +69,11 @@
 
 <div align="center">
   
-![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=titokilonzo&show_icons=true&theme=radical)
+![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titokilonzo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=titokilonzo&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TitoKilonzo&theme=radical)
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=titokilonzo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=TitoKilonzo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=titokilonzo&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TitoKilonzo&theme=react-dark&hide_border=true)
 
 </div>
 
@@ -174,10 +174,10 @@ const titoKilonzo = {
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 LinkedIn: [Tito Kilonzo](https://linkedin.com/in/titokilonzo)
+- 💼 LinkedIn: [Tito Kilonzo](https://linkedin.com/in/titokinyambu)
 - 📧 Email: titokilonzo3@gmail.com
-- 🐦 Twitter: [@titokilonzo](https://twitter.com/titokilonzo)
-- 💻 GitHub: [@titokilonzo](https://github.com/titokilonzo)
+- 🐦 Twitter: [@titokilonzo](https://twitter.com/ScieTechEnthusia)
+- 💻 GitHub: [@titokilonzo](https://github.com/TitoKilonzo)
 
 ---
 
@@ -185,7 +185,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### Show some ❤️ by starring some of my repositories!
 
-![Visitor Count](https://profile-counter.glitch.me/titokilonzo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/TitoKilonzo/count.svg)
 
 **Thanks for visiting my profile!** 😊
 
