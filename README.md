@@ -110,27 +110,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<!-- You can add your featured projects here -->
-
-### 🚀 Project 1: ShiftManagentment System.
-> Brief description of your project
-- Tech Stack: Next.js, TypeScript, MongoDB
-- [Live Demo](#) | [Source Code](#)
-
-### 🌟 Project 2: RentalManagentment System.
-> Brief description of your project
-- Tech Stack: React, Node.js, PostgreSQL
-- [Live Demo](#) | [Source Code](#)
-
-### ⚡ Project 3: Web Dev
-> Brief description of your project
-- Tech Stack: Python, Django, Docker
-- [Live Demo](#) | [Source Code](#)
-
----
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
