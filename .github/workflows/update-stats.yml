@@ -1,0 +1,71 @@
+name: Auto-Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+jobs:
+  update-stats:
+    name: Fetch and Cache GitHub Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets/github-stats
+
+      - name: Download Stats Card
+        run: |
+          curl -o assets/github-stats/stats.svg \
+            "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TitoKilonzo&theme=radical" \
+            --retry 5 --retry-delay 10 --silent --fail \
+          && echo 'Stats saved' \
+          || echo 'Stats failed - keeping old'
+
+      - name: Download Languages Card
+        run: |
+          curl -o assets/github-stats/top-langs.svg \
+            "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TitoKilonzo&theme=radical" \
+            --retry 5 --retry-delay 10 --silent --fail \
+          && echo 'Languages saved' \
+          || echo 'Languages failed - keeping old'
+
+      - name: Download Streak
+        run: |
+          curl -o assets/github-stats/streak.svg \
+            "https://streak-stats.demolab.com/?user=TitoKilonzo&theme=radical&hide_border=false" \
+            --retry 5 --retry-delay 10 --silent --fail \
+          && echo 'Streak saved' \
+          || echo 'Streak failed - keeping old'
+
+      - name: Download Activity Graph
+        run: |
+          curl -o assets/github-stats/activity-graph.svg \
+            "https://github-readme-activity-graph.vercel.app/graph?username=TitoKilonzo&theme=react-dark&hide_border=true&area=true" \
+            --retry 5 --retry-delay 10 --silent --fail \
+          && echo 'Graph saved' \
+          || echo 'Graph failed - keeping old'
+
+      - name: Download Dev Quote
+        run: |
+          curl -o assets/github-stats/quote.svg \
+            "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" \
+            --retry 5 --retry-delay 10 --silent --fail \
+          && echo 'Quote saved' \
+          || echo 'Quote failed - keeping old'
+
+      - name: Commit Updated Stats
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats/
+          git diff --cached --quiet \
+            && echo 'Nothing changed, skipping commit' \
+            || (git commit -m 'chore: auto-update GitHub stats [skip ci]' && git push)
