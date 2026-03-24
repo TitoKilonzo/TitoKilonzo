@@ -32,8 +32,61 @@
 
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
-<!-- FEED:START -->
-<!-- FEED:END -->
+<!-- FEED_TIMESTAMP -->
+> 🕐 **Live Feed Last Refreshed:** `2026-03-24 at 20:21 UTC` — updates automatically every hour via GitHub Actions.
+
+
+### 🤖 AI & Claude
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="assets/feed/ai_card_1.svg" width="100%" alt="AI Article 1"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="assets/feed/ai_card_2.svg" width="100%" alt="AI Article 2"/>
+</td>
+</tr>
+</table>
+
+### 🔐 Cybersecurity
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="assets/feed/cyber_card_1.svg" width="100%" alt="Cyber Article 1"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="assets/feed/cyber_card_2.svg" width="100%" alt="Cyber Article 2"/>
+</td>
+</tr>
+</table>
+
+### ⚡ Tech Advances
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="assets/feed/tech_card_1.svg" width="100%" alt="Tech Article 1"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="assets/feed/tech_card_2.svg" width="100%" alt="Tech Article 2"/>
+</td>
+</tr>
+</table>
+
+### 💻 Developer Insights
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="assets/feed/dev_card_1.svg" width="100%" alt="Dev Article 1"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="assets/feed/dev_card_2.svg" width="100%" alt="Dev Article 2"/>
+</td>
+</tr>
+</table>
 
 ---
 

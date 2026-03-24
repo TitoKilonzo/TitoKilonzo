@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Your `pip install` Just Stole Your SSH Keys: The</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Stop Guessing Your API Costs: Track LLM Tokens in Real</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">LiteLLM Supply Chain Attack Explained</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Time</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; vinmay &#183; Mar 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Henry Godnick &#183; Mar 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A single pip install litellm==1.82.8 was enough to drain</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;If you&apos;re building with LLMs, you already know the pain: you</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">everything off your machine. No suspicious imports. …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">fire off a bunch of API calls during development…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:21 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:39 UTC</text>
 
 </svg>
