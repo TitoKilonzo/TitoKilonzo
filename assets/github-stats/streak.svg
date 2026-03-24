@@ -1,0 +1,6 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="120" rx="10" fill="#161b22"/>
+  <rect width="400" height="120" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="200" y="55" font-family="Segoe UI, Arial" font-size="12" fill="#8b949e" text-anchor="middle">📊 Stats cached on first workflow run</text>
+  <text x="200" y="78" font-family="Courier New" font-size="10" fill="#484f58" text-anchor="middle">Run: Actions → update-stats → Run workflow</text>
+</svg>
