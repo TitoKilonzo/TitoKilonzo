@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why Behavioral Interviews Are Actually Harder Than</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">3D Chip Stacking Has a Warpage Problem — GNNs and RTX</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Coding Rounds</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">4060 Benchmarks Show Why</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Karuha &#183; Mar 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; plasmon &#183; Mar 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Let me tell you about the worst interview I ever had. It</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;3D Chip Stacking Has a Warpage Problem — GNNs and RTX 4060</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">wasn&apos;t a coding round. I&apos;d been doing LeetCode for m…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Benchmarks Show Why Three Physical Walls Facing Se…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:24 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:01 UTC</text>
 
 </svg>
