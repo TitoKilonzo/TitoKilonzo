@@ -42,10 +42,10 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="assets/feed/ai_card_1.svg" width="100%" alt="AI Article 1"/>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="assets/feed/ai_card_2.svg" width="100%" alt="AI Article 2"/>
 </td>
 </tr>
@@ -55,10 +55,10 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="assets/feed/cyber_card_1.svg" width="100%" alt="Cyber Article 1"/>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="assets/feed/cyber_card_2.svg" width="100%" alt="Cyber Article 2"/>
 </td>
 </tr>
@@ -68,10 +68,10 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="assets/feed/tech_card_1.svg" width="100%" alt="Tech Article 1"/>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="assets/feed/tech_card_2.svg" width="100%" alt="Tech Article 2"/>
 </td>
 </tr>
@@ -81,10 +81,10 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="assets/feed/dev_card_1.svg" width="100%" alt="Dev Article 1"/>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="assets/feed/dev_card_2.svg" width="100%" alt="Dev Article 2"/>
 </td>
 </tr>
@@ -150,6 +150,7 @@
 
 ## Featured Projects
 
+<!-- FEATURED_PROJECTS:START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**CyberScribe**](https://github.com/TitoKilonzo/CyberScribe) | Open-source cybersecurity skills library for AI coding agents — 700+ structured Markdown skill definitions across 16 domains | Markdown, GitHub Actions |
@@ -158,6 +159,7 @@
 | [**LUMINARY**](https://github.com/TitoKilonzo) | Financial literacy web library | React, MongoDB Atlas |
 | [**Shift Master**](https://github.com/TitoKilonzo/shift_master) | Cross-platform shift management mobile app | Flutter, Dart |
 | [**Gmail Sentinel**](https://github.com/TitoKilonzo) | Automated email monitoring with SMS alerts | Node.js, Gmail API, Africa's Talking |
+<!-- FEATURED_PROJECTS:END -->
 
 ---
 

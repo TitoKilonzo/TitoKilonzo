@@ -233,7 +233,7 @@ def make_card(article: dict, category: dict, uid: int) -> str:
     badge_w = len(category["name"]) * 7 + 32
 
     svg = f'''\
-<svg width="{CARD_W}" height="{height}" xmlns="http://www.w3.org/2000/svg">
+<svg width="{CARD_W}" height="{height}" viewBox="0 0 {CARD_W} {height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg{uid}" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#0d1117"/>
@@ -325,7 +325,7 @@ def make_placeholder(category: dict, uid: int) -> str:
     height = 120
 
     return f'''\
-<svg width="{CARD_W}" height="{height}" xmlns="http://www.w3.org/2000/svg">
+<svg width="{CARD_W}" height="{height}" viewBox="0 0 {CARD_W} {height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="pbg{uid}" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#0d1117"/>
@@ -364,7 +364,7 @@ def update_readme(path: str = "README.md") -> None:
 
     if mark in content:
         content = re.sub(
-            rf"{re.escape(mark)}.*?(?=\n##|\Z)",
+            rf"{re.escape(mark)}.*?(?=\n###|\n##|\Z)",
             repl + "\n\n",
             content,
             flags=re.DOTALL,

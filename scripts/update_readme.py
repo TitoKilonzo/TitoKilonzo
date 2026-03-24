@@ -186,7 +186,8 @@ def replace_section(content: str, tag: str, body: str) -> str:
     end   = f"<!-- {tag}:END -->"
     pat   = re.compile(re.escape(start) + r".*?" + re.escape(end), re.DOTALL)
     if not pat.search(content):
-        raise ValueError(f"Markers for '{tag}' not found in README.md")
+        print(f"  ⚠ Markers for '{tag}' not found in README.md, skipping.")
+        return content
     return pat.sub(f"{start}\n{body}\n{end}", content)
 
 # ── main ──────────────────────────────────────────────────────────────────────
