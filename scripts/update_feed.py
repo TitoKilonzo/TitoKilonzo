@@ -352,26 +352,27 @@ def make_placeholder(category: dict, uid: int) -> str:
 
 # ── README timestamp update ────────────────────────────────────────────────────
 
-def update_readme(path: str = "README.md") -> None:
+def update_readme(path: str = "README.md", feed_html: str = "") -> None:
     if not os.path.exists(path):
         return
     with open(path, encoding="utf-8") as f:
         content = f.read()
 
     ts    = datetime.now(timezone.utc).strftime("%Y-%m-%d at %H:%M UTC")
-    mark  = "<!-- FEED_TIMESTAMP -->"
-    repl  = f"{mark}\n> 🕐 **Live Feed Last Refreshed:** `{ts}` — updates automatically every hour via GitHub Actions."
+    mark_start = "<!-- FEED:START -->"
+    mark_end   = "<!-- FEED:END -->"
+    
+    repl = f"{mark_start}\n> 🕐 **Live Feed Last Refreshed:** `{ts}` — updates automatically every hour via GitHub Actions.\n\n{feed_html}\n{mark_end}"
 
-    if mark in content:
-        content = re.sub(
-            rf"{re.escape(mark)}.*?(?=\n###|\n##|\Z)",
-            repl + "\n\n",
-            content,
-            flags=re.DOTALL,
-        )
+    pat = re.compile(re.escape(mark_start) + r".*?" + re.escape(mark_end), re.DOTALL)
+    if pat.search(content):
+        content = pat.sub(repl, content)
+    else:
+        print("  ⚠ <!-- FEED:START --> markers not found in README.md!")
+
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
-    print(f"  ✅ README timestamp updated → {ts}")
+    print(f"  ✅ README timestamp and dynamic links updated → {ts}")
 
 
 # ── Main ───────────────────────────────────────────────────────────────────────
@@ -384,9 +385,12 @@ def main() -> None:
     print(f"{'═'*60}\n")
 
     uid = 0
+    feed_html = ""
     for cat in CATEGORIES:
         print(f"📡  {cat['name']}")
         articles = fetch_articles(cat)
+
+        feed_html += f"### {cat['icon']} {cat['name']}\n\n<table>\n<tr>\n"
 
         for i in range(1, MAX_CARDS + 1):
             uid += 1
@@ -395,14 +399,20 @@ def main() -> None:
                 art = articles[i - 1]
                 svg = make_card(art, cat, uid)
                 print(f"    ✔  Card {i}: {art['title'][:55]}…")
+                # Add clickable link in README
+                feed_html += f'<td width="50%" align="center" valign="top">\n<a href="{art["link"]}"><img src="assets/feed/{cat["slug"]}_card_{i}.svg" width="100%" alt="Article Card"/></a>\n</td>\n'
             else:
                 svg = make_placeholder(cat, uid)
                 print(f"    ○  Card {i}: placeholder (no matching article)")
+                # Unlinked placeholder
+                feed_html += f'<td width="50%" align="center" valign="top">\n<img src="assets/feed/{cat["slug"]}_card_{i}.svg" width="100%" alt="Placeholder Card"/>\n</td>\n'
 
             with open(path, "w", encoding="utf-8") as f:
                 f.write(svg)
+                
+        feed_html += "</tr>\n</table>\n\n"
 
-    update_readme()
+    update_readme(path="README.md", feed_html=feed_html)
     print(f"\n{'═'*60}")
     print(f"  ✨  Done — {uid} cards written to {OUTPUT_DIR}/")
     print(f"{'═'*60}\n")

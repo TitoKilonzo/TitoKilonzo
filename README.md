@@ -32,61 +32,8 @@
 
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
-<!-- FEED_TIMESTAMP -->
-> 🕐 **Live Feed Last Refreshed:** `2026-03-24 at 20:21 UTC` — updates automatically every hour via GitHub Actions.
-
-
-### 🤖 AI & Claude
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="assets/feed/ai_card_1.svg" width="100%" alt="AI Article 1"/>
-</td>
-<td width="50%" align="center" valign="top">
-<img src="assets/feed/ai_card_2.svg" width="100%" alt="AI Article 2"/>
-</td>
-</tr>
-</table>
-
-### 🔐 Cybersecurity
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="assets/feed/cyber_card_1.svg" width="100%" alt="Cyber Article 1"/>
-</td>
-<td width="50%" align="center" valign="top">
-<img src="assets/feed/cyber_card_2.svg" width="100%" alt="Cyber Article 2"/>
-</td>
-</tr>
-</table>
-
-### ⚡ Tech Advances
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="assets/feed/tech_card_1.svg" width="100%" alt="Tech Article 1"/>
-</td>
-<td width="50%" align="center" valign="top">
-<img src="assets/feed/tech_card_2.svg" width="100%" alt="Tech Article 2"/>
-</td>
-</tr>
-</table>
-
-### 💻 Developer Insights
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="assets/feed/dev_card_1.svg" width="100%" alt="Dev Article 1"/>
-</td>
-<td width="50%" align="center" valign="top">
-<img src="assets/feed/dev_card_2.svg" width="100%" alt="Dev Article 2"/>
-</td>
-</tr>
-</table>
+<!-- FEED:START -->
+<!-- FEED:END -->
 
 ---
 
@@ -146,13 +93,13 @@
 <div align="center">
 
 <a href="https://github.com/TitoKilonzo/CyberScribe"><img src="assets/projects/cyberscribe.svg" width="49%" alt="CyberScribe"/></a>
-<a href="https://github.com/TitoKilonzo"><img src="assets/projects/bongotoons.svg" width="49%" alt="Bongotoons"/></a>
+<a href="https://github.com/TitoKilonzo/Bongotoons"><img src="assets/projects/bongotoons.svg" width="49%" alt="Bongotoons"/></a>
 
-<a href="https://github.com/TitoKilonzo"><img src="assets/projects/nexvault.svg" width="49%" alt="NexVault"/></a>
-<a href="https://github.com/TitoKilonzo"><img src="assets/projects/luminary.svg" width="49%" alt="LUMINARY"/></a>
+<a href="https://github.com/TitoKilonzo/NexVault"><img src="assets/projects/nexvault.svg" width="49%" alt="NexVault"/></a>
+<a href="https://github.com/TitoKilonzo/LUMINARY"><img src="assets/projects/luminary.svg" width="49%" alt="LUMINARY"/></a>
 
 <a href="https://github.com/TitoKilonzo/shift_master"><img src="assets/projects/shift_master.svg" width="49%" alt="Shift Master"/></a>
-<a href="https://github.com/TitoKilonzo"><img src="assets/projects/gmail_sentinel.svg" width="49%" alt="Gmail Sentinel"/></a>
+<a href="https://github.com/TitoKilonzo/Gmail-Sentinel"><img src="assets/projects/gmail_sentinel.svg" width="49%" alt="Gmail Sentinel"/></a>
 
 </div>
 
