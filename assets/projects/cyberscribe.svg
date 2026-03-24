@@ -1,0 +1,40 @@
+<svg width="490" height="150" viewBox="0 0 490 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <filter id="aura" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="490" height="150" rx="12" fill="url(#bg)" stroke="#A78BFA" stroke-opacity="0.25" stroke-width="1" />
+  
+  <!-- Glowing left accent -->
+  <rect x="0" y="25" width="4" height="100" rx="2" fill="#A78BFA" filter="url(#aura)"/>
+  <circle cx="465" cy="25" r="5" fill="#A78BFA" filter="url(#aura)" fill-opacity="0.8"/>
+
+  <!-- Icon and Title -->
+  <text x="25" y="38" font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif" font-size="16" font-weight="bold" fill="#E6EDF3">CyberScribe</text>
+  
+  <!-- Description -->
+  <text x="25" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B949E">Open-source cybersecurity skills library for AI coding agents — 700+</text>
+  <text x="25" y="83" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B949E">structured Markdown skill definitions across 16 domains</text>
+  
+
+  <!-- Stack Badges -->
+  <rect x="25" y="101" width="76.0" height="20" rx="10" fill="#A78BFA" fill-opacity="0.15" />
+  <text x="63.0" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="bold" fill="#A78BFA" text-anchor="middle">Markdown</text>
+  <rect x="109.0" y="101" width="121.0" height="20" rx="10" fill="#A78BFA" fill-opacity="0.15" />
+  <text x="169.5" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="bold" fill="#A78BFA" text-anchor="middle">GitHub Actions</text>
+  
+  
+  <line x1="25" y1="125" x2="465" y2="125" stroke="#21262d" stroke-width="1"/>
+  <text x="25" y="142" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#A78BFA">⭐ Featured Project &#8212; 🌐 View Source</text>
+</svg>

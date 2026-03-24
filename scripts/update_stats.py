@@ -18,7 +18,6 @@ SOURCES = {
         f"https://github-readme-stats.vercel.app/api"
         f"?username={GITHUB_USERNAME}"
         f"&show_icons=true&theme=tokyonight&hide_border=true"
-        f"&count_private=true&include_all_commits=true"
     ),
     "top-langs.svg": (
         f"https://github-readme-stats.vercel.app/api/top-langs"

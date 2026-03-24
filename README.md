@@ -150,16 +150,18 @@
 
 ## Featured Projects
 
-<!-- FEATURED_PROJECTS:START -->
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**CyberScribe**](https://github.com/TitoKilonzo/CyberScribe) | Open-source cybersecurity skills library for AI coding agents — 700+ structured Markdown skill definitions across 16 domains | Markdown, GitHub Actions |
-| [**Bongotoons**](https://github.com/TitoKilonzo) | Netflix/Showmax-style video streaming platform | React, Vite, Appwrite |
-| [**NexVault**](https://github.com/TitoKilonzo) | Fintech dashboard with JWT authentication | React, Node.js, PostgreSQL |
-| [**LUMINARY**](https://github.com/TitoKilonzo) | Financial literacy web library | React, MongoDB Atlas |
-| [**Shift Master**](https://github.com/TitoKilonzo/shift_master) | Cross-platform shift management mobile app | Flutter, Dart |
-| [**Gmail Sentinel**](https://github.com/TitoKilonzo) | Automated email monitoring with SMS alerts | Node.js, Gmail API, Africa's Talking |
-<!-- FEATURED_PROJECTS:END -->
+<div align="center">
+
+<a href="https://github.com/TitoKilonzo/CyberScribe"><img src="assets/projects/cyberscribe.svg" width="49%" alt="CyberScribe"/></a>
+<a href="https://github.com/TitoKilonzo"><img src="assets/projects/bongotoons.svg" width="49%" alt="Bongotoons"/></a>
+
+<a href="https://github.com/TitoKilonzo"><img src="assets/projects/nexvault.svg" width="49%" alt="NexVault"/></a>
+<a href="https://github.com/TitoKilonzo"><img src="assets/projects/luminary.svg" width="49%" alt="LUMINARY"/></a>
+
+<a href="https://github.com/TitoKilonzo/shift_master"><img src="assets/projects/shift_master.svg" width="49%" alt="Shift Master"/></a>
+<a href="https://github.com/TitoKilonzo"><img src="assets/projects/gmail_sentinel.svg" width="49%" alt="Gmail Sentinel"/></a>
+
+</div>
 
 ---
 
