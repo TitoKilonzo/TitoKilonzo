@@ -130,12 +130,20 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="assets/github-stats/stats.svg" alt="GitHub Stats" width="49%" />
-  <img src="assets/github-stats/top-langs.svg" alt="Top Languages" width="49%" />
+  <img src="assets/github-stats/stats.svg" alt="GitHub Stats" height="195" />
+  <img src="assets/github-stats/top-langs.svg" alt="Top Languages" height="195" />
 </div>
 
 <div align="center">
-  <img src="assets/github-stats/streak.svg" alt="GitHub Streak" width="70%" />
+  <img src="assets/github-stats/streak.svg" alt="GitHub Streak" height="195" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-stats/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-stats/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="assets/github-stats/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---

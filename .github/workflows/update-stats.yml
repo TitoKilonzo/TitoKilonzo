@@ -27,6 +27,14 @@ jobs:
       - name: 🚀 Cache stats SVGs
         run: python scripts/update_stats.py
 
+      - name: 🐍 Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-stats/github-contribution-grid-snake.svg?palette=github-light&color_snake=#A78BFA
+            assets/github-stats/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A78BFA
+
       - name: 💾 Commit & push cached SVGs
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
