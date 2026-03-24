@@ -1,4 +1,4 @@
-<svg width="490" height="186" xmlns="http://www.w3.org/2000/svg">
+<svg width="490" height="186" viewBox="0 0 490 186" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#0d1117"/>
@@ -50,6 +50,6 @@
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 20:14 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 20:21 UTC</text>
 
 </svg>
