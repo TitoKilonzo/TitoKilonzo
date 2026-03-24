@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I Built a WordPress Plugin with a Team of 6 AI Agents</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">🏗️ Building a Scalable Two-Tier AWS Infrastructure</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">(It Processes 16,000 Posts in 90 Seconds)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">with Terraform</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Cristian Tala &#183; Mar 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Abhishek Jaiswal &#183; Mar 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I have a problem that no WordPress plugin solves well at</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;If you&apos;re serious about becoming a DevOps / Cloud Engineer ,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">scale. ecosistemastartup.com publishes ~100 posts pe…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">you need to move beyond theory and actually buil…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:36 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:29 UTC</text>
 
 </svg>
