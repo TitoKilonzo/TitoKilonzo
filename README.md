@@ -32,19 +32,18 @@
 
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
-<!-- FEED_TIMESTAMP -->
-> 🕐 **Live Feed Last Refreshed:** `2026-03-24 at 20:21 UTC` — updates automatically every hour via GitHub Actions.
-
+<!-- FEED:START -->
+> 🕐 **Live Feed Last Refreshed:** `2026-03-24 at 20:54 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="assets/feed/ai_card_1.svg" width="100%" alt="AI Article 1"/>
+<a href="https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="assets/feed/ai_card_2.svg" width="100%" alt="AI Article 2"/>
+<a href="https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -54,10 +53,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="assets/feed/cyber_card_1.svg" width="100%" alt="Cyber Article 1"/>
+<a href="https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="assets/feed/cyber_card_2.svg" width="100%" alt="Cyber Article 2"/>
+<a href="https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -67,26 +66,29 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="assets/feed/tech_card_1.svg" width="100%" alt="Tech Article 1"/>
+<a href="https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="assets/feed/tech_card_2.svg" width="100%" alt="Tech Article 2"/>
+<a href="https://www.wired.com/story/can-modular-phone-accessories-finally-evolve-beyond-magsafe/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
 
-### 💻 Developer Insights
+### 💻 Dev Insights
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="assets/feed/dev_card_1.svg" width="100%" alt="Dev Article 1"/>
+<a href="https://dev.to/obtuseaglet/introducing-l-bom-and-gui-bom-16ck"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="assets/feed/dev_card_2.svg" width="100%" alt="Dev Article 2"/>
+<a href="https://dev.to/teamzlab/20-free-browser-tools-that-replace-paid-software-99mo-45fo"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
+
+
+<!-- FEED:END -->
 
 ---
 
