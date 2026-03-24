@@ -14,16 +14,6 @@ GITHUB_USERNAME = "TitoKilonzo"
 OUTPUT_DIR      = "assets/github-stats"
 
 SOURCES = {
-    "stats.svg": (
-        f"https://github-readme-stats.vercel.app/api"
-        f"?username={GITHUB_USERNAME}"
-        f"&show_icons=true&theme=tokyonight&hide_border=true"
-    ),
-    "top-langs.svg": (
-        f"https://github-readme-stats.vercel.app/api/top-langs"
-        f"?username={GITHUB_USERNAME}"
-        f"&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    ),
     "streak.svg": (
         f"https://streak-stats.demolab.com"
         f"?user={GITHUB_USERNAME}&theme=tokyonight&hide_border=true"

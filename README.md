@@ -20,8 +20,6 @@
 ## About Me
 
 - 🎓 BSc Information Technology — **Kabarak University, 2025**
-- 💼 Back-End Developer Intern at **MemeyAI Group**, Nairobi
-- 🏗️ Founder of **SynthLink Technologies** — ICT solutions for SMBs & NGOs
 - 🔭 Currently building **CyberScribe** — an open-source cybersecurity skills library for AI coding agents
 - 🌱 Learning **Advanced System Design, Cloud Architecture & AI/ML**
 - 💬 Ask me about **Python, Django, REST APIs, Node.js, React, Cybersecurity**
@@ -130,11 +128,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="assets/github-stats/stats.svg" alt="GitHub Stats" height="195" />
-  <img src="assets/github-stats/top-langs.svg" alt="Top Languages" height="195" />
-</div>
-
-<div align="center">
   <img src="assets/github-stats/streak.svg" alt="GitHub Streak" height="195" />
 </div>
 
@@ -169,8 +162,6 @@
 
 ```javascript
 const titoKilonzo = {
-  role:        "Back-End Developer Intern @ MemeyAI Group",
-  company:     "SynthLink Technologies (Founder)",
   location:    "Nairobi, Kenya",
   learning:    ["Advanced System Design", "Cloud Architecture", "AI/ML Integration"],
   building:    ["CyberScribe", "Scalable REST APIs", "AI-powered Web Apps"],
