@@ -1,23 +1,59 @@
-<svg width="490" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg width="490" height="204" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="pbg4" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
+    <filter id="glow4" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
-  <rect width="490" height="120" rx="12" fill="url(#pbg4)"/>
-  <rect width="490" height="120" rx="12" fill="none"
-        stroke="#DC2626" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="6,4"/>
-  <rect x="0" y="20" width="3.5" height="80" rx="2" fill="#F87171"/>
-  <text x="245" y="48"
+
+  <!-- Background -->
+  <rect width="490" height="204" rx="12" fill="url(#bg4)"/>
+  <!-- Border -->
+  <rect width="490" height="204" rx="12" fill="none"
+        stroke="#F87171" stroke-width="1.2" stroke-opacity="0.35"/>
+  <!-- Left accent bar -->
+  <rect x="0" y="20" width="3.5" height="164" rx="2" fill="#F87171"/>
+  <!-- Accent corner dot -->
+  <circle cx="472" cy="18" r="5" fill="#DC2626" fill-opacity="0.6"
+          filter="url(#glow4)"/>
+
+  <!-- Category badge -->
+  <rect x="14" y="12" width="123" height="21" rx="10"
+        fill="#DC2626" fill-opacity="0.18"/>
+  <text x="24" y="27"
+        font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
+        font-size="10.5" font-weight="700" fill="#F87171"
+        letter-spacing="0.3">🔐 Cybersecurity</text>
+
+  <!-- Title line 1 -->
+  <text x="14" y="57"
+        font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The Hidden Cost of Cybersecurity Specialization:</text>
+  <!-- Title line 2 -->
+  <text x="14" y="75"
+        font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Losing Foundational Skills</text>
+  <!-- Author & date -->
+  <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="26" text-anchor="middle">🔐</text>
-  <text x="245" y="72"
-        font-family="'Segoe UI', Arial, sans-serif"
-        font-size="12" fill="#8B949E" text-anchor="middle">
-    Fetching latest Cybersecurity news…
-  </text>
-  <text x="245" y="92"
-        font-family="'Courier New', monospace"
-        font-size="9.5" fill="#484F58" text-anchor="middle">&#128336; 16:46 UTC</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Mar 24, 2026</text>
+  <!-- Excerpt line 1 -->
+  <text x="14" y="117"
+        font-family="'Segoe UI', Georgia, serif"
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity has changed fast. Roles are more specialized,</text>
+  <!-- Excerpt line 2 -->
+  <text x="14" y="133"
+        font-family="'Segoe UI', Georgia, serif"
+        font-size="11" fill="#8B949E" font-style="italic">and tooling is more advanced. On paper, this shou…&#8221;</text>
+  <!-- Footer -->
+  <line x1="14" y1="147" x2="476" y2="147"
+        stroke="#21262d" stroke-width="1"/>
+  <text x="14" y="160"
+        font-family="'Courier New', 'Fira Code', monospace"
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 17:20 UTC</text>
+
 </svg>
