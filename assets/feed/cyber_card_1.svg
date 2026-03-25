@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Likely via Trivy CI/CD Compromise</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Trivy CI/CD Compromise</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -54,6 +54,6 @@
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 05:59 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 07:14 UTC</text>
 
 </svg>
