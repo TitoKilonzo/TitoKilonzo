@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Kentucky woman rejects $26M offer to turn her farm</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI’s Sora was the creepiest app on your phone —</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">into a data center</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">now it’s shutting down</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Graham Starr &#183; Mar 24, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Amanda Silberling &#183; Mar 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A &quot;major artificial intelligence company&quot; reportedly offered</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Though the underlying Sora 2 video- and audio-generation</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">a Kentucky family $26 million to build a data ce…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">model is scarily impressive, there was not sustained…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 23:31 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 02:03 UTC</text>
 
 </svg>
