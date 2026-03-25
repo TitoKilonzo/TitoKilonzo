@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Stop Letting AI Be Nice — LLM Sycophancy Mode Is</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Game Engine &amp; 3D Development MCP Servers — Unity,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Killing Your Engineering Thinking</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Unreal, Godot, Roblox, Phaser, and More</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; plasmon &#183; Mar 25, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Grove on Chatforest &#183; Mar 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;AI&apos;s &quot;Nice Mode&quot; Is Wasting Your Time &quot;Great question!&quot;</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;At a glance: 30+ game engine MCP servers across Unity,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">That&apos;s how ChatGPT starts almost every technical conv…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Unreal, Godot, Roblox, web engines, and asset generati…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:14 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:50 UTC</text>
 
 </svg>
