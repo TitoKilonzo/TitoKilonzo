@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-03-26 at 07:06 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-03-26 at 08:54 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -53,10 +53,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/devops_descent/devops-roadmap-2026-42ej"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/mrrscout/what-your-domain-tld-reveals-about-your-business-and-what-we-learned-tracking-22000-sites-4ppc"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/malloc72p/building-a-full-stack-data-grid-app-with-nextjs-prisma-and-ag-grid-1abg"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/ohmygod/the-q1-2026-defi-exploit-autopsy-137m-lost-15-protocols-breached-the-5-root-cause-patterns-and-3o92"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
