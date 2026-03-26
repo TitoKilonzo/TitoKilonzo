@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The AI skills gap is here, says AI company, and power</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Mistral releases a new open source model for speech</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">users are pulling ahead</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">generation</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Rebecca Bellan &#183; Mar 25, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Ivan Mehta &#183; Mar 26, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Anthropic finds AI isn’t replacing jobs yet, but early data</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The model, which lets enterprises build voice agents for</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">shows growing inequality as experienced users gai…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">sales and customer engagement, puts Mistral in direc…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 18:04 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 19:54 UTC</text>
 
 </svg>
