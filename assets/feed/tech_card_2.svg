@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">One Way or Another, Most of Our Electricity Comes From</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Porsche Cayenne Electric Review: A Phenomenally</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Solar Power</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Capable SUV</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Rhett Allain &#183; Mar 27, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Alistair Charlton &#183; Mar 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;That’s good news, since the forecast is sunshine for the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Porsche’s latest electric SUV is its most capable yet, and</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">next 5 billion years.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">its most powerful street car ever. But should you …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 19:39 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 20:37 UTC</text>
 
 </svg>
