@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Angular 22: Mix Signal Forms and Reactive Forms</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Benchmarked 5 File Editing Strategies for AI Coding</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Seamlessly</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Agents. Here&apos;s What Actually Works.</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Brian Treese &#183; Mar 27, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ceyhun Aksan &#183; Mar 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;W hat if you could start using Signal Forms today without</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Yes, the title says &quot;5 strategies&quot; like every other</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">touching your existing Reactive or Template-driven …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">listicle. The number isn&apos;t a framework. It&apos;s just how man…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:05 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:51 UTC</text>
 
 </svg>
