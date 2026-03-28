@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The hidden cost of &quot;let me pull that data for you&quot;</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">6 DeFi APIs That Work Without Registration</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Mads Hansen &#183; Mar 28, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Moon Soon &#183; Mar 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Every data-driven team has an unspoken tax. It&apos;s not a line</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Most DeFi APIs gate access behind API keys, email signups,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">item. It&apos;s not tracked. But it&apos;s real: Engineerin…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">and tiered pricing. For developers prototyping a t…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:26 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:52 UTC</text>
 
 </svg>
