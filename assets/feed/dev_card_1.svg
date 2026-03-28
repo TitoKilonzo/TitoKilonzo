@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Debugging Kubernetes is Painful… So I Built an AI Tool</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Más allá del Chatbot: Arquitectura Modular para</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">to Fix It</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Agentic AI Corporativa y Escalable</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Sumit Purandare &#183; Mar 28, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Aurimas Markunas &#183; Mar 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;🤯 The Problem Debugging Kubernetes is one of the most</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cuando me preguntan en qué ando metido los fines de semana y</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">frustrating parts of DevOps. You check logs. You run ku…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">les enseño los diagramas de mi arquitectura, la …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:50 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:37 UTC</text>
 
 </svg>
