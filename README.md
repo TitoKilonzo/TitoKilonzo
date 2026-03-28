@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-03-27 at 23:31 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-03-28 at 02:02 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/toniantunovic/rsac-2026-every-ai-ide-is-vulnerable-heres-what-that-actually-means-for-your-workflow-69l"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/blake-donovan/supply-chain-security-how-the-telnyx-pypi-compromise-happened-and-how-to-protect-your-projects-dmn"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/tmdlrg/building-an-ai-marketing-platform-sprint-0-retrospective-what-we-built-what-failed-and-how-ai-2p"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/alanwest/why-your-self-hosted-app-keeps-dying-at-3-am-and-how-to-fix-it-5dba"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
