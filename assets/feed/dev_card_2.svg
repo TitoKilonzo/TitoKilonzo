@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Talent Oversupply: How Less Prestigious Firms Can</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Advanced Terraform Module Usage: Versioning, Gotchas,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Attract Top-Tier Candidates Amid Economic Shifts</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">and Reuse Across Environments</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Svetlana Melnikova &#183; Mar 29, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Stephanie Makori &#183; Mar 29, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;System Reconstruction: Talent Oversupply Dynamics The</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Day 9 of my 30-Day Terraform Challenge focused on moving</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">current job market is undergoing a seismic shift, drive…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">beyond basic Terraform modules into more practical, …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:01 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:38 UTC</text>
 
 </svg>
