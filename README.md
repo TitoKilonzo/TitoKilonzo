@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-03-30 at 13:16 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-03-30 at 15:02 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -53,7 +53,7 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/andresclavijo/your-figma-color-system-is-manual-heres-why-that-breaks-at-scale-4b8j"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/rotiferdev/the-agentic-web-needs-evolution-infrastructure-569n"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/plasmon_imp/80-of-llm-thinking-is-a-lie-what-cot-faithfulness-research-actually-shows-2154"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/thelogicwarlock/how-to-be-smart-and-offload-your-job-to-ai-4658"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
