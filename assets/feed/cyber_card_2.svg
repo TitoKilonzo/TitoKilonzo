@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Three China-Linked Clusters Target Southeast Asian</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Russian CTRL Toolkit Delivered via Malicious LNK Files</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Government in 2025 Cyber Campaign</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Hijacks RDP via FRP Tunnels</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Three threat activity clusters aligned with China have</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity researchers have discovered a remote access</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">targeted a government organization in Southeast Asia a…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">toolkit of Russian-origin that&apos;s distributed via ma…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 11:00 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 13:16 UTC</text>
 
 </svg>
