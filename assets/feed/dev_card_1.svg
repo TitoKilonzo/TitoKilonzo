@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I used AI to help build my resume and beat 2,000</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Managing Your Self-Hosted Wallet with the Admin</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">applicants — here&apos;s how</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Dashboard</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Michael &#183; Mar 30, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Wallet Guy &#183; Mar 31, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Back in May 2025, I beat over 2000 applicants to get a</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;You&apos;re running AI agents that need to handle crypto</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">6-figure remote Data Scientist position - with no conn…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">transactions, but there&apos;s a problem: every existing solut…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:33 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:11 UTC</text>
 
 </svg>
