@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Claude Code&apos;s Entire Source Code Just Leaked — 512,000</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Agentic AI Fails in Production for Simple Reasons —</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Lines Exposed</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">What MLDS 2026 Taught Me</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Evan-dong &#183; Mar 31, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; TheProdSDE &#183; Mar 31, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;This morning, the AI community woke up to a bombshell:</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;TL;DR: Most agentic AI failures in production are not caused</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Claude Code&apos;s entire source code was exposed on GitHub…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">by weak models, but by stale data, poor validati…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:15 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:01 UTC</text>
 
 </svg>
