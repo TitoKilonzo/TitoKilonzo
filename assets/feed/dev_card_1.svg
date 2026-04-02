@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">BrewOps: A Production-Grade HTCPCP Dashboard</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Agents are slow</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Sanjay Kumar Sah &#183; Apr 02, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Jakub Dzikowski &#183; Apr 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;This is a submission for the DEV April Fools Challenge What</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Coding with agents definitely gives you more power. With a</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">I Built I built BrewOps , a highly serious, produ…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">couple of sentences in natural language, you can c…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:43 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:10 UTC</text>
 
 </svg>
