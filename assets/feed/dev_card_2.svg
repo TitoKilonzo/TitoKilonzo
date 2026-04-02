@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Claude Code /buddy: The Terminal Tamagotchi That Broke</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Array Data Structure সহজভাবে বুঝুন (Operations + Real-</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">the Internet</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Life Example)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; RAXXO Studios &#183; Apr 02, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Mohammad Al Amin &#183; Apr 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A leaked .npmignore file exposed 512,000 lines of Claude</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;ডাটা স্ট্রাকচার শেখার যাত্রায় Array হলো সবচেয়ে বেসিক এবং</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Code source, revealing a hidden terminal pet called …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">গুরুত্বপূর্ণ একটি টপিক। প্রায় সব প্রোগ্রামিং ভাষাতেই…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:10 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:55 UTC</text>
 
 </svg>
