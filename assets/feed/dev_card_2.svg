@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Angular 22&apos;s New Built-in Debounce for Async</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">From Script-Kiddie to Enterprise: Re-architecting</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Validation Explained</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Python Scraping Tools into Scalable FastMCP Backends</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Brian Treese &#183; Apr 03, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Александр «MBIT» Балаш &#183; Apr 03, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I f you&apos;re using Signal Forms with async validation, you&apos;ve</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;By **Alexandr Balas * (CEO &amp; Chief System Architect,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">probably run into a frustrating issue. You either…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">dlab.md) | March 2026* For over a decade, automation in …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:06 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:52 UTC</text>
 
 </svg>
