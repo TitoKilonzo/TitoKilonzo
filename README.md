@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-04-03 at 10:41 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-04-03 at 11:36 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -69,7 +69,7 @@
 <a href="https://www.wired.com/story/castlery-promo-code/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/anthropic-claude-research-functional-emotions/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/eastra_xue/your-company-is-using-ai-to-skip-junior-hires-youll-regret-that-in-5-years-30hl"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/abojha404/small-bugs-arent-always-about-coding-3ph3"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
