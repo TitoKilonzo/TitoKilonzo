@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Debugging XSLT vs Liquid in VS Code</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Small bugs aren’t always about coding</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Daniel Jonathan &#183; Apr 03, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Abhay Ojha &#183; Apr 03, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Both the XSLT Debugger and DotLiquid Debugger let you step</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I’ve noticed something interesting while working on bugs.</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">through a template and inspect variables. But they…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Most of the time, the issue isn’t that the code is …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:51 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:41 UTC</text>
 
 </svg>
