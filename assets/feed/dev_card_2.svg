@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Debugging Filestash &apos;Invalid Account&apos;: How Response</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">easy-live2d v0.4.0: A Milestone Release for Live2D on</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Time Led Me to a Swapped Config Field</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">the Web</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Johnson &#183; Apr 04, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; 老船长PZ_Jack &#183; Apr 04, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Problem Filestash&apos;s passthrough auth returns &quot;Invalid</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;easy-live2d v0.4.0: A Milestone Release for Live2D on the</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">account&quot; on login. The backend is configured to for…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Web After months of work, easy-live2d v0.4.0 is fin…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:32 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:30 UTC</text>
 
 </svg>
