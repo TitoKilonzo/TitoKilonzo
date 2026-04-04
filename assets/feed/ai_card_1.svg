@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI executive shuffle includes new role for COO</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic is having a moment in the private markets;</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Brad Lightcap to lead ‘special projects’</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">SpaceX could spoil the party</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Amanda Silberling &#183; Apr 03, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Connie Loizos &#183; Apr 04, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;In addition to Lightcap&apos;s new role, OpenAI CMO Kate Rouch</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Glen Anderson, president of Rainmaker Securities, says the</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">will be stepping away from the company to focus on …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">secondary market for private shares has never been…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 23:32 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 02:01 UTC</text>
 
 </svg>
