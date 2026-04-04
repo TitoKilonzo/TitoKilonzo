@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The Programmer&apos;s Fulcrum: 03 April, 2026</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Automating Repetitive Tasks with Workany</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Reuben Walker, Jr. &#183; Apr 04, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Stelixx Insider &#183; Apr 04, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Welcome to this week&apos;s The Programmer&apos;s Fulcrum. It&apos;s your</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Automating the Mundane: An Introduction to Workany Are you</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">weekly review of the essential news in the Open Me…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">tired of the endless cycle of repetitive computer …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:32 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:28 UTC</text>
 
 </svg>
