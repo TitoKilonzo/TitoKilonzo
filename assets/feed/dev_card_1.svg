@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How Photography Rebuilt My Brain After a Traumatic</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Built an MCP Server That Understands Your MSBuild</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Injury</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Project Graph — Before You Build</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Biricik Biricik &#183; Apr 04, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Florin Vica &#183; Apr 04, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The doctors told me it would take time. They said speech</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Ask your AI coding assistant about your .NET solution</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">would come back gradually. What they didn&apos;t say — wh…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">structure and watch it hallucinate. It&apos;ll guess at proj…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:40 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:29 UTC</text>
 
 </svg>
