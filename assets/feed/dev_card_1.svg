@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I Built a Cross-Platform Price Comparison Tool for</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How to publish a Power BI report and embed it in a</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Retail Arbitrage</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">website.</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; SHOTA &#183; Apr 05, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; muriithilydia46-wq &#183; Apr 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Retail arbitrage is conceptually simple: buy a product on</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Power BI is a tool created by Microsoft to turn raw data</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">one platform where it&apos;s cheap, sell it on another w…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">into interactive insights. The publishing process en…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:37 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:32 UTC</text>
 
 </svg>
