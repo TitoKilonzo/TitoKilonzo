@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Tailwind CSS in Micro Frontend Monorepo — Setup Guide</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">GitHub Actions: The Stuff Nobody Tells You</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Srinu Web developer &#183; Apr 05, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Andrea Liliana Griffiths &#183; Apr 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;// Production build output: // styles.css — 0 classes</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;GitHub Actions: The Stuff Nobody Tells You I work at GitHub.</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">generated // ERROR: @tailwind directives treated as pla…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">I use Actions every day. I&apos;ve also debugged YAML…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:28 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:54 UTC</text>
 
 </svg>
