@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Cilium&apos;s ipcache scalability issue: Understanding</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Your Pipeline Is 22.2h Behind: Catching Finance</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">identity distribution in Kubernetes clusters for…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Sentiment Leads with Pulsebit</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Alina Trofimova &#183; Apr 06, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Pulsebit News Sentiment API &#183; Apr 06, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Introduction: The Cilium ipcache Scalability Challenge</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Your Pipeline Is 22.2h Behind: Catching Finance Sentiment</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Cilium’s ipcache , a critical component for enforcing …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Leads with Pulsebit We recently uncovered a strikin…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:55 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:47 UTC</text>
 
 </svg>
