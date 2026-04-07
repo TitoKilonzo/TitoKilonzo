@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Prisma Migrations in Production: Zero-Downtime</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">You’re probably leaking sensitive data every time you</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Strategies and Rollback Patterns</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">use online dev tools</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Atlas Whoff &#183; Apr 07, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Andrew Rozumny &#183; Apr 07, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Prisma Migrations in Production: Zero-Downtime Strategies</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Most developers don’t think twice before pasting data into</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">and Rollback Patterns Running prisma migrate deploy…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">online tools. JSON formatters, JWT decoders, base6…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:00 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:53 UTC</text>
 
 </svg>
