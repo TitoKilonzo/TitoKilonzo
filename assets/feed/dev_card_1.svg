@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Compress your LLM&apos;s KV cache 33x with zero training</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Zero Trust Requires IAM Hygiene, Not Just Products</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; João André Gomes Marques &#183; Apr 07, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Amit Malhotra &#183; Apr 07, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Running out of GPU memory at long context lengths? The KV</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Zero Trust Isn&apos;t a Product — It&apos;s What Happens When You</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">cache grows linearly with sequence length — at 128K…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Actually Review IAM Most GCP organizations I assess h…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:16 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:06 UTC</text>
 
 </svg>
