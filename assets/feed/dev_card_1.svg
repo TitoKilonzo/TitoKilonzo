@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">5 Ways to Match AliExpress Product Variants — LLM,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Switched to Stacked PRs. My Team Reviews Code in</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Embedding, Vision, Rules, and Why I Chose None of…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Hours, Not Days.</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; lofder.issac &#183; Apr 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Aditya Agarwal &#183; Apr 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;TL;DR — I compared 5 technical approaches for matching</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I used to open PRs with 800 lines changed and wonder why my</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">product variants across AliExpress suppliers: string r…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">team took two days to review them. I am one of th…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:21 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:08 UTC</text>
 
 </svg>
