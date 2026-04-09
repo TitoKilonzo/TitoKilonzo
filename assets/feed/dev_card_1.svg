@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Building a Casino Management System: Architecture,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Tired of All the Agent Access Formats And I Built a</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Data Flow, and RFID Integration</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OneKey Gateway as omni converter to Ship APIs as MCPs…</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; CTSOK &#183; Apr 09, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; AI-Hub-Admin &#183; Apr 09, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A Casino Management System (CMS) is a real-time distributed</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Hey dev community 👋 As the agent ecosystem keeps growing,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">system that connects physical gaming tables with …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">I’ve noticed a recurring problem: You might have on…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:06 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:08 UTC</text>
 
 </svg>
