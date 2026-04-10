@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">EasyPollVote [Dev Log #1]</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Security news weekly round-up - 10th April 2026</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; FrancisTRᴅᴇᴠ (っ◔◡◔)っ &#183; Apr 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Habdul Hazeez &#183; Apr 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Welcome to the First DEV LOG! Welcome to my first Dev Log of</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Five articles. Five different topics. All here to inform you</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">my full stack application called EasyPollVote (E…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">because they are worthy of your time. Will you c…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:34 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:35 UTC</text>
 
 </svg>
