@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How I Built a Tinder-Style Group Decision App with</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Perpetual Engine Series Part 2: Real-Time PnL</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">React Native and Firebase</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Calculation 📈</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; networkingguru &#183; Apr 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Sumana &#183; Apr 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;My wife and I have a problem (no, not THAT kind of problem).</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;In Part 1, we explored Liquidation Logic —the safety net</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">It&apos;s the same problem every couple has: nobody c…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">that prevents exchange insolvency. But for that safe…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:46 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:54 UTC</text>
 
 </svg>
