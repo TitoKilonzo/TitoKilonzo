@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">EngageLab SDK Flaw Exposed 50M Android Users,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Backdoored Smart Slider 3 Pro Update Distributed via</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Including 30M Crypto Wallet Installs</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Compromised Nextend Servers</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Apr 09, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Apr 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Details have emerged about a now-patched security</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Unknown threat actors have hijacked the update system for</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">vulnerability in a widely used third-party Android software…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">the Smart Slider 3 Pro plugin for WordPress and Joo…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 07:25 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 09:07 UTC</text>
 
 </svg>
