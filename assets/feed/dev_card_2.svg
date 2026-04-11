@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Twill.ai y el sueño de &apos;delegá a un agente, recibí un</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Hosting a Static Website on AWS with S3 and CloudFront</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">PR&apos;: yo ya lo viví y fue más raro de lo que parece</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">using Terraform</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Juan Torchia &#183; Apr 11, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Atul Vishwakarma &#183; Apr 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Eran las 11:47pm y tenía un PR abierto de un agente</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;From Terraform Basics to Real-World Deployment 🚀 As part of</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">esperando merge. El pipeline estaba verde. Los tests pasa…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">my 30 Days of AWS Terraform challenge , Day 14 ma…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:35 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:29 UTC</text>
 
 </svg>
