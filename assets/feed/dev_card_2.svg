@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">In the AI age, Java is more relevant than ever</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Top 10 Mistakes When Migrating Sylius to 2.0</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; 0x41414141 &#183; Apr 11, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Pierre-Arthur DEMENGEL &#183; Apr 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Powerful, scalable, reliable, cost-efficient, and ready to</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;After helping several teams plan their Sylius 1.x → 2.0</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">be your next AI language, Java can help modernize …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">migration, I&apos;ve seen the same mistakes come up again …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:33 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:31 UTC</text>
 
 </svg>
