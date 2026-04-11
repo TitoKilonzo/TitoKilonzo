@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Stop Leaving Your Servers Open: Hardening Linux in 5</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I rewrote my encrypted form tool because I was tired</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Minutes with Ansible</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">of Cloudflare owning my setup</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Muhammad Kamran Kabeer &#183; Apr 11, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; grayguava &#183; Apr 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Hello, World! I’m Muhammad Kamran Kabeer. As an IT</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;formseal-embed is a drop-in utility for client side</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Instructor and the founder of MK EduOps Solutions, I often…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">encrypted contact forms. You drop it in, it encrypts subm…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 04:53 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:59 UTC</text>
 
 </svg>
