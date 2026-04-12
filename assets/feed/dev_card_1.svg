@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I stopped trying to learn every DevOps tool. So I</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Stopped Using AI Tools for 30 Days. Here&apos;s What I</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">built my own.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Learned About Myself as a Developer. 🚫🤖</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Alvarito1983 &#183; Apr 12, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; mamoor123 &#183; Apr 12, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;ve been a Systems Administrator for 15 years. In that time</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;In January, I made a bet with myself: No Copilot. No</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">I&apos;ve learned more tools than I can count. Portai…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">ChatGPT. No Claude. No AI-assisted anything for 30 days.…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:01 UTC</text>
 
 </svg>
