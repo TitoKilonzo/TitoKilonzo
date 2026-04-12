@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Is Making Developers Lazy — and 10x More Powerful.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">KMP Native UI Login and Profile screens, navigation,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Here’s Why Both Are True</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">and more</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Vexosoft &#183; Apr 12, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Saad Alkentar &#183; Apr 12, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;There’s a quiet debate happening inside engineering teams</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;We are all set now. Our KMP Native UI app is fully</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">right now. You can feel it in code reviews, hiring …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">configured with Koin dependency injection Ktor networking …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:37 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:33 UTC</text>
 
 </svg>

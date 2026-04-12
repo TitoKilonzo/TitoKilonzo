@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-04-12 at 16:37 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-04-12 at 17:33 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/vexosoft_27/ai-is-making-developers-lazy-and-10x-more-powerful-heres-why-both-are-true-1j4p"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/saad4software/kmp-native-ui-login-and-profile-screens-navigation-and-more-1461"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/ksingh2141/understanding-python-selenium-architecture-4db9"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/leonardopinezi/ardubios-news-2mcb"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
