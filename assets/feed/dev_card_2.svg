@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">5 Engineering Decisions That Made Godot the Fastest-</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">🗺️ Fixing Ola Web’s Cramped Map — and Why Small UX</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Growing Game Engine</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Gaps Ship to Production</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Ziva &#183; Apr 13, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; CinfiniteDev &#183; Apr 13, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Godot went from 47 game releases on Steam in 2020 to over</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;So, I was using the Ola web app recently and ran into</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">1,500 in 2025 . Slay the Spire 2, built on Godot af…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">something just… odd. The map — arguably the most import…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:41 UTC</text>
 
 </svg>
