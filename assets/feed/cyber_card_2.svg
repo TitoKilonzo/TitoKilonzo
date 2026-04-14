@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">FBI and Indonesian Police Dismantle W3LL Phishing</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">CISA Adds 6 Known Exploited Flaws in Fortinet,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Network Behind $20M Fraud Attempts</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Microsoft, and Adobe Software</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Apr 13, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Apr 14, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The U.S. Federal Bureau of Investigation (FBI), in</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The U.S. Cybersecurity and Infrastructure Security Agency</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">partnership with the Indonesian National Police, has disma…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">(CISA) on Monday added half a dozen security flaws …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 05:21 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 07:28 UTC</text>
 
 </svg>
