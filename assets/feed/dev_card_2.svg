@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How I Translated a Technical Ebook from Spanish to</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Dependency: That One Line in build.gradle You Copy</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">English with Semantic QA in Python</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Without Thinking? Let&apos;s Actually Understand It.</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; German Yamil &#183; Apr 15, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Aalaa Fahiem &#183; Apr 15, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;When I decided to publish a technical ebook in English after</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;You know the drill. You want to add Retrofit to your</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">writing it in Spanish, my first instinct was to …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">project. You Google &quot;add Retrofit Android.&quot;, take it fro…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:50 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:39 UTC</text>
 
 </svg>
