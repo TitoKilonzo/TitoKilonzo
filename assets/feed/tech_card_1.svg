@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Two-year-old Surface PCs get $300 price hikes as</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Could Democratize One of Tech&apos;s Most Valuable</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">sub-$1,000 models go away</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Resources</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Andrew Cunningham &#183; Apr 14, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Will Knight &#183; Apr 15, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;&quot;Paying more for the same stuff&quot; is the story of consumer</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;AI is making it easier to design chips and optimize software</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">technology in 2026.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">for different silicon. Some startups envision a …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 17:01 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 19:14 UTC</text>
 
 </svg>
