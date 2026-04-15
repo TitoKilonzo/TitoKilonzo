@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">SFMC Data Extension Sync: Monitoring Hidden Delays</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Leetcode # 107. Binary Tree Level Order Traversal II</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; MarTech Monitoring &#183; Apr 15, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Hector Williams &#183; Apr 15, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;SFMC Data Extension Sync: Monitoring Hidden Delays Marketing</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Problem Given the root of a binary tree, return the bottom-</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">campaigns fail in silence more often than they f…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">up level order traversal of its nodes&apos; values. (i.…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:14 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:45 UTC</text>
 
 </svg>
