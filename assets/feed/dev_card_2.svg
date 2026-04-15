@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Building a RAG Pipeline on Your Existing Django App: A</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Frontend Isn’t Getting More Complex — The Boundaries</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Practical Guide</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Are Getting Blurry</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Lycore Development &#183; Apr 15, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Rohith &#183; Apr 15, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;You have a Django app. You want to add AI-powered search or</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Frontend used to feel complex because: there were many</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">a chatbot that actually knows about your data — n…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">distinct parts each layer had a clear responsibility b…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:05 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:01 UTC</text>
 
 </svg>
