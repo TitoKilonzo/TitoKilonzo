@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Don’t let AI do your thinking: a practical guide for</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Multi-Agent A2A with the Agent Development Kit(ADK),</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">engineers</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AWS Lightsail, and Gemini CLI</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Julien Avezou &#183; Apr 16, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; xbill &#183; Apr 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I designed a &quot;Thinking Guide&quot; for engineers building with</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Leveraging the Google Agent Development Kit (ADK) and the</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">AI. And looking for your feedback. We’re entering a…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">underlying Gemini LLM to build Multi-Agent Applicat…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:01 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:26 UTC</text>
 
 </svg>
