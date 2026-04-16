@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">InsightFinder raises $15M to help companies figure out</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic CPO leaves Figma’s board after reports he</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">where AI agents go wrong</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">will offer a competing product</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Ram Iyer &#183; Apr 16, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Tim Fernholz &#183; Apr 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;According to CEO Helen Gu, the biggest problem facing the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Krieger&apos;s departure and any forthcoming design tools will be</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">industry today is not just monitoring and diagnosin…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">another data point for investors who fear the Sa…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 17:12 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 19:10 UTC</text>
 
 </svg>
