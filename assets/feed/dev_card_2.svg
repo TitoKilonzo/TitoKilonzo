@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Multi-Agent A2A with the Agent Development Kit(ADK),</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How I put my open dataset on the Wikidata knowledge</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Amazon ECS Express, and Gemini CLI</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">graph (and why you should too)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; xbill &#183; Apr 17, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; DecDEPO &#183; Apr 17, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Leveraging the Google Agent Development Kit (ADK) and the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Last week we released the Swedish Construction FAQ — 503</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">underlying Gemini LLM to build Multi-Agent Applicat…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">bilingual Q&amp;A pairs, CC BY 4.0, DOI 10.5281/zenodo.1…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:53 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:59 UTC</text>
 
 </svg>
