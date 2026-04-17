@@ -32,7 +32,7 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic Plots Major London Expansion</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The UK Launches Its $675 Million Sovereign AI Fund</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -40,16 +40,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;As tensions with the US government mount, Anthropic has</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;In a bid to minimize dependence on technology from other</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">leased a new office with enough space to quadruple it…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">countries, the UK government is plowing resources in…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 02:28 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 05:26 UTC</text>
 
 </svg>
