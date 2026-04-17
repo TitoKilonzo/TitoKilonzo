@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I Let an AI Agent Supervisor Run Unattended for 19</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Weekly — 2026/04/10–04/17 | The Model Lockdown Is</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Days. Here&apos;s What the Telemetry Says.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Here, but the Toolchain Is the Real Battleground</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Batty &#183; Apr 16, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Yang Goufang &#183; Apr 17, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I shipped 13 releases of my AI agent supervisor in 14 days</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;One-line summary: Frontier models are no longer public goods</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">while the supervisor was running it. For 19 days —…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">anyone can touch — Anthropic and OpenAI are tigh…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:38 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:28 UTC</text>
 
 </svg>
