@@ -104,53 +104,65 @@
 
 <div align="center">
 
-  <!-- ── Trophies ── -->
+  <!-- ── Trophies (full width) ── -->
   <img
     src="https://github-profile-trophy.vercel.app/?username=TitoKilonzo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"
-    alt="GitHub Trophies"
+    alt="Trophies"
     width="100%"
   />
 
-  <br/>
+  <br/><br/>
 
-  <!-- ── Stats + Top Languages ── -->
+  <!-- ── Stats + Languages ── -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&ring_color=58A6FF"
+    src="https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9"
     alt="GitHub Stats"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
     alt="Top Languages"
     height="170"
   />
 
-  <br/>
+  <br/><br/>
 
-  <!-- ── Activity Graph ── -->
+  <!-- ── Contribution Activity Graph (snake replacement) ── -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TitoKilonzo&bg_color=0D1117&color=58A6FF&line=3FB950&point=F78166&area=true&area_color=58A6FF&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TitoKilonzo&bg_color=0D1117&color=58A6FF&line=3FB950&point=F78166&area=true&area_color=58A6FF&hide_border=true&radius=6"
     alt="Contribution Graph"
     width="100%"
   />
 
-  <br/>
+  <br/><br/>
 
-  <!-- ── Contribution Snake ── -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TitoKilonzo/TitoKilonzo/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TitoKilonzo/TitoKilonzo/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/TitoKilonzo/TitoKilonzo/output/github-snake-dark.svg"
-    />
-  </picture>
+  <!-- ── Profile Summary Cards (2x2 grid) ── -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TitoKilonzo&theme=github_dark"
+    alt="Profile Details"
+    width="100%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TitoKilonzo&theme=github_dark"
+    alt="Stats"
+    height="150"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TitoKilonzo&theme=github_dark&utcOffset=3"
+    alt="Productive Time"
+    height="150"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TitoKilonzo&theme=github_dark"
+    alt="Repos Per Language"
+    height="150"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TitoKilonzo&theme=github_dark"
+    alt="Most Commit Language"
+    height="150"
+  />
 
 </div>
 
