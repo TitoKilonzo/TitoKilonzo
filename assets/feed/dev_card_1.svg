@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Building Apps That Act on Behalf of OSC Users (OAuth +</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Built a TikTok Downloader with Go — Here&apos;s What I</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">PKCE in 50 Lines)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Learned</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Jonas Birmé &#183; Apr 18, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Thanh Duc &#183; Apr 18, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Most cloud platforms lock you into a single-tenant model.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Why I Built ClipTool I needed a simple way to download</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Your app gets one set of credentials. Every user&apos;s …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">TikTok videos without watermarks. Every existing tool …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:45 UTC</text>
 
 </svg>
