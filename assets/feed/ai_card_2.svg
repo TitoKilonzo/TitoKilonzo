@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI chip startup Cerebras files for IPO</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The 12-month window</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Anthony Ha &#183; Apr 18, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Connie Loizos &#183; Apr 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;In recent months, the company announced an agreement with</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A lot of AI startups exist partly because the foundation</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Amazon Web Services to use Cerebras chips in Amazon…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">models haven&apos;t expanded into their category yet. As …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 20:35 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 21:34 UTC</text>
 
 </svg>
