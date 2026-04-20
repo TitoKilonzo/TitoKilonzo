@@ -106,7 +106,7 @@
 
   <!-- ── Trophies (full width) ── -->
 <img
-    src="https://github-profile-trophy.vercel.app/?username=TitoKilonzo&theme=onestar&no-frame=true&margin-w=6&column=7"
+    src="https://github-profile-trophy-kannan.vercel.app/?username=TitoKilonzo&theme=onedark&no-frame=true&margin-w=6&column=7"
     alt="Trophies"
     width="100%"
   />
