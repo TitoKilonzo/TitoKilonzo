@@ -104,12 +104,12 @@
 
 <div align="center">
 
-  <!-- ── Trophies (full width) ── -->
-<img
-    src="https://github-profile-trophy-kannan.vercel.app/?username=TitoKilonzo&theme=onedark&no-frame=true&margin-w=6&column=7"
-    alt="Trophies"
-    width="100%"
-  />
+<!-- ── Profile Badges (shields.io — rock solid) ── -->
+  <img src="https://img.shields.io/github/followers/TitoKilonzo?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/TitoKilonzo?label=Total%20Stars&style=for-the-badge&color=3FB950&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Backend-F78166?style=for-the-badge&labelColor=0D1117&logo=shield" />
+  <img src="https://img.shields.io/badge/Based%20In-Nairobi%2C%20Kenya-3FB950?style=for-the-badge&labelColor=0D1117&logo=googlemaps" />
+  <img src="https://komarev.com/ghpvc/?username=TitoKilonzo&style=for-the-badge&color=58A6FF&label=Profile+Views&abbreviated=true" />
 
   <br/><br/>
 
