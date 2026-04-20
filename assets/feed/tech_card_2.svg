@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">$25,000 buys plenty of used EVs: Here are some options</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Jonathan M. Gitlin &#183; Apr 17, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Boone Ashworth &#183; Apr 18, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Is $20,000–$25,000 a sweet spot for secondhand electric</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Schematik is a program that aims to help people vibe code</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">cars? We think so.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">for physical devices. Hopefully, it won’t blow anyt…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 14:49 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 16:07 UTC</text>
 
 </svg>
