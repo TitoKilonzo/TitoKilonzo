@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">New Android RATs Emerge &amp; More</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Malicious GGUF Model Files</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Monday’s recap shows the same pattern in different places. A</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A critical security vulnerability has been disclosed in</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">third-party tool becomes a way in, then leads to…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">SGLang that, if successfully exploited, could result …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 17:55 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 19:07 UTC</text>
 
 </svg>
