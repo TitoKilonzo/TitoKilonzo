@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Ransomware Negotiator Pleads Guilty to Aiding BlackCat</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">22 BRIDGE:BREAK Flaws Expose 20,000 Lantronix and</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Attacks in 2023</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Silex Serial-to-IP Converters</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A third individual who was employed as a ransomware</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity researchers have identified 22 new</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">negotiator has pleaded guilty to conducting ransomware at…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">vulnerabilities in popular models of serial-to-IP…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 15:11 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 16:59 UTC</text>
 
 </svg>
