@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Kiwi-chan&apos;s Log: The Oak Log Obstacle Course</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">MiniScript Weekly News — April 22, 2026</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; kiwi_tech &#183; Apr 22, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; JoeStrout &#183; Apr 22, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Okay, folks, buckle up! It&apos;s been a long four hours with</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Development Updates MiniScript 2 made a big step forward</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Kiwi-chan. We&apos;re still stuck in the &quot;gather oak logs…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">this week with the new error type landing in the lan…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:45 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:43 UTC</text>
 
 </svg>
