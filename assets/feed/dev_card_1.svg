@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Strip Location Data From Your Photos Before Posting —</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">We Built a Thumbnail Generator API — $0.010 Per</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Here&apos;s the Browser Tool That Does It</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Thumbnail</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; monkeymore studio &#183; Apr 22, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Om Prakash &#183; Apr 22, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Every photo you take carries a hidden backpack of metadata.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Every YouTuber has the same problem: good thumbnail</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Camera model, lens settings, GPS coordinates, tim…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">designers are expensive and slow. Freelancers charge Rs 5…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:27 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:24 UTC</text>
 
 </svg>

@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI research lab NeoCognition lands $40M seed to build</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">SpaceX is working with Cursor and has an option to buy</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">agents that learn like humans</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">the startup for $60B</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Marina Temkin &#183; Apr 21, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Tim Fernholz &#183; Apr 21, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Founded by an OSU researcher, the startup is developing AI</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The move could shore up weaknesses at each company, but it</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">agents that can become experts in any domain.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">also reveals them. Neither Cursor nor xAI has prop…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 02:27 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 05:24 UTC</text>
 
 </svg>
