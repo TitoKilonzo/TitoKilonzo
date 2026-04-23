@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Tesla reports Q1 2026 earnings: Still profitable</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">BMW bumps the 7 Series for 2027, adds all-new battery</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Jonathan M. Gitlin &#183; Apr 22, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Stephen Edelstein &#183; Apr 23, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Car sales are up, battery sales and emissions credits are</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The 2027 7 Series is available as an EV, with an inline-six,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">down.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">or an inline-six PHEV.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 13:25 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 15:51 UTC</text>
 
 </svg>
