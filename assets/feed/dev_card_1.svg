@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The Industry Quietly Killed Junior Developer Jobs</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">LuxTorrent – a simple and lightweight torrent client 🟢</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Pavel Polívka &#183; Apr 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; daexoum &#183; Apr 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Path That Used to Exist A few years ago, the path into</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I made a lightweight torrent client with a focus on</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">tech felt almost predictable. You learned how to c…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">simplicity and a clean interface. It started as a persona…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:50 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:44 UTC</text>
 
 </svg>
