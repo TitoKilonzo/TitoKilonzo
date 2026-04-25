@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I open-sourced my SaaS starter — here&apos;s the part I</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How to Create 360 Panoramas with GPT Image 2 and View</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">didn&apos;t</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Them Interactively</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; sean brydon &#183; Apr 25, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Aral Roca &#183; Apr 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;ve started the same SaaS project maybe a dozen times.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;What you will learn This tutorial covers how to generate</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Workspaces. Members. Roles. Billing webhooks. The &quot;di…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">360-degree equirectangular panorama images using GPT…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:34 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:35 UTC</text>
 
 </svg>
