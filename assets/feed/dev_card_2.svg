@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Technical Report: EU AI Act Code Footprint Analysis</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">String program</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Kuziva Muzondo &#183; Apr 26, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; PRIYA K &#183; Apr 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;As of April 26, 2026, the AI industry is 98 days from the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;1. Remove extra space name = &quot; priya working as software</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">original August 2 enforcement deadline for high-ris…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">developer &quot; result = &quot;&quot; i = 0 while i len ( name ): …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:37 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:38 UTC</text>
 
 </svg>
