@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Repairing a Broken PDF in Rust — Rebuilding the XREF</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Architecting Agentic AI Applications: The Complete</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Table From Scratch</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Engineering Guide</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; hiyoyo &#183; Apr 28, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Seenivasa Ramadurai &#183; Apr 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;All tests run on an 8-year-old MacBook Air. Some PDFs won&apos;t</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Introduction There is a gap most engineering teams discover</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">open. Not because the content is gone — because t…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">too late. The prototype works . The demo impresse…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:45 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:58 UTC</text>
 
 </svg>
