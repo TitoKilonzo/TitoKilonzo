@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Information Wants to be Free</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Agentic Web Email Infrastructure</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; James Sargent &#183; Apr 28, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Francisco Perez &#183; Apr 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;&quot;On the one hand, information wants to be expensive, because</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Your agent is three steps away from completing a</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">it&apos;s so valuable. On the other hand, information…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">registration. It filled out the form, submitted it, and got…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:15 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:14 UTC</text>
 
 </svg>
