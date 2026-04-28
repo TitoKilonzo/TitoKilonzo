@@ -33,17 +33,17 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-04-28 at 16:49 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-04-28 at 18:15 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -53,10 +53,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/gabrielanhaia/ddd-in-go-without-the-bureaucracy-aggregates-not-abstractions-4p2k"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/sargentjamesa/information-wants-to-be-free-12fl"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/robeltdp/i-built-soul-a-tiny-compiled-language-that-generates-22kb-binaries-heres-what-i-learned-4cd5"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/arysmart/i-wanted-jq-with-memory-time-ranges-and-filters-so-i-built-logdive-2j13"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>

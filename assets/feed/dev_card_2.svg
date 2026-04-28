@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I built Soul, a tiny compiled language that generates</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I wanted jq with memory, time ranges, and filters. So</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">~22KB binaries — here&apos;s what I learned</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I built logdive</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; RobeLTDP &#183; Apr 28, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Arya Gorjipour &#183; Apr 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;ve been working on a small compiled language called Soul.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Your app is in production. Something broke at 2am. Your</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">It didn&apos;t start from benchmarking existing tools.…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">options are: grep through a rotated log file, squinti…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:49 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:15 UTC</text>
 
 </svg>
