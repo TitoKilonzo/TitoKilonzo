@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Get Ready for More Brain-Scanning Consumer Gadgets</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How AI Could Help Combat Antibiotic Resistance</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Julian Chokkattu &#183; Apr 28, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Emily Mullin &#183; Apr 29, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Neurable, which makes noninvasive brain-computer interfaces,</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;At WIRED Health, British surgeon Ara Darzi said AI is set to</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">is licensing its technology and promises a “floo…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">transform the diagnosis and treatment of drug-re…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 06:21 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 09:07 UTC</text>
 
 </svg>
