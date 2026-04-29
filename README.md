@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-04-29 at 22:55 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-04-29 at 23:53 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/bradleymatera/why-im-cautious-about-ai-gateways-after-my-bifrost-collaboration-18pj"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/midnight-aliit/building-on-midnight-with-windows-a-real-developers-wsl2-setup-guide-om6"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/bradleymatera/research-bifrost-maxim-ai-h3-labs-inc-why-its-governance-architecture-is-a-single-point-2j43"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/zadro/move-over-python-php-is-the-sleeping-giant-of-ai-agents-577b"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
