@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">This Treatment Could Reverse Osteoarthritis Joint</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The Next Alzheimer’s Breakthrough Will Take More Than</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Damage With a Single Injection</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Just Science</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Javier Carbajal &#183; May 01, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Anna McKie &#183; May 01, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Osteoarthritis has no cure, but researchers have developed</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;At WIRED Health, pioneering Alzheimer&apos;s researcher John</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">new therapies that help aging or damaged joints re…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Hardy outlined the stakes—and next steps—of where tre…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 18:03 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 20:02 UTC</text>
 
 </svg>
