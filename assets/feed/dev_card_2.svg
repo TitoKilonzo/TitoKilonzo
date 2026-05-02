@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How to Backtest Crypto Strategies by Market Regime</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How I Built VoteWise AI: Gamifying Democracy with</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">(With Real Data)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Next.js &amp; Gemini 2.5 Flash 🗳️</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Gunnar Thorderson &#183; May 02, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ayushi Bhadani &#183; May 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;How to Backtest Crypto Strategies by Market Regime (With</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Democracy is beautiful, but let&apos;s be honest: understanding</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Real Data) Your backtest says Sharpe 2.0. You deploy…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">elections can be overwhelmingly complex. Between c…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:04 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:50 UTC</text>
 
 </svg>
