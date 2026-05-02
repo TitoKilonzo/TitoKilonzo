@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">You’re Not Bad at Programming. You Just Escape When It</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Solana Week 2: From Terminal Logs to a Live Browser</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Gets Hard.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Dashboard</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Yogya Goyal &#183; May 02, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Shaun &#183; May 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Most developers don’t fail because they’re incapable. They</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I just finished my second week of the #100DaysOfSolana</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">fail at the exact same point: when things stop mak…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">challenge, and it’s been a massive shift in perspectiv…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:41 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:56 UTC</text>
 
 </svg>
