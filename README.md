@@ -114,16 +114,6 @@
   <br/><br/>
 
   <!-- ── Stats + Languages ── -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    alt="Top Languages"
-    height="170"
-  />
 
   <br/><br/>
 
