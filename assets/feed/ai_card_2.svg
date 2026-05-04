@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Elon Musk sent ominous texts to Greg Brockman, Sam</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Elon Musk’s only AI expert witness at the OpenAI trial</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Altman after asking for a settlement, OpenAI claims</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">fears an AGI arms race</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Julie Bort, Tim Fernholz &#183; May 04, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Tim Fernholz &#183; May 04, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Musk texted OpenAI&apos;s president and co-founder saying that he</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Stuart Russell is a long-time AI researcher who thinks</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">and CEO Sam Altman &quot;will be the most hated men i…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">governments need to restrain frontier labs.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 20:13 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 21:58 UTC</text>
 
 </svg>
