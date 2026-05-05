@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI is pulling up the ladder on junior devs and seniors</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Advanced Permissions for Umbraco: Advanced Control for</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">don&apos;t care</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Complex Scenarios</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Aditya Agarwal &#183; May 05, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Luuk Peters &#183; May 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Last week someone shared that &quot;AI just killed 2 frontend</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Quick note: I write these blogs myself, AI only redacts</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">devs from my team&quot; and when the juniors panicked abo…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">them. I&apos;m excited to announce that I just released my…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:16 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:01 UTC</text>
 
 </svg>
