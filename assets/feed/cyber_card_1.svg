@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Palo Alto PAN-OS Flaw Under Active Exploitation</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">DoS and Potential RCE</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Enables Remote Code Execution</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; May 05, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; May 06, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Apache Software Foundation (ASF) has released security</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Palo Alto Networks has released an advisory warning that a</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">updates to address several security vulnerabilitie…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">critical buffer overflow vulnerability in its PAN-…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 05:56 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 08:26 UTC</text>
 
 </svg>
