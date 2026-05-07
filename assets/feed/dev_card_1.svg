@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why 88% of AI Agent Pilots Fail (And How to Beat It)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Managed Iceberg Data Lakes: A Guide</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Patrick Hughes &#183; May 07, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Joni Sar &#183; May 07, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Why 88% of AI Agent Pilots Never Ship (And How to Be in the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Apache Iceberg has become the default table format for open</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">12%) A March 2026 survey of 650 enterprise techno…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">data lakes. The 2025 State of the Apache Iceberg …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:03 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:48 UTC</text>
 
 </svg>
