@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The Text Field is the New Dashboard</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Maybe I Should Just Be a 404 Page</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Vedang Vatsa FRSA &#183; May 07, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; HARD IN SOFT OUT &#183; May 07, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The graphic user interface requires humans to learn software</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;What if you were an HTTP 404 page? A technical and</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">logic. The LLM-driven text field requires softwa…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">philosophical deep-dive into boundaries, 100% uptime, and …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:30 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:45 UTC</text>
 
 </svg>
