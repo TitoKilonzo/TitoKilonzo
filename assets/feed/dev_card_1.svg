@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">这个 GitHub 开源项目让你 5 分钟把任何 API 变成 MCP Server，11K+ Stars</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Coding in a Mastodon Client: Prompting for Complex</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">但 90% 的人用错了</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">UI, Fast Iteration, and Reliable Behavior</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; 韩 &#183; May 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Steven Feng &#183; May 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;这个 GitHub 开源项目让你 5 分钟把任何 API 变成 MCP Server，11K+ Stars 但 90%</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;This article shares how AI Coding accelerated development of</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">的人用错了 你知道吗？GitHub 上有一个 11,849 Stars 的开源项目，能让你用 5 …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">a Mastodon web client, with a focus on prompt-dr…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:28 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:27 UTC</text>
 
 </svg>
