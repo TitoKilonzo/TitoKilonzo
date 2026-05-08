@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI&apos;s New Realtime Voice Models Can Think,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Why Your Recurring Agent Task Dies Right Before</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Translate, and Transcribe — Here&apos;s What Developers…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Delivery</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Evan-dong &#183; May 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; zvone187 &#183; May 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI just shipped three realtime voice models through</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;If your recurring agent task keeps dying seconds before it</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">their API. One reasons at GPT-5 level during live cal…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">posts results, the bootstrap is eating your timeou…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:43 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:20 UTC</text>
 
 </svg>
