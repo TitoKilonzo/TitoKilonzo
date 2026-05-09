@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">ESP32-S3 กับ TinyML:</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">shk: A Local-First Security Guardrail CLI for AI</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">สร้างระบบรักษาความปลอดภัยบ้านอัจฉริยะด้วย Edge AI…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Coding Agents</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Bit to Build &#183; May 09, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Kazuki Yonemoto &#183; May 09, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;🔐 ทำไมต้อง Edge AI สำหรับบ้าน? ปี 2026 นี่เราต้องการระบบ</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Secret scanning often starts at Git. AI coding agents can</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">security ที่ไม่ต้องพึ่ง cloud ตลอดเวลา ถ้าอินเทอร์เน…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">make that too late. They can read local files, summ…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:54 UTC</text>
 
 </svg>
