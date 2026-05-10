@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I shipped 30 apps. AI crawlers ignore them.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">9ed — A Zed-like Editor You Can Access From Anywhere</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Jill Mercer &#183; May 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Muhammad Tri Wibowo &#183; May 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I have shipped over 30 apps. Most of them are absolute</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A few months ago I started looking for a development setup</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">ghosts right now. If you ask an AI tool to find someth…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">that felt fast, lightweight, and easy to access re…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:53 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:51 UTC</text>
 
 </svg>
