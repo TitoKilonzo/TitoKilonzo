@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-05-10 at 08:51 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-05-10 at 10:13 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/rishabh_pahwa_1a2b93e60b0/your-cache-invalidation-is-hard-answer-misses-the-real-horror-5em7"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/pcornelissen/building-mcp-servers-with-spring-ai-a-practical-boundary-for-agents-1d23"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/abhsss96/zero-downtime-postgresql-major-version-upgrades-in-containers-the-problem-nobody-talks-about-5ef1"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/programmingcentral/beyond-sql-how-to-build-a-high-performance-on-device-vector-search-engine-for-android-1e0o"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
