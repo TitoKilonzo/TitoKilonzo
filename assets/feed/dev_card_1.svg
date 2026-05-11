@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Your MCP server eats 55,000 tokens before your agent</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Can an Algorithm Find What Your Body Actually Needs?</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">says a word -- I measured the real cost</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Introducing SEMO for Longevity Technology</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Ken Imoto &#183; May 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; JXIONG &#183; May 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The invisible bill I was debugging why my Claude Code</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Everyone in longevity technology is asking a familiar</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">sessions felt sluggish after connecting a few MCP serve…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">question: What should I take? A supplement? A metabolit…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:50 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:56 UTC</text>
 
 </svg>
