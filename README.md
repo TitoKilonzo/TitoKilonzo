@@ -104,55 +104,15 @@
 
 <div align="center">
 
-<!-- ── Profile Badges (shields.io — rock solid) ── -->
-  <img src="https://img.shields.io/github/followers/TitoKilonzo?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/github/stars/TitoKilonzo?label=Total%20Stars&style=for-the-badge&color=3FB950&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Backend-F78166?style=for-the-badge&labelColor=0D1117&logo=shield" />
-  <img src="https://img.shields.io/badge/Based%20In-Nairobi%2C%20Kenya-3FB950?style=for-the-badge&labelColor=0D1117&logo=googlemaps" />
-  <img src="https://komarev.com/ghpvc/?username=TitoKilonzo&style=for-the-badge&color=58A6FF&label=Profile+Views&abbreviated=true" />
+![Followers](https://img.shields.io/github/followers/TitoKilonzo?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117&logo=github)
+![Stars](https://img.shields.io/github/stars/TitoKilonzo?label=Total%20Stars&style=flat-square&color=3FB950&labelColor=0D1117&logo=github)
+![Location](https://img.shields.io/badge/Based%20In-Nairobi%2C%20Kenya-3FB950?style=flat-square&labelColor=0D1117)
+![Views](https://komarev.com/ghpvc/?username=TitoKilonzo&style=flat-square&color=58A6FF&label=Profile+Views)
 
-  <br/><br/>
+<br/>
 
-  <!-- ── Stats + Languages ── -->
-
-  <br/><br/>
-
-  <!-- ── Contribution Activity Graph (snake replacement) ── -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TitoKilonzo&bg_color=0D1117&color=58A6FF&line=3FB950&point=F78166&area=true&area_color=58A6FF&hide_border=true&radius=6"
-    alt="Contribution Graph"
-    width="100%"
-  />
-
-  <br/><br/>
-
-  <!-- ── Profile Summary Cards (2x2 grid) ── -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TitoKilonzo&theme=github_dark"
-    alt="Profile Details"
-    width="100%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TitoKilonzo&theme=github_dark"
-    alt="Stats"
-    height="150"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TitoKilonzo&theme=github_dark&utcOffset=3"
-    alt="Productive Time"
-    height="150"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TitoKilonzo&theme=github_dark"
-    alt="Repos Per Language"
-    height="150"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TitoKilonzo&theme=github_dark"
-    alt="Most Commit Language"
-    height="150"
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
 
