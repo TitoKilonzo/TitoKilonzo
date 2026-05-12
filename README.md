@@ -104,13 +104,6 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/TitoKilonzo?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117&logo=github)
-![Stars](https://img.shields.io/github/stars/TitoKilonzo?label=Total%20Stars&style=flat-square&color=3FB950&labelColor=0D1117&logo=github)
-![Location](https://img.shields.io/badge/Based%20In-Nairobi%2C%20Kenya-3FB950?style=flat-square&labelColor=0D1117)
-![Views](https://komarev.com/ghpvc/?username=TitoKilonzo&style=flat-square&color=58A6FF&label=Profile+Views)
-
-<br/>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&theme=github_dark&hide_border=true&layout=compact)
 
