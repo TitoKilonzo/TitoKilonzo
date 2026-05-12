@@ -103,8 +103,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TitoKilonzo&theme=github-dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&theme=github_dark&hide_border=true&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=TitoKilonzo&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="150"/>
 </div>
 
 ---
