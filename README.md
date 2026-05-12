@@ -103,10 +103,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&theme=github_dark&hide_border=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=TitoKilonzo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitoKilonzo&theme=github_dark&hide_border=true&layout=compact" height="180"/>
 </div>
 
 ---
