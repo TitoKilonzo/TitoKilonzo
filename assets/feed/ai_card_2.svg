@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic now has more business customers than OpenAI,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic courts a new kind of customer: small</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">according to Ramp data</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">business owners</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Russell Brandom &#183; May 13, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Lucas Ropek &#183; May 13, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A survey compiled from fintech firm Ramp’s clients’ expense</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;For founders and investors, Anthropic&apos;s new offering signals</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">data shows 34.4% of participating businesses are …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">that the AI platform wars are expanding downmark…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 18:55 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 20:44 UTC</text>
 
 </svg>
