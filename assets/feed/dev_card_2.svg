@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Gemma 4 and Pressable MCP: safe AI hosting in Linux</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">ECA vs Rules vs Custom Code: The 2-Minute Decision</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">terminal</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Guide</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Aribu js &#183; May 13, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Neharika Mohan &#183; May 13, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Transparency: this article contains affiliate links. If you</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;One of the most common Drupal architecture questions is:</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">purchase hosting through my link, I will receive …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">should this workflow live in ECA or custom code? The…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:48 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:25 UTC</text>
 
 </svg>
