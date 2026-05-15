@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Rocket Report: Russia claims success with new ICBM;</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Rocket Report: Cowboy up for data centers in LEO;</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">spaceplane déjà vu in Europe</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Russia&apos;s new ICBM actually works</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -54,6 +54,6 @@
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 16:49 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 18:21 UTC</text>
 
 </svg>
