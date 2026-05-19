@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why My Smart Security Camera Was Actually Pretty Dumb</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Day 17 of 60: I Deployed My First Production AI API</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">(Until I Gave It Memory)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">and It&apos;s Live 24/7 (This Changes Everything)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Darshini &#183; May 19, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Cess Mbugua &#183; May 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Most retail security setups work like this: you hire someone</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Today everything became real. Every system I&apos;ve built over</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">to stare at a wall of cameras and hope they catc…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">the past 16 days lived only on my local machine. T…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:17 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:58 UTC</text>
 
 </svg>
