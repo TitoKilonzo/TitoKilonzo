@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Life after the merge: why publishing an Obsidian</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Awesome-Claude-Skills I built 135 Claude Skills with</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">plugin is just the beginning</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">real formulas. Here&apos;s what &quot;production-grade&quot;…</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Dmitriy Yurkin &#183; May 20, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; vigneshwar &#183; May 21, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I built Snipsy because I was typing - [ ] fifty times a day</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;ve been frustrated for a long time. Every &quot;awesome Claude</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">and getting annoyed about it. That&apos;s a true sente…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">prompts&quot; repo I found looked like this: &quot;Act as a…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:10 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 03:31 UTC</text>
 
 </svg>
