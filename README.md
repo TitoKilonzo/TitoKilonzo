@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-05-21 at 23:01 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-05-22 at 03:30 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-3-3eah"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/kao273183/i-open-sourced-24-qa-skills-for-claude-code-from-spec-to-release-2d57"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/enjyn_3feb58e98fa3/wir-haben-einen-website-crawler-gebaut-der-50-checks-in-einem-scan-macht-kostenlos-5704"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/fukushimauav/anti-jamming-flight-controllers-compared-ardupilot-options-for-ew-environments-2026-4ae4"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
