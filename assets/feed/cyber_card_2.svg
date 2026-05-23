@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Laravel-Lang PHP Packages Compromised to Deliver</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Run Scripts as Root</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Cross-Platform Credential Stealer</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A maximum-severity security vulnerability impacting</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity researchers have flagged a fresh software</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">LiteSpeed User-End cPanel Plugin has come under active ex…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">supply chain attack campaign that has targeted multip…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 11:09 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 13:21 UTC</text>
 
 </svg>
