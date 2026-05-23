@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">If you struggle to learn then this is for you.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Episode 3: The Secret Scroll (The Dockerfile)</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Alish Giri &#183; May 23, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Fjr &#183; May 23, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I have kept up with technology for almost a decade and most</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Jack was standing in front of his empty &quot;Apartment</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">remote developers I worked with ask me how am I d…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Building.&quot; He knew about Namespaces and Cgroups, but he wa…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:50 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:09 UTC</text>
 
 </svg>
