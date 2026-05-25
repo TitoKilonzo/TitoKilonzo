@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The EU AI Act in 2026: Reading the Law After the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">RAMPART Tests Your AI Agents in Dev. What Catches</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Omnibus</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Malicious Tool Calls in Production?</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Matthias | StudioMeyer &#183; May 25, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Cor E &#183; May 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Two weeks ago, the EU Council and Parliament reached a</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Microsoft just open-sourced two tools — RAMPART and Clarity</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">provisional deal that pushed the AI Act&apos;s biggest enfo…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">— aimed at helping developers security-test AI ag…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:55 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:29 UTC</text>
 
 </svg>
