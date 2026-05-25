@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">US&apos;s big bet on quantum computing may not be entirely</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Quantum ‘Jamming’ Could Help Unlock the Mysteries of</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">legal</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Causality</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; John Timmer &#183; May 25, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Matt von Hippel &#183; May 23, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Deal also launched the first quantum foundry company, but is</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;To keep communications secure in a post-quantum world,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">there a need for it?&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">cryptographers are digging down into the concept of ca…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 21:03 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 22:59 UTC</text>
 
 </svg>
