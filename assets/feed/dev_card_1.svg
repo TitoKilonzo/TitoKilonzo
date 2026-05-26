@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Part 2: Enterprise Decision Intelligence Architecture:</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">&quot;My AI Assistant Could Code, But It Couldn&apos;t Operate</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Governance, Threshold Policy Engines, and…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">My Desktop&quot;</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Shallabh Dixitt &#183; May 26, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; CodeKing &#183; May 26, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Part 1 showed how to evaluate binary classification</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;My assistant could already read files, run shell commands,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">thresholds in Python. This part asks the harder enterpris…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">and delegate coding work to Claude Code or Codex. …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:01 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:52 UTC</text>
 
 </svg>
