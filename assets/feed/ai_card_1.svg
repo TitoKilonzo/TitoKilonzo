@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Robinhood now lets your AI agents trade stocks</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">These new iOS 27 renders hint at Siri’s big redesign</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Ivan Mehta &#183; May 27, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Stevie Bonifield &#183; May 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;While these agents would be able to read and analyze users&apos;</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Apple&apos;s long-awaited Siri overhaul, expected to arrive in</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">portfolios to come up with trading strategies and…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">iOS 27, might look a lot like ChatGPT with a splash…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 10:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Verge &#183; &#128336; Updated 14:39 UTC</text>
 
 </svg>
