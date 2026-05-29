@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Amazon Thinks the Future of Data Centers Depends on a</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">These Ebola Researchers Are Stuck in US Due to Trump’s</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Technical Problem It Just Solved</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Funding Cuts</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Lauren Goode &#183; May 28, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Emily Mullin &#183; May 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The tech giant says a breakthrough in data center networking</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Centers for Research in Emerging Infectious Diseases</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">has dramatically accelerated the flow of informa…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">were launched during the Covid-19 pandemic. The grou…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 07:53 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 11:27 UTC</text>
 
 </svg>
