@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Email Generation</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Python Day Three : Focus &amp; consistency</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Nathan Nguyen &#183; Jun 01, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Amina &#183; Jun 01, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;This is a submission for the GitHub Finish-Up-A-Thon</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Day Three lesson : Comments in Python Comments are notes</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Challenge What I Built Nudgen is an AI-powered retention…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">written in code to explain what the code does. Pytho…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:34 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:36 UTC</text>
 
 </svg>
