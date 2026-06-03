@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-06-03 at 03:55 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-06-03 at 08:54 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -53,10 +53,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -66,10 +66,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/office-depot-promo-codes/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://www.wired.com/story/squarespace-promo-code/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/anthropic-files-s1-ipo-sec/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/highcenburg/how-i-shaved-10-mb-off-my-portfolio-in-one-command-2697"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/omer_k/agentic-support-agent-for-a-platform-teamr-1a1f"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/kevin_wong/qwen37-plus-is-out-how-developers-should-test-it-55fh"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/gamya_m/swift-sets-4369"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
