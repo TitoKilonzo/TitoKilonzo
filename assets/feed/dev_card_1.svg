@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Build Your Own MCP Server from Scratch</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Most Developers Should Stop Learning Kubernetes</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Michal Szalinski &#183; Jun 05, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Mustafa ERBAY &#183; Jun 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Every AI agent ships with the same bottleneck: it can only</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Before you close this tab and call me irresponsible, hear me</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">reason over what it can reach. MCP servers dissolv…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">out. I am not saying Kubernetes is bad. I am say…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 00:05 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:14 UTC</text>
 
 </svg>
