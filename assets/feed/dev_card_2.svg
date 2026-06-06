@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Kernel CVE Response: 3 Priorities for Infrastructure</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The 4-Layer Magento 2 AEO Stack: Making Your Store</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Professionals</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Visible to ChatGPT, Claude &amp; Gemini (2026)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Mustafa ERBAY &#183; Jun 06, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ievgenii Gryshkun &#183; Jun 06, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Kernel CVE Response: 3 Priorities for Infrastructure</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;ve written here before about fixing robots.txt for the AI</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Professionals When news of a critical kernel CVE (Common…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">bots and checking your store&apos;s ChatGPT visibility…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:11 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:19 UTC</text>
 
 </svg>
