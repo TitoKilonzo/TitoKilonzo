@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">🚀 Build a Fully Local AI Agent with Hermes Agent,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Github &quot;Finish-Up-A-Thon&quot; Challenge Winner</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Ollama, Qwen 3.5, and SearXNG (100% Private &amp; $0 Cost)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Announcement Delayed &amp; General Challenge Timeline…</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Vivek Shetye &#183; Jun 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Jess Lee &#183; Jun 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;What if you could build an AI agent that can: ✅ Think and</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Hey all, we have a quick update for everyone who</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">reason ✅ Search the web ✅ Read and write files ✅ Ge…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">participated in the GitHub &quot;Finish-Up-A-Thon&quot; Challenge ,…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:11 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:24 UTC</text>
 
 </svg>
