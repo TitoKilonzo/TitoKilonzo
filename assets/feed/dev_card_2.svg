@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Building Healthcare AI Taught Me That the Model Is the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Put a Neural Network Inside My Portfolio — No</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Easy Part</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">TensorFlow, No Server, 145 KB</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Blake M Lucey &#183; Jun 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Rahul Sangamker &#183; Jun 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;When most developers think about healthcare AI, they think</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Training a network from scratch in raw NumPy, quantizing it</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">about models. Which model should we use? Should we…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">to int8, and running it as ~80 lines of dependenc…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:33 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:00 UTC</text>
 
 </svg>
