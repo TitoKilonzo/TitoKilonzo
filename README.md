@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-06-10 at 23:42 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-06-11 at 03:47 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -66,10 +66,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/best-college-laptops/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/the-world-cups-trionda-ball-challenges-traditional-aerodynamics/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://www.wired.com/story/best-college-laptops/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/wadco/what-a-mailman-service-shutdown-reveals-about-the-state-of-mailing-lists-in-2026-5g5i"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/john_wade_dev/when-four-memory-systems-hit-the-same-wall-16ei"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/pauljlucas/cliffords-aka-claires-device-in-c-and-c-2p33"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/jeenie61647c593c1930/i-was-tired-of-gatekept-video-ai-tools-so-i-built-a-zero-friction-lab-for-global-creators-the-fear-5910"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
