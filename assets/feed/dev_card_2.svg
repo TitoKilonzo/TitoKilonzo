@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The end of the programmer: 26 predictions I dare you</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AMD RCE Ignored, GitHub Boosts Secret Scanning with</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">to break</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">LLMs, AUR Supply Chain Attack</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Ad Soares &#183; Jun 11, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; soy &#183; Jun 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Essay · June 2026 · 26 theses · 3 horizons It&apos;s not about AI</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;AMD RCE Ignored, GitHub Boosts Secret Scanning with LLMs,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">replacing devs. It&apos;s about who holds power insid…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">AUR Supply Chain Attack Today&apos;s Highlights This wee…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:34 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:01 UTC</text>
 
 </svg>
