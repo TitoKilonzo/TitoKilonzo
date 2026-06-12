@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I Built a DeepSeek API Service with FastAPI: Here&apos;s</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I shipped my first iOS app, got rejected twice, and</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">the Data</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">built a tool so it never happens again</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; loyaldash &#183; Jun 12, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Bryan &#183; Jun 12, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I gotta say, i Built a DeepSeek API Service with FastAPI:</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The code was never the hard part. The App Store review was.</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Here&apos;s the Data I&apos;ll be honest — I didn&apos;t set out t…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">I shipped my first iOS app — a small baby tracker…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:09 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:36 UTC</text>
 
 </svg>

@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic’s Dario Amodei has just one direct report</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">SpaceX, Anthropic, and OpenAI’s hot IPO summer</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Connie Loizos &#183; Jun 11, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Theresa Loconsolo &#183; Jun 12, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;If founders and other business leaders weren&apos;t already</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The IPO market is back, and it’s not the same companies</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">envious of Dario Amodei, who sits atop one of the worl…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">leading the charge. FAANG had a good run, but a new a…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 14:09 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 17:36 UTC</text>
 
 </svg>
