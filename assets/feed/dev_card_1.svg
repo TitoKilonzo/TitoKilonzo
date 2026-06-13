@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The Vertical AI Tool Is Starting to Beat the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Play‑First Programming: A More Human Way to Learn Code</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Generalist</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">in the Age of AI</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; ninghonggang &#183; Jun 13, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Greg Urbano &#183; Jun 13, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I went down another rabbit hole this morning, this time</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Play‑First Programming is built on a simple but powerful</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">reading the Chinese AI tool roundups on Juejin from l…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">idea: you learn to code more effectively when you st…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:13 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:55 UTC</text>
 
 </svg>
