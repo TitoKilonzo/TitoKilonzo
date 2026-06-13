@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The Agent Gets the API Key. You Get the Guinea Pig</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Lava Leap: Shipping an Endless Climber with an AI Pair</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Seat.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Programmer</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Self-Correcting Systems &#183; Jun 12, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; C. Wheatley &#183; Jun 13, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A friend texted me this week, and within a year someone you</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Lava Leap is an endless vertical climber: you scale</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">know is going to send you the same message. He ha…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">procedurally generated platforms while lava rises from be…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:23 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 00:18 UTC</text>
 
 </svg>
