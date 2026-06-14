@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Sending Telegram Bot Conversions to Meta? Don&apos;t Reach</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How I Built a Read-Only SQLite MCP Server in Python</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">for business_messaging</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">(and Why Read-Only Matters)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Boris Kl &#183; Jun 14, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; skycandykey1 &#183; Jun 14, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A bot was firing Subscribe and Purchase events from Telegram</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Giving an LLM a database connection is one of those ideas</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">straight to Meta&apos;s Conversions API, and every ca…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">that sounds great in a demo and terrifying in produ…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:52 UTC</text>
 
 </svg>
