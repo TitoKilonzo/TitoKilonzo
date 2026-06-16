@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">The US government’s Anthropic models ban was never</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Malaysia’s AI agent-powered messaging app Respond.io</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">about an AI jailbreak</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">raises $62.5M, eyes acquisitions</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Zack Whittaker &#183; Jun 15, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Kate Park &#183; Jun 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Trump administration&apos;s decision that forced Anthropic to</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Respond.io, one of Malaysia startups to watch, uses AI</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">pull its latest cybersecurity models could be re…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">agents to handle high volumes of customer inquiries an…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 03:55 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 09:26 UTC</text>
 
 </svg>
