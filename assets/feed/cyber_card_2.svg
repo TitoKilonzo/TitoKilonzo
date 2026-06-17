@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">ClickFix Campaigns Expand Malware Delivery With New</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Malicious JetBrains Plugins Steal AI API Keys as</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Loaders and Fake Update Lures</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Chrome Extensions Capture Chatbot Chats</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Jun 16, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Jun 17, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity researchers have flagged multiple ClickFix</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity researchers have flagged a &quot;coordinated</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">campaigns that deliver three malware loaders called …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">malware campaign&quot; on the JetBrains Marketplace that has…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 06:08 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 11:45 UTC</text>
 
 </svg>
