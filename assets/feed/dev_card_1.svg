@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">No API Keys. No Cloud Bills. No Data Leaving My</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Build vs Buy Software: A Decision Framework for</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Machine. Here&apos;s Exactly How — and What It Actually…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Growing Businesses</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; siyadhkc &#183; Jun 17, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Joseph Rodriguez &#183; Jun 17, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Most people use AI the same way: Open ChatGPT, Claude, or</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The build-vs-buy question gets answered wrong in both</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Gemini. Ask a question. Get an answer. Close the ta…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">directions. Scrappy teams build things they should have…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:22 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:13 UTC</text>
 
 </svg>
