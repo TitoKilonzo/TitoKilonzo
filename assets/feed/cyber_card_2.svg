@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Malicious JetBrains Plugins Steal AI API Keys as</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Adversarial Exposure Validation Turns Security</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Chrome Extensions Capture Chatbot Chats</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Visibility into Confident Prioritization</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity researchers have flagged a &quot;coordinated</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;For security teams, the findings never stop, but confidence</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">malware campaign&quot; on the JetBrains Marketplace that has…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">in knowing which ones matter is becoming harder t…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 11:45 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 15:22 UTC</text>
 
 </svg>
