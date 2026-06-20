@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">From TLEs to Real-Time Satellite Tracking: Building an</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I built an AI priority inbox for GitHub pull requests</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Orbital Backend with Spring Boot and Orekit</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">— and went BYOK instead of running my own AI backend</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Enes Bilgin &#183; Jun 20, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Projekta2 &#183; Jun 20, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;ve worked on projects where getting the right data was the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The problem GitHub shows your pull requests in whatever</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">bottleneck. You can&apos;t build features without dat…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">order they happened to be opened — not in the order t…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:48 UTC</text>
 
 </svg>
