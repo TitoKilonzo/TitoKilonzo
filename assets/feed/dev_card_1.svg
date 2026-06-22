@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Funny where this industry takes you</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The 3% rule: how AMD accuracy keeps you TCPA-compliant</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Shannon Mettry &#183; Jun 22, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Nikolai Boutvine &#183; Jun 22, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Everyone in tech has one of these stories. Where you started</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The FTC caps abandoned calls at 3% of answered calls. The</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">vs where you ended up. Mine goes: hover animatio…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">way most operators hit that number on paper is exac…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:39 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:44 UTC</text>
 
 </svg>
