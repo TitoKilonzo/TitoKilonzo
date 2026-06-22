@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Some Electricians Think Building Data Centers Is for</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">A Source of Mysterious Repeating Radio Signals From</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Sellouts</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Space Has Been Identified</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Caroline Haskins &#183; Jun 22, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Ritsuko Kawai &#183; Jun 22, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Big Tech is throwing big money into data center buildouts.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Researchers say the discovery could be a “Rosetta stone” for</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">As national opposition to the facilities grows, so…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">cosmic signals.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 20:44 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 22:45 UTC</text>
 
 </svg>
