@@ -32,7 +32,7 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Stop Worrying About Storms with This Jackery Power</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Stop Worrying About Storms With This Jackery Power</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
@@ -44,7 +44,7 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Pick up this deal on Jackery&apos;s whole home backup battery and</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Pick up this deal on Jackery’s whole-home backup battery and</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
@@ -54,6 +54,6 @@
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 15:45 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 17:51 UTC</text>
 
 </svg>

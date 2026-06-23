@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">npm Supply Chain RAT: PostCSS Impersonation &amp;</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Series Teaser — 6 People, 36 Stratagems, and an AI</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Dependency Confusion</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Rabbit Hole That Keeps Getting Deeper</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Satyam Rastogi &#183; Jun 23, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; xulingfeng &#183; Jun 23, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Originally published on satyamrastogi.com Three malicious</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;What Are the 36 Stratagems? If you&apos;ve heard of The Art of</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">npm packages masquerading as PostCSS tools delivere…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">War , think of the Thirty-Six Stratagems as its scr…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:45 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:51 UTC</text>
 
 </svg>
