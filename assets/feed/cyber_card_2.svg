@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">ShapedPlugin WordPress Pro Plugins Backdoored in</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI Expands Daybreak With GPT-5.5-Cyber to Help</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Supply Chain Attack</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Defenders Patch Security Flaws</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Jun 22, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Jun 23, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Multiple WordPress plugins from ShapedPlugin were</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI on Monday said it&apos;s releasing an improved version of</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">compromised in a supply chain attack after unknown threat a…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">its GPT‑5.5‑Cyber model to trusted defenders as p…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 08:32 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 12:05 UTC</text>
 
 </svg>
