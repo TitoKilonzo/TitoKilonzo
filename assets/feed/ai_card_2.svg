@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">India’s MoEngage bets that the future of marketing is</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI unveils its first custom chip, built by</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">millions of AI agents</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Broadcom</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Jagmeet Singh &#183; Jun 23, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Russell Brandom &#183; Jun 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The all-cash deal gives MoEngage access to technology that</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Named Jalapeño, the new processor was designed specifically</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">assigns AI agents to individual customers.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">for the unique needs of OpenAI&apos;s inference system…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 20:46 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 22:15 UTC</text>
 
 </svg>
