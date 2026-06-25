@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Part -2 Control Flow Statement</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Swift Closures — Trailing Syntax and Shorthand Magic ✨</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Guna Ramesh &#183; Jun 25, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Gamya &#183; Jun 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;why we use break in Switch cases? If the break statement is</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;In the last article, we built our first closure and passed</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">not used, JavaScript continues executing the next…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">it into sorted() . The result worked perfectly — b…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:03 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:58 UTC</text>
 
 </svg>
