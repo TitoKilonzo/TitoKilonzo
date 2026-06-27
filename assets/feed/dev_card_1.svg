@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">A Skeptical Review of Critical Code Studies</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Creating Ebooks</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Boris Orekhov &#183; Jun 27, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; questioner &#183; Jun 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Is Code Really a “Social Text”? A Skeptical Review of</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;制作没有数字痕迹的电子书 手工制作的目录 输入 掌握Markdown的基本语法 撰写素材文档 校对素材文档</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Critical Code Studies TL;DR: A sharp academic review ta…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">制作封面图片和插图 准备 安装Calibre 配置Calibre 自动生成的目录 章节分页符 相对固定的输出格…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 04:52 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:47 UTC</text>
 
 </svg>
