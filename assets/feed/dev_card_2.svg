@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Hunting Digital Chameleons: How We Defeated Botnets in</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I hooked up Trading212 to Home Assistant and now Alexa</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Laravel v2.4.0</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">tells me if I&apos;m up or down every morning</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Oleksii Antoniuk &#183; Jun 27, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Sepehr &#183; Jun 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;In the world of web traffic, there’s a simple rule: if it</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;ve been using Home Assistant for a few years and</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">looks like a regular user, walks like a user, and e…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Trading212 for longer than that. It was inevitable these t…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:06 UTC</text>
 
 </svg>
