@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Beyond the Basics: Building Accessible, SSR-Ready</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">ContextVault: Own Your AI Context Across Models,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Carousels with Pagiflow</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Agents, and Time</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Pagiflow &#183; Jun 27, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Mohammad Ali Abdul Wahed &#183; Jun 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;In my previous post , I introduced Pagiflow, a zero-</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;From Conversation Recorder to Context Engine: Building</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">dependency, high-performance JavaScript carousel library …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Local-First Memory for AI Development How ContextVault…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:01 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:06 UTC</text>
 
 </svg>
