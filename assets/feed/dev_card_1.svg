@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Firmware Black Box: diagnosing embedded resets in the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Copilot Just Billed $750 for What Cost $29, Gemini Now</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">field</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Reads Your Gmail, and AI Funded a $1B Retraining Push…</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Marco &#183; Jun 30, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; danio &#183; Jun 30, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A device that resets in the field is not always the hardest</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Three moves. Same companies. Your inbox, your IDE, your next</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">problem. The harder problem is a device that rese…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">job. ① Google Gemini now reads your Gmail and Ca…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:30 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:06 UTC</text>
 
 </svg>
