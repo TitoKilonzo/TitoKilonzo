@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Making RAG admit when it&apos;s guessing: source-grounded</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3"># MCP and A2A in Agentic BFSI Systems: The Complete</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">hallucination checks</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Implementation Guide</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Sid Probstein &#183; Jul 01, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Nikhil raman K &#183; Jul 01, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The failure mode that scares me most in RAG isn&apos;t a wrong</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Banking has a protocol problem. A risk analyst at a tier-one</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">answer. It&apos;s a confident wrong answer with three ci…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">bank submits a credit decision request. The answ…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:39 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:52 UTC</text>
 
 </svg>
