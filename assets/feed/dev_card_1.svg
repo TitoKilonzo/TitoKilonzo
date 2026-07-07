@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Day 108 of Learning MERN Stack</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">🚀 We&apos;re Hiring Software Engineers at 10xHire</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Ali Hamza &#183; Jul 07, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Shivanshu Pathak &#183; Jul 07, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Hello Dev Community! 👋 It is officially Day 108 of my</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;👉 Apply Here First Application Form:</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">software engineering marathon! Today marks Day 2 of bui…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">https://forms.gle/QJNF7TXVBTgbLoaC7 At 10xHire , we&apos;re…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:12 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:51 UTC</text>
 
 </svg>
