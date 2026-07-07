@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">You can now customize Siri’s pace and expressivity in</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The ‘first’ AI-run ransomware attack still needed a</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">the latest iOS 27 beta</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">human</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Sarah Perez &#183; Jul 06, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Connie Loizos &#183; Jul 06, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The update is part of Apple&apos;s broader effort to make Siri</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;An AI agent carried out the technical execution of a real-</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">feel more natural and personal, as it rebuilds the …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">world ransomware attack for the first known time, b…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 14:28 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 17:12 UTC</text>
 
 </svg>
