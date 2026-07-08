@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Device Integrity And App Review: RASP, Attestation,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">My VM state check reads one line of VBoxManage output,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">And Asking For Ratings Right</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">and it&apos;s one character from reading the wrong one</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Shai Almog &#183; Jul 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; TiltedLunar123 &#183; Jul 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Friday&apos;s post on funding open source without the bait-and-</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I have a PowerShell script that builds Fedora VMs in</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">switch covered the model behind this week&apos;s release…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">VirtualBox with no clicking. It also does AlmaLinux, Roc…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:19 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:27 UTC</text>
 
 </svg>
