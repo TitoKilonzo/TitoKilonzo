@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why this CEO thinks video games make better training</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic, OpenAI, and SpaceX are bigger than the last</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">data than the internet</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">25 years of tech exits</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Theresa Loconsolo &#183; Jul 08, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Russell Brandom &#183; Jul 09, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;When it comes to achieving artificial general intelligence</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Three big AI IPOs are set to generate more value than all</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">(AGI), large language models just don’t have what …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">the U.S. VC-backed exits since 2000.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 13:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 16:25 UTC</text>
 
 </svg>

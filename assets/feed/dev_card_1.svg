@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">ADHD Waiting Mode — Why One 3 PM Appointment Ruins</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">From Turbo Pascal to TypeScript: A 35-Year-Old Maze</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Your Whole Day</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Algorithm Comes Back to Life</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Assindo &#183; Jul 09, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; László Kővári &#183; Jul 09, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;You have one appointment today. It is at 3 PM. It will take</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;In 1991, on a DOS machine with a BGI graphics driver, I</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">an hour. It is now 9:30 AM, and you have already …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">wrote a small program that draw colored trees on scre…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:25 UTC</text>
 
 </svg>
