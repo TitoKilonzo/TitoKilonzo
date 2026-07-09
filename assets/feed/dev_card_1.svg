@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why Most AI Agents Still Can&apos;t Loop — And That&apos;s Why</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">ADHD Waiting Mode — Why One 3 PM Appointment Ruins</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Apps Haven&apos;t Exploded</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Your Whole Day</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Mininglamp &#183; Jul 09, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Assindo &#183; Jul 09, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;It&apos;s been over three years since ChatGPT launched. Models</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;You have one appointment today. It is at 3 PM. It will take</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">have gotten dramatically better, dozens of Agent fr…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">an hour. It is now 9:30 AM, and you have already …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:27 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:47 UTC</text>
 
 </svg>
