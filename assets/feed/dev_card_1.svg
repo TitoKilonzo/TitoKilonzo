@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Add a rate-limit backstop to your agent&apos;s email</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Build a WhatsApp Sales Inbox in Google Sheets (Apps</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">sending</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Script + GPT-4o-mini)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Qasim &#183; Jul 14, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Hayrullah Kar &#183; Jul 14, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Most &quot;AI email agent&quot; demos send one email and call it a</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Last month a client&apos;s two sales reps both spent an hour</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">feature. The agent drafts a reply, fires it off, the…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">chasing the same WhatsApp lead. Neither closed it — t…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:12 UTC</text>
 
 </svg>
