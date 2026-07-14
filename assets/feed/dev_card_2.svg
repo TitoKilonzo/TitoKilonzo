@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">A Reader&apos;s Guide to My Books: Which One to Pick Up,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Breaking the Clipboard: Why Copy-Pasting Across</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Depending on What You&apos;re Building</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Different OS is Still Painful</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Alex Merced &#183; Jul 13, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; SimpleDrop-Free&amp;Secure File Sharing &#183; Jul 14, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The question I get most often after talks, after podcast</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;1. The Invisible Wall: Clipboard Limitations in a Multi-OS</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">episodes, and in newsletter replies is a simple one:…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">World As developers, we constantly juggle differen…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:52 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:20 UTC</text>
 
 </svg>
