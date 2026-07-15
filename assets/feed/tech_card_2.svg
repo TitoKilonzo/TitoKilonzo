@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Boomers, not Gen Z, are the generation cutting back</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">SpaceX is gearing up for Starship&apos;s 13th test flight</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">most on alcohol</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">later this week</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Madeleine Speed, Financial Times &#183; Jul 14, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Stephen Clark &#183; Jul 14, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;New research overturns assumption that abstinent younger</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;This flight will put Starship under higher pressure and test</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">drinkers are behind weak demand.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">out new Starlink satellites in orbit.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 08:05 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 10:47 UTC</text>
 
 </svg>
