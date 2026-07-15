@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Vint Cerf is working on a plan to unleash AI agents on</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic, Blackstone bet the next trillion-dollar AI</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">the open internet</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">business is implementation, not just models</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Tim Fernholz &#183; Jul 15, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Rebecca Bellan &#183; Jul 15, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The guy behind TCP/IP is working on a standard for</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Anthropic-backed Ode launches as AI labs bet that embedding</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">identifying AI agents in the wild.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">forward-deployed engineers inside enterprises is …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 12:13 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 14:47 UTC</text>
 
 </svg>
