@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">An Inventor of Apple’s FaceID Wants to Analyze Your</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Astronomers Have Found a Sugar Molecule in Deep Space</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Brain’s Health With AI</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">for the First Time Ever</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Isabella Ward &#183; Jul 15, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Jorge Garay &#183; Jul 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Researchers identified traces of erythrulose, a</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">brain scans for conditions like depression, PTSD…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">monosaccharide, thousands of light-years away.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 10:57 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 12:21 UTC</text>
 
 </svg>
