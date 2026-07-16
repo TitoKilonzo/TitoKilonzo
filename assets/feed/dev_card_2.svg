@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Fuse v4.2, an open source MCP/CLI tool to speed up</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AWS Security AI Architecture: Managed MCP, Custom MCP,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Claude Code on C# codebases</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">or Lambda + Bedrock?</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; A. Shafie &#183; Jul 16, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Mike Anderson &#183; Jul 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Fuse 4.2 is an open source .NET global tool that runs as an</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;AWS Security AI Architecture: Managed MCP, Custom MCP, or</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">MCP server or from the command line. I built Fuse…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Lambda + Bedrock? Executive decision There is no si…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:08 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:57 UTC</text>
 
 </svg>
