@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Someone said &quot;let&apos;s make a new internet&quot; —</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The AI Era: Democratizing the Ivory Tower and</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">sarcastically.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Reclaiming the Latin American Mind</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; thomas verhave &#183; Jul 17, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Alice Severi Gonçalves &#183; Jul 18, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Thomas Verhave Home Projects Writing Writing · Build Notes I</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;When you view the academic, professional, and technological</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">built a tiny alternative internet in pure Python…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">worlds through the intersectional lens of a woman…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:50 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:13 UTC</text>
 
 </svg>

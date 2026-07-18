@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How to Display a PDF Inside Your Adalo App (iOS,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Building High-Converting Niche E-Commerce Stores: A</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Android &amp; Web)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Developer&apos;s Guide</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Seif El Shinnawy &#183; Jul 17, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Alexis Vitre &#183; Jul 18, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;If you&apos;ve tried to show a PDF in Adalo and ended up</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Niche E-Commerce Challenge Building an e-commerce</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">frustrated, this is the article I wish existed when I sta…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">platform is common; building one that converts for a ni…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:50 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:13 UTC</text>
 
 </svg>
