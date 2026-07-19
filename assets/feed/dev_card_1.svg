@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">From API to GPU, Week 2: What Actually Happens Behind</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Found a Silent Bug in Formbricks That Crashes Live</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">the API</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Surveys at Runtime</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Dinesh Kumar Ramasamy &#183; Jul 19, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Laurina Ayarah &#183; Jul 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Phase 1 of 8: Comfortable running local models. Week 2 of</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;This is a submission for DEV&apos;s Summer Bug Smash: Clear the</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">32. In Week 1 I went through the machine and proved…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Lineup powered by Sentry . Project Overview Formbr…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:43 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:49 UTC</text>
 
 </svg>
