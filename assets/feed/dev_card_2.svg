@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why Your Git History Isn&apos;t Enough as Proof</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Building an Interactive Shell in Python with Aetherix</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Vesmot &#183; Jul 19, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Divyanshu Sinha &#183; Jul 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Every developer has said it at least once: &quot;check the git</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;One of the first milestones after printing text to the</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">log — it&apos;s all there.&quot; Commit date, author, diff — …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">screen is creating an operating system that responds t…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:56 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:58 UTC</text>
 
 </svg>
