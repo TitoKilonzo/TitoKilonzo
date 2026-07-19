@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Contract Testing a Nutrition API with Millions of</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Built an Architecture Intelligence Tool for React &amp;</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Messy Records</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Next.js During the OpenAI Build Week Hackathon</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Dietly &#183; Jul 19, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ghazi Khan &#183; Jul 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Contract testing a nutrition API with millions of messy</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Over the weekend, I participated in the OpenAI Build Week</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">records A schema can remain valid while every client …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Hackathon with a simple goal: Build something I wou…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:53 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:55 UTC</text>
 
 </svg>
