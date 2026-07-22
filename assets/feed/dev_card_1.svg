@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Snap 8 Windows into a Grid on an Ultrawide in One</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">A shell-pipe CLI that makes batch image editing</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Command — a Swift + AppleScript Convergence Loop and…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">memorable — and ~10x faster than ImageMagick</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Lily &#183; Jul 22, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ronak Parmar &#183; Jul 22, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;This is part of my &quot;Claude Code environment&quot; series. Last</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I have never once typed this correctly from memory: magick</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">time, in The Environment-Degradation Sentinel , I w…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">mogrify -path out -format webp -quality 80 -resize…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:07 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:47 UTC</text>
 
 </svg>
