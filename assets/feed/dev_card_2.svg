@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Gemini 3.6 Flash: the Thinking Dial That Moves Cost</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Spent a Week Watching My MCP Agents Get Hijacked by</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">30x (Measured)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Tool Descriptions. Here&apos;s What I Built to Catch It.</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; synthorai &#183; Jul 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; MrClaw207 &#183; Jul 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Gemini 3.6 Flash charges you for thinking tokens on top of</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I lost a Saturday to a bug that wasn&apos;t a bug. It was an MCP</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">the answer, and how many it spends is a dial you c…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">tool description that told my agent to do the wro…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:39 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:39 UTC</text>
 
 </svg>
