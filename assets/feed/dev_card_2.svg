@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Building my first MCP server: Spain&apos;s weather API and</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">just build a music streaming app for windows and</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">its two-step catch</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">androids</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Manuel Millan &#183; Jul 25, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; geethudinoyt ruthvik &#183; Jul 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;m a backend engineer (Java/Spring, Kubernetes, that world)</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Tired of paying $10/month or sitting through 30 seconds of</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">moving toward AI engineering, and I wanted to ac…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">ads every 3 songs? Me too. So I built HeySongers —…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:53 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:58 UTC</text>
 
 </svg>
