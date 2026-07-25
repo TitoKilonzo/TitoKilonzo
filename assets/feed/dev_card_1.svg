@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">My LLM drift tracker flagged four regressions this</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Your YouTube screenshot is black because you</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">week. All four were wrong.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">screenshotted the wrong layer</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Erik Hill &#183; Jul 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Hao &#183; Jul 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I run a public board that probes 16 LLMs on a frozen 35-task</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;You hit PrintScreen on a video, paste, and get a black</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">suite, once a day, and keeps every score. When a…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">rectangle where the picture was. The window frame is t…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 00:02 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 04:08 UTC</text>
 
 </svg>
