@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Terraform e YAML - Padrões Avançados e Escalabilidade</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Build a Local Health Export Redaction Validator CLI</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Rafael Dutra &#183; Jul 25, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Sam Rivera &#183; Jul 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;1. Introdução: Rumo à Infraestrutura como Código de Nível</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The small-tool goal is simple: inspect a JSON health export</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Empresarial Nos artigos anteriores desta série, est…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">locally and fail closed if it contains fields the…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:44 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:07 UTC</text>
 
 </svg>
