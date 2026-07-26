@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">JavaScript Type Coercion — Output-Based Questions ([]</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Go 1.25 testing/synctest: No More Flaky Concurrent</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">+ [], NaN === NaN &amp; Friends)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Tests</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Amit Kumar &#183; Jul 26, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Odilon HUGONNOT &#183; Jul 26, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;After hoisting, interviewers love dropping one-liners like:</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Three green tests locally, two red on CI. The outcome</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">console . log ([] + []); console . log ([] + {});…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">depends on how busy the build server is that day. This …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 06:33 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:10 UTC</text>
 
 </svg>
