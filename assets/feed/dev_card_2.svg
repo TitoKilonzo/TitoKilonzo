@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Your ML Model Died in Production. Here&apos;s Why.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The Secret Debugging Tool You&apos;re Not Using</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; lakshmankrish77 &#183; Jul 26, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Gaurav Kumar Singh &#183; Jul 26, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Did your ML model look amazing in your notebook but tank in</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;We’ve all been there: It’s 11 PM, the bug is still alive,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">the real world? Good. Let&apos;s talk about the nasty …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">your tests are failing, and you’re about to throw y…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 03:41 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 06:33 UTC</text>
 
 </svg>
