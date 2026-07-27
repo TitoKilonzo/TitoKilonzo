@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Accessibility Semantics: The UI Tree You Cannot See</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Kiro and the Future of AI-Assisted Development</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Shai Almog &#183; Jul 27, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Diona Rodrigues &#183; Jul 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Accessibility has become personal for me. I am getting</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I started using Kiro at work and am incredibly impressed by</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">older, and large type is no longer an abstract prefere…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">how it transforms our AI coding workflow. Instead…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:40 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:40 UTC</text>
 
 </svg>
