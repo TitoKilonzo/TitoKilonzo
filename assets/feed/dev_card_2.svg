@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">BrowserAct in 2026: The Best No-Code Web Scraping Tool</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I built a UK data API platform with 37 endpoints.</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">That Replaced My Python Scrapers</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Here&apos;s how it works</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Sarvar Nadaf &#183; Jul 28, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Daniel Meszaros &#183; Jul 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;If you&apos;ve been following this series, you know I&apos;ve been</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I&apos;ve been building this solo for about 14 months and just</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">testing BrowserAct for months now. Article 1 covered…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">went live last week. What it is StaticCreation is a…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:51 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:18 UTC</text>
 
 </svg>
