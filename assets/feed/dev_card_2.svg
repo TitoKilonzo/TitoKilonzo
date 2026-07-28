@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Deep Agents Filesystem Permissions: A Beginner-</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">BrowserAct in 2026: The Best No-Code Web Scraping Tool</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Friendly Guide with 3 Python Examples</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">That Replaced My Python Scrapers</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Syeed Talha &#183; Jul 28, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Sarvar Nadaf &#183; Jul 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;An AI agent that can read and write files is only as safe as</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;If you&apos;ve been following this series, you know I&apos;ve been</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">the boundaries you put around it. A coding agent…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">testing BrowserAct for months now. Article 1 covered…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:32 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:51 UTC</text>
 
 </svg>
