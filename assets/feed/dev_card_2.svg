@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I once found a silicon bug in a protocol spec — not in</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">From Rust Fuzzing to AI Agents: Building Secure,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">the RTL.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Memory-Aware Software in the Age of Autonomous…</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; mritunjay bihari singh &#183; Jul 27, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Tamiz Uddin &#183; Jul 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;True story from an AXI interconnect project. We had a well-</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Originally published on tamiz.pro . The landscape of</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">verified slave. 500k+ simulation cycles. Code cove…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">software development is undergoing a tectonic shift. For…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:59 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 00:07 UTC</text>
 
 </svg>
