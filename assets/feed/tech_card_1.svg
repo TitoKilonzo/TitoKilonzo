@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Is the Electric Trike the Next Big Thing in Shared</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Festival Must-Haves, Field-Tested at Lost Lands and</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Micromobility?</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Electric Forest</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Boone Ashworth &#183; Jul 28, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Louryn Strampe &#183; Jul 29, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Veo is launching accessibility-focused electric tricycles in</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Our field-tested gear includes power banks, electrolytes,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Denver, with plans to put its e-trikes on the st…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">outdoor blankets, earplugs, and more.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 11:23 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 14:04 UTC</text>
 
 </svg>

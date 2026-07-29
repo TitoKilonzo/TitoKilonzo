@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How Compilers Work — From text you wrote to</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The Personal AI Cloud: Why Everyone Will Have Their</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">instructions a CPU runs.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Own Private LLM by 2027</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Toc am &#183; Jul 29, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; The AI Prism &#183; Jul 29, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;From text you wrote to instructions a CPU runs. A compiler</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Originally published on The AI Prism When was the last time</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">is a translator with several passes. It reads your…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">you actually read the terms of service before hit…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:24 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:04 UTC</text>
 
 </svg>
