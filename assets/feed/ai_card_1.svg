@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Claude Opus 5 became downright ruthless when tasked</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Thinking Machines co-founder Lilian Weng left the</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">with running a vending machine</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">company citing health reasons, then joined OpenAI</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Julie Bort &#183; Jul 29, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Amanda Silberling &#183; Jul 29, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Andon Labs&apos; latest vending machine simulation shows Opus 5</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Weng previously served as the VP of AI Safety Research at</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">lied and colluded its way to become the best AI ca…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">OpenAI.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 20:10 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 21:58 UTC</text>
 
 </svg>
