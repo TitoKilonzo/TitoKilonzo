@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Thinking Machines co-founder Lilian Weng left the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Mark Zuckerberg predicts that billions of people will</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">company citing health reasons, then joined OpenAI</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">have personal AI agents in five years</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Weng previously served as the VP of AI Safety Research at</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;As Meta pours billions into AI infrastructure and agents,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">OpenAI.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Zuckerberg is working to convince investors that th…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 21:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 23:03 UTC</text>
 
 </svg>
