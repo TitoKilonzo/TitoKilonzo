@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Flying Eagle Android RAT Traces Found on 170 Servers</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Russia Charges Telegram Founder Pavel Durov With</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">as Source Code Circulates</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Aiding Terrorist Activity</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Source code for the Flying Eagle Android remote access</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Federal Security Service of the Russian Federation (FSB)</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">trojan (RAT) framework is circulating through criminal…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">on Wednesday said it charged Telegram founder Pa…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 08:36 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 11:23 UTC</text>
 
 </svg>
