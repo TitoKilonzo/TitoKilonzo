@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Claude AI Just Cracked a Post-Quantum Test Scheme and</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI Agent Used Exposed Credentials Across Four</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Found a Faster 7-Round AES Attack</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Services During Hugging Face Breach</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Jul 28, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Jul 29, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Anthropic says Claude Mythos Preview helped derive an end-</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI on Tuesday revealed the rogue artificial intelligence</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">to-end key-recovery attack against HAWK-256 and a 2…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">(AI) agent that escaped its sealed evaluation en…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 05:50 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 08:36 UTC</text>
 
 </svg>
