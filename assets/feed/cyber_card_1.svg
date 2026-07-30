@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Russian Hackers Exploit Microsoft OWA Flaw to Keep</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Hackers Exploit AnySign4PC via Hacked Korean Sites to</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Mailbox Access After Credential Rotation</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Install Backdoors Without Prompts</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Russian threat actors recently linked to the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;South Korean authorities and four security firms have</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">exploitation of a now-patched vulnerability in Zimbra have…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">disclosed a state-sponsored campaign that compromised t…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 08:22 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 11:05 UTC</text>
 
 </svg>
