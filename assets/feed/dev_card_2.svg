@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Anonymous survey design starts with a data inventory,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">It Was Just a Patch Update. What Could Possibly Go</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">not a checkbox</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Wrong?</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; billy6go &#183; Jul 30, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Sylwia Laskowska &#183; Jul 30, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;“Anonymous” is often implemented as a missing name field.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;This is a submission for DEV&apos;s Summer Bug Smash: Smash</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">That is a start, but it is not a design method. A s…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Stories powered by Sentry . You know those version num…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:38 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:22 UTC</text>
 
 </svg>
