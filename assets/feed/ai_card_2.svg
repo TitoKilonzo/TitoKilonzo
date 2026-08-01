@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI reportedly finds evidence that more of its</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Sam Altman is still making the case for parenting via</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">agents ran amok</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">ChatGPT</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Lucas Ropek &#183; Jul 31, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Anthony Ha &#183; Aug 01, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI has reportedly found evidence of additional agent</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI&apos;s CEO seemed excited to share a &quot;cool use case&quot; for</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">misbehavior as it looks into the incident that occur…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">parents.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 19:17 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 20:49 UTC</text>
 
 </svg>
