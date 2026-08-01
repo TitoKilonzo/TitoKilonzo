@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I built an open, reproducible typing-speed test — and</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Google Gemini Expands Connected Apps With Dropbox,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">it won&apos;t show a number until it earns one</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Zillow and Viator</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Lucian (LKB) &#183; Aug 01, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ali Farhat &#183; Aug 01, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Search &quot;average typing speed&quot; and you&apos;ll get confident</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Google is broadening Gemini&apos;s connected-app ecosystem across</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">numbers — 40 WPM, 65 WPM, &quot;professionals hit 75&quot; — alm…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">everyday file work, rental search and enterprise…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:04 UTC</text>
 
 </svg>
