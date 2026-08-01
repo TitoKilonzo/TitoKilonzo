@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Sam Altman isn’t the only one who wants to pump the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI reportedly finds evidence that more of its</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">brakes on AI</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">agents ran amok</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Theresa Loconsolo &#183; Jul 31, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Lucas Ropek &#183; Jul 31, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;After years of pushing full speed ahead on AI, OpenAI CEO</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI has reportedly found evidence of additional agent</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Sam Altman says maybe it’s time for the AI industry…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">misbehavior as it looks into the incident that occur…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 16:04 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 17:58 UTC</text>
 
 </svg>
