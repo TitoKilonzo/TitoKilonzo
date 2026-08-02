@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Shrek owned the swamp. POUCHPO owns the payout.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Your cron job did not fail. It never ran.</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Alex &#183; Aug 02, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Dominik &#183; Aug 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Meet POUCHPO — a cute river king with an IoT crown.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;There is a specific kind of outage that does not show up in</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">https://www.youtube.com/watch?v=6IU1HhpBBGY He sells atte…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">any log you are reading. A backup job runs nightl…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:05 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:52 UTC</text>
 
 </svg>
