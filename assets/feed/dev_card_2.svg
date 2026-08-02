@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Context compaction happens in the dark. I made it</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How dotdotgod Query Finds Relevant Documents from a</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">happen on a map.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Natural-Language Question</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Xia Chen &#183; Aug 02, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; dotdot &#183; Aug 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Every long AI session ends the same way. The context window</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A documentation table of contents is the fastest retrieval</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">fills up, and something has to give. Most tools h…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">method when an agent knows the relevant role and p…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:34 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:55 UTC</text>
 
 </svg>
