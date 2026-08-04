@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Fake Adobe and Zoom Updates Install ScreenConnect for</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Greatness PhaaS Adds Device Code Phishing to Bypass</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Persistent Remote Access</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">MFA and Steal Tokens</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity researchers have disclosed details of an</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The commercial phishing-as-a-service (PhaaS) toolkit known</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">active, multi-wave campaign that employs social engine…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">as Greatness has become the latest crimeware solut…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 15:30 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 17:46 UTC</text>
 
 </svg>
