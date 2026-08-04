@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Google&apos;s AI tools for developers and enterprise, and</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Running Celery in Production: What We Do Differently</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">when to actually reach for each</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">After Years of Real Projects</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Sireesha Pulipati &#183; Aug 03, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Lycore Development &#183; Aug 04, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Beyond the consumer surfaces most people know, the Gemini</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The first time we deployed Celery to production on a client</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">app and Gemini Notebook (formerly NotebookLM), Goog…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">project, we thought we had done everything right.…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:06 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 00:06 UTC</text>
 
 </svg>
