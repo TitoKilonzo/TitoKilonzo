@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">A Security Pro Hacked North Korean Hackers. He Found</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI’s Browser Could Be Hijacked to Spam Your</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">They’d Breached Hundreds of Networks Worldwide</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">WhatsApp Contacts</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Matt Burgess, Andy Greenberg &#183; Aug 05, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Matt Burgess &#183; Aug 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;For nearly two years, researcher Vangelis Stykas has</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Researchers at security firm Zenity found more than a dozen</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">maintained access to North Korean hackers’ servers. His …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">flaws in AI browsers—and managed to get OpenAI’s …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 06:27 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 09:37 UTC</text>
 
 </svg>
