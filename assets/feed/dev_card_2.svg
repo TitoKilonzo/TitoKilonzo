@@ -32,7 +32,7 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Disaster Recovery for AI Systems</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Audio Fingerprinting and Deduplicating a Media Library</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -40,16 +40,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Disaster recovery for an AI system is unusual in one</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Audio fingerprinting identifies a recording from a short,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">respect: several of its largest assets can be rebuilt fr…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">noisy excerpt of it. The published algorithm behind…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:36 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:31 UTC</text>
 
 </svg>
