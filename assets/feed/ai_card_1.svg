@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Cloudflare launches Kitesurf, a browser built for AI</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI says it slowed Astra model development over</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">agents</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">security concerns</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Sarah Perez &#183; Aug 07, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Kirsten Korosec &#183; Aug 07, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Kitesurf is a cloud-hosted browser designed for AI agents</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI said it has suspended work on some aspects of its</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">instead of people. It uses less computing power tha…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">upcoming model Astra over concerns about its cyberse…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 22:31 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 23:31 UTC</text>
 
 </svg>

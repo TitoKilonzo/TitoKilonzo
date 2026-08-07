@@ -33,17 +33,17 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-07 at 22:31 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-07 at 23:31 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/multigrid/audio-input-speech-to-text-vs-native-audio-models-51he"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/jasperflint6947/speech-to-text-plus-multi-model-transcript-summaries-one-api-key-or-two-1ei5"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/multigrid/audio-fingerprinting-and-deduplicating-a-media-library-3a2"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/multigrid/demand-forecasting-for-inventory-the-loss-is-not-symmetric-2p2b"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
