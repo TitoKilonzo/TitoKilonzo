@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Learning Go as a Ruby Developer — Part 4: What can we</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">ASDF ou Mise em 2026? Gerenciando PHP, Node.js e</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">do with a single &quot;for&quot;</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Python no Linux e macOS</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Shrouk Abozeid &#183; Aug 07, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Jean Dias &#183; Aug 07, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;So loops in ruby has several ways to implement 10 . times do</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Se você trabalha com múltiplos projetos, provavelmente já</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">| i | puts i end while condition # ... end users…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">encontrou algo parecido: project-a ├── PHP 8.5 ├── …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:51 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:47 UTC</text>
 
 </svg>
