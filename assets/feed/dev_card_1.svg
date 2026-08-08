@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Un revisore ha trovato tre criteri WCAG sbagliati nel</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Redbelly Network Troubleshooting Guide: 22 Common</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">mio plugin di accessibilità. Sono andato a guardare,…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Developer Errors and Their Fixes</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Grounded &#183; Aug 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Isaac Atunbi &#183; Aug 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Sviluppo uno scanner di accessibilità per WordPress. La</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Redbelly Network Troubleshooting Guide 22 common developer</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">settimana scorsa il revisore di un marketplace me l&apos;h…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">errors, with the exact command that fixes each one…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:29 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:26 UTC</text>
 
 </svg>
