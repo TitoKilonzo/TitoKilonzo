@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why I Didn’t Build a Custom VPN App: What WireGuard</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">One Key for Claude, GPT, and Gemini: the Gateway</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Gave Me and Where the Real Problems Started</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Pattern</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; HVPN &#183; Aug 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; DevOps Daily &#183; Aug 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Lessons from building a small VPN service around standard</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The moment an app talks to more than one model provider, the</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">WireGuard clients instead of a proprietary app When…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">plumbing multiplies. OpenAI wants its key and it…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:33 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:26 UTC</text>
 
 </svg>
