@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How I Automate My Freelance Workflow with Python</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Vox Pupuli Container Statistics</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Caper B &#183; Aug 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Robert Waffen &#183; Aug 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;How I Automate My Freelance Workflow with Python As a</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Hello everyone! I am excited to share some updates regarding</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">freelance developer, I&apos;ve learned that streamlining my …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">container statistics. We now have a page where w…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:29 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:25 UTC</text>
 
 </svg>
