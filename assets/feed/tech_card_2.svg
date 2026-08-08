@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Google Workspace Promo Codes: 14% Off for August 2026</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Scientists Used AI to Create 16 New Viruses</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Gear Team &#183; Aug 07, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Fernanda González &#183; Aug 07, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Boost your productivity and save with exclusive Google</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The use of AI systems to create viruses opens up new</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Workspace coupons from WIRED. Get up to 14% off plans …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">possibilities for combating bacterial resistance. It als…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 09:34 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 10:29 UTC</text>
 
 </svg>
