@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-09 at 12:44 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-09 at 13:47 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/harryfloyd/start-here-what-survives-when-the-surface-changes-5bk8"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/codenameone/on-device-ai-and-mcp-on-every-port-9a2"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/harryfloyd/skills-are-package-management-for-your-ai-h6l"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/mansio/what-i-learned-building-a-long-lived-ai-agent-the-boring-version-32p8"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
