@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Microsoft Word 1.1a for Windows Goes Native x64: A</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Andrew Ng at Berkeley: AGI is a contract term, the</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Retro Port for the Ages</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">jobocalypse is a myth, and bubble risk is in the…</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Kai X Intelligence &#183; Aug 09, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Andrew Kew &#183; Aug 09, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Microsoft Word 1.1a for Windows Goes Native x64: A Retro</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;At the UC Berkeley Agentic AI Summit last week, Andrew Ng</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Port for the Ages When a mysterious thread titled &quot;W…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">sat down with Sequoia&apos;s Alfred Lin for a fireside c…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:38 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:36 UTC</text>
 
 </svg>
