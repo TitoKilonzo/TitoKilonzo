@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Here Are the First Images of the Crater Left on the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Space Agencies Are Trying to Keep Astronauts From</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Moon by SpaceX’s Rocket</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Losing Their Sight</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Jorge Garay &#183; Aug 08, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Isabella Ward &#183; Aug 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The Korea Aerospace Research Institute shared images that</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A device currently being used to help octogenarians do self-</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">show the gash on the surface. It’s pretty small.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">administered eye exams could be part of future sp…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 05:23 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 07:27 UTC</text>
 
 </svg>

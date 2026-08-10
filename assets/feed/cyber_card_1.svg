@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Atlassian Rovo Can Be Tricked Into Sending Jira and</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI&apos;s Next AI Model Astra Shows Cyber Performance</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Confluence Data to Attackers</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Strong Enough to Trigger Pause</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Aug 08, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Aug 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Attacker-controlled instructions can make Atlassian&apos;s Rovo</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI has announced that it&apos;s pausing some &quot;internal</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">assistant collect Jira or Confluence data that a s…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">activities&quot; involving its upcoming artificial intellige…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 05:23 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 07:27 UTC</text>
 
 </svg>

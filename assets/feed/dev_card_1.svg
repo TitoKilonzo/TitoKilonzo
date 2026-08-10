@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Don&apos;t Just Be a Coder. Be a Street-Smart Coder Instead</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Open Source WordPress Contribution: My July 2026 Recap</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Cesar Aguirre &#183; Aug 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Faisal Ahammad &#183; Aug 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;For Street-Smart Coding Manifesto, the prequel of my coding</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;July felt different from the start. I opened the month with</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">trilogy, I wrote what being a street-smart coder …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">a WooCommerce logging bug and closed it 24 pull r…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:23 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:27 UTC</text>
 
 </svg>
