@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why I Chose NestJS and Never Looked Back</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">What Happens When 20,000 People Click the Same Seat</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Peace Melodi &#183; Aug 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Mohamed Abdelbary &#183; Aug 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A few years ago, I was just another developer trying to</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Building a seat picker is easy. You render a map, you colour</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">figure out how to build things that actually work, no…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">the free seats blue, you let people click. Then …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:38 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:34 UTC</text>
 
 </svg>
