@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Hackers Breach Polish Power Plant Controls via Private</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Gunra Ransomware Exploits Fortinet and Schneider</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Cellular Network and Shut Turbine</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Electric Flaws to Breach Networks</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Attackers shut down a steam turbine and the process-water</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Cybersecurity and intelligence agencies from South Korea and</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">treatment system at a Polish combined heat and powe…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">the U.S. warned of Gunra ransomware attacks targ…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 09:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 10:54 UTC</text>
 
 </svg>
