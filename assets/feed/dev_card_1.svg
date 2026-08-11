@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Vada Pav - An Interactive Landing Page for Mumbai&apos;s</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Stop your coding agent from cat-ing .env: a Claude</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Favorite Street Food</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Code hooks cookbook</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Tejas Patil &#183; Aug 11, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Otto &#183; Aug 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;``Frontend Challenge Perfect Landing Submission 🍲🥧 This is a</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Your coding agent is a process that reads your filesystem</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">submission for Frontend Challenge - Comfort Food…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">and runs shell commands with your credentials. Most…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:41 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:58 UTC</text>
 
 </svg>
