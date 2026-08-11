@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">JavaScript Notes: Basics</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Are we still reading code?</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Peiwen Li &#183; Aug 11, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; danielblignaut &#183; Aug 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Originally written on 2020-03-26 . DEV&apos;s displayed</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;People are starting to coin the term ADLC or Agentic</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">publication date reflects this archive migration. I decide…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Development Lifecycle. A lot of this seems to be combini…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:21 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:58 UTC</text>
 
 </svg>
