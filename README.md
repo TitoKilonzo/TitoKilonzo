@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-11 at 03:41 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-11 at 05:04 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -66,10 +66,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://www.wired.com/story/squarespace-promo-code/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/first-images-spacex-rocket-moon-crater/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/copyleftdev/write-down-every-guarantee-before-you-write-any-code-21oi"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/sahil_khurana_486f374ecf2/10-python-design-patterns-to-streamline-your-python-development-projects-3fbi"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/alanbabychan/team-matrix-or-team-paper-alan-babychan-1ai"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/hao764/how-i-built-gifthive-an-ai-gift-finder-that-actually-picks-gifts-people-want-26bh"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
