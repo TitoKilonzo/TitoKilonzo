@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-11 at 20:00 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-11 at 21:42 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -53,10 +53,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/programmingcentral/architecting-enterprise-autonomous-web-agent-saas-from-theory-to-typescript-production-5fll"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/ido_barkan/should-i-raise-venture-capital-or-bootstrap-2clo"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/gitguardian/what-ai-agents-can-teach-us-about-nhi-governance-1546"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/alifar/google-expands-gemini-35-with-flash-omni-and-spark-across-apps-and-enterprise-tools-47oc"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
