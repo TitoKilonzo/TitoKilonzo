@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I Built a RAG App on My Laptop Without Paying OpenAI a</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Is Removing the Middle Class of Software</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Single Rupee Here&apos;s How</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Engineering</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Nilesh Raut &#183; Aug 12, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Chen Yuan &#183; Aug 12, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A few weeks ago I got tired of watching my API usage bill</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;You can prompt an agent for three hours and ship a</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">creep up every time I tested a new idea for a docum…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">25,000-line pull request. Nobody on your team can tell you…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:54 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:56 UTC</text>
 
 </svg>
