@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-12 at 01:45 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-12 at 04:05 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/avijitbera/what-is-the-circuit-breaker-pattern-a-practical-guide-20i4"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/w_bushg_ee2cdfa6c771a866/a-self-hosted-market-dashboard-that-needs-zero-api-keys-a-shares-hk-us-gold-commodities-4bfo"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/vibeagentmaking/we-counted-ai-hallucination-disclosures-in-every-10-k-pharma-outnumbered-software-29-to-10-1n6e"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/datacpp_8185/your-free-ai-model-changed-overnight-heres-a-snapshot-test-suite-that-notices-p47"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
