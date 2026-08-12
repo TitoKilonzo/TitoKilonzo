@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Could Help Fossil Fuel Companies Create More</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">India’s Yulu raises $93M as quick-commerce boom fuels</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Emissions</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">e-bike demand</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Molly Taft &#183; Aug 11, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Jagmeet Singh &#183; Aug 12, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;New research finds that by making the fossil fuel industry</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Yulu aims to have a fleet of 200,000 bikes in the next two</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">more productive, AI could help increase carbon emi…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">years and faster electric two-wheelers, aiming at …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 04:05 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; TechCrunch &#183; &#128336; Updated 06:11 UTC</text>
 
 </svg>
