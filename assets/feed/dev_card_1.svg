@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">One Prompt Can Make a Game Demo. That Is Not the Same</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Are You Really Making the Most of Static Code</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">as Making a Game.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Analysis?</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Nolan Pierce &#183; Aug 13, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Jean Klebert de A Modesto &#183; Aug 13, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A playable first-person shooter generated from one prompt</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;If you write PHP and work with Symfony every day, chances</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">would have sounded absurd not long ago. Now, videos…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">are you’ve already run PHPStan or Psalm, or at leas…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:01 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:42 UTC</text>
 
 </svg>
