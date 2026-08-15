@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-15 at 01:05 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-15 at 02:49 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/alessandrobinda114/every-whatsapp-chatbot-framework-is-broken-heres-what-i-built-instead-3d2"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/gophernment/goish-phrtranaithmkhng-go-thangtawlngain-nostd-rust-4g0n"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/cognitalk/lean-chuang-shi-ren-fang-tan-quan-ji-lu-dang-xing-shi-hua-yan-zheng-yu-shang-aishou-xie-shu-xue-yu-ruan-jian-yan-zheng-jiang-ru-he-bei-zhong-su-4kdp"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/evanshepherd8274/supplier-invoice-speech-to-text-eu-startup-validation-beyond-per-minute-pricing-2h0a"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
