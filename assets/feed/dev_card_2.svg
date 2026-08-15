@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Context Engineering and Harness Engineering: Building</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Reliable AI Agents Beyond Prompts</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">with Murf Falcon &amp; LiveKit (10 Days of Voice Agents)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; minoblue &#183; Aug 15, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; DanitZ &#183; Aug 15, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Prompt engineering tells the model what to do. Context</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor. Over</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">engineering gives it the right information. Harness en…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">the past 10 days, as part of the #VoiceForBharat…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:22 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:19 UTC</text>
 
 </svg>
