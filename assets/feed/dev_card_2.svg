@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">El patrón Repository en NestJS: una colección que,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">LioranDB TypeScript Series #6: Secondary Indexes and</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">casualmente, vive en una base de datos</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Full-Text Indexes</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Hector Angel Gomez Robaina &#183; Aug 15, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Swaraj Puppalwar &#183; Aug 15, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;El punto de partida canónico de un módulo de NestJS con</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;LioranDB TypeScript Series #6: Secondary Indexes and Full-</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">TypeORM es el que documenta el propio framework: el m…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Text Indexes LioranDB TypeScript Series: Build with…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:19 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:19 UTC</text>
 
 </svg>
