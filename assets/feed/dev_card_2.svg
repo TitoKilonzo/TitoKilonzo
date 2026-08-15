@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Stop Wasting Free Model Calls on Trivial Diffs: A</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Exploring Qwen 3.8 27B: A Powerful AI Model for</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Three-Tier Escalation Ladder</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Developers</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Jordan Huang &#183; Aug 15, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Naveen Malothu &#183; Aug 15, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A merge request changes one README line. The pipeline still</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Introduction to Qwen 3.8 27B Qwen 3.8 27B is a state-of-the-</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">calls a model. It costs tokens. It adds latency. …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">art language model that has been released on the …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 03:35 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 04:27 UTC</text>
 
 </svg>
