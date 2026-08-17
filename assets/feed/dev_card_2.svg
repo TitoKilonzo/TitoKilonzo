@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Why I don’t want AI agents executing code in someone</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Mastering Salesforce Automation: A Complete Guide to</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">else’s cloud</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Centralized Test Locators</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Nick van Dort &#183; Aug 17, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Shell QA &#183; Aug 17, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;AI agents are getting access to increasingly powerful tools.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Scaling test automation across a large platform like</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">They can execute code, query databases, call API…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Salesforce often leads to flaky tests, duplicated code, …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:28 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:22 UTC</text>
 
 </svg>
