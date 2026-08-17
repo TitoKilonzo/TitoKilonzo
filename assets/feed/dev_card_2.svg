@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Running three AI models on one local server when your</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Agent Data Deletion Pipeline: Remove Prompts,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">VRAM doesn&apos;t cover all of them</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Traces, and Memory for Real</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Tae Kim &#183; Aug 17, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Jack M &#183; Aug 17, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The first time I tried loading Whisper, bge-m3, and gemma at</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A delete button is easy to ship. Real deletion is much</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">the same time on my local box, it OOMâ€™d immedi…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">harder. That gap matters more with AI agents than with…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:56 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 03:51 UTC</text>
 
 </svg>
