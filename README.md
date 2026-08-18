@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-18 at 04:32 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-18 at 05:25 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/ggg_party_98c7744276773d6/ai-fu-zhu-i18nwo-shi-zen-yao-ba-3-xiao-shi-fan-yi-ya-suo-dao-30-fen-zhong-de-4po3"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/uiuxsatyam/new-tabs-are-usually-just-blank-so-i-built-cosmos-a-new-tab-workspace-with-something-i-havent-398m"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/fairchildblake8483/code-review-retrieval-explained-simple-semantic-and-keyword-search-with-portable-reranking-p0"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
