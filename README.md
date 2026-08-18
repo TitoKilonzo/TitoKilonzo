@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-18 at 22:19 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-18 at 23:18 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -66,10 +66,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/piyarkhatrizx/building-an-ai-insurance-claim-analyzer-with-rocketride-1kne"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/dibodev/my-static-nuxt-blog-publishes-itself-drafts-scheduled-drip-and-auto-rebuilds-4hmi"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
