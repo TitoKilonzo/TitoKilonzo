@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Quantum Computing: A Complete Learning Path</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Appwrite MCP vs Vercel MCP: I benchmarked both</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Malcolm Low &#183; Aug 19, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Chirag Aggarwal &#183; Aug 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;QUANTUM SERIES 2026 — The complete learning path, from a</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;An MCP server should be judged by what an agent can finish,</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">single qubit to Grover&apos;s algorithm. This is the inde…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">not by how many tools sit in its catalog. So I po…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:27 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:23 UTC</text>
 
 </svg>
