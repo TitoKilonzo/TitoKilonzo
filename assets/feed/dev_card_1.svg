@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Building a Vertical Corpus Builder: Clean JSONL</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">GitHub API Rate Limits: an Unauthenticated 304 Still</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Datasets for LLM Fine-Tuning</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Costs You a Request</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Oaida Adrian &#183; Aug 19, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Alex Spinov &#183; Aug 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Raw web pages are terrible training data. Nav bars, cookie</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;No token. One IP. July 29, 2026: GET /repos/python/cpython</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">banners, &quot;related articles&quot; and ads drown the sign…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">200 5996 B remaining 32 -&gt; 31 + If-None-Match (no …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:21 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:40 UTC</text>
 
 </svg>
