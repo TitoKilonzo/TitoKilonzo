@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Shared Memory Graph for Claude &amp; ChatGPT Over MCP</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">QZ Tray with React: Print Directly from the Browser</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Felipe L &#183; Aug 19, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Juliusz Kowalewski &#183; Aug 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;What Happened The community released a shared memory graph</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Browser printing has always been the awkward corner of web</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">for Claude and ChatGPT that runs over the MCP (Mes…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">development. window.print() gives you a print dial…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:41 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:30 UTC</text>
 
 </svg>
