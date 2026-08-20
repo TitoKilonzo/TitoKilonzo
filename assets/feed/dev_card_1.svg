@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How to Plug a Lambda Function into a Legacy</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I Brought IdentityServer Back to Life as Open Source</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Application Without Changing a Single Line of Code</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">(.NET 8)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Jeancy Joachim Mukaka &#183; Aug 20, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Richard Víquez Pérez &#183; Aug 20, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Introduction Every development team has one, that critical</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I Brought IdentityServer Back to Life as Open Source (.NET</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">application that runs the business, that nobody da…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">8) The original IdentityServer project was commerc…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:24 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:22 UTC</text>
 
 </svg>
