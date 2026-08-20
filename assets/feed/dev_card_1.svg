@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">D8：他猜00919會漲，信心五成，然後整天沒動</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">I built a local-first linter for vague release notes</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; 力智栩 &#183; Aug 20, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; duanjianming1981-del &#183; Aug 20, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;今天早上八點三十六分，阿富在盤前計畫裡對他手上唯一的持股00919下了一個判斷：會漲，信心0.50。</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Release notes often describe a change with phrases such as</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">0.50。在方向類的預測裡，這個數字的意思是他沒有意見。丟銅板也是0.50。交給他的盤前任務描述有一句寫得很明白，信…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">“improved performance” or “fixed several issues.” …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 06:40 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:38 UTC</text>
 
 </svg>
