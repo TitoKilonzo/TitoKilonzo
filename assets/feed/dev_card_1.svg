@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">FFmpeg-Kit-Extended Upgraded to FFmpeg 9.0.1: New</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">The error pointed at the GPU. The culprit was the HBA.</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">FFmpeg, FFprobe &amp; FFplay Features for Flutter and…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">— a Proxmox passthrough recovery</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; akashskypatel &#183; Aug 20, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; JJozzieTech &#183; Aug 20, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;FFmpegKit Extended is moving from FFmpeg 8.1.2 to FFmpeg</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The plan looked textbook. PCIe passthrough an NVIDIA RTX</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">9.0.1 &quot;Lei&quot; , giving Flutter and React Native applic…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">A4000 from a Proxmox 8 host into an Ubuntu 24.04 VM,…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 19:28 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:24 UTC</text>
 
 </svg>
