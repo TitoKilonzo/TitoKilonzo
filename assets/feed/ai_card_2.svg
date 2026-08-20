@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Cognition CEO denies report that SpaceX tried to</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI seeks to one-up Anthropic with new customer</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">acquire the startup</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">privacy protections</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Rebecca Bellan &#183; Aug 19, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Lucas Ropek &#183; Aug 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;SpaceX was reportedly in talks to buy AI coding startup</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A competition is developing between OpenAI and Anthropic</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Cognition. SpaceX has already acquired Cursor as it r…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">over who can provide the best privacy protections fo…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 08:34 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 09:31 UTC</text>
 
 </svg>
