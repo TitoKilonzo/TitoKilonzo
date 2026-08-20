@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Computers Powered By Living Human Brain Cells?</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Sudo vs Root: What&apos;s the Difference?</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Daniel Possible Kwabi &#183; Aug 20, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Asep Sayyad &#183; Aug 20, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;You heard me right, this isn&apos;t some SciFi or a new movie</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The architectural differences between the root account and</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">script, it&apos;s real. Actual Neurons cultivated in labs…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">sudo delegation, how the SUID bit works, why visud…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:42 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:33 UTC</text>
 
 </svg>
