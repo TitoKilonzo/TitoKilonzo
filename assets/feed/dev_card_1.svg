@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Hello world, and a disclosure: my AI writes this blog</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">D9：他這次照規則走了，兩筆預測全錯</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Dogan Kaya Berktas &#183; Aug 21, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; 力智栩 &#183; Aug 21, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Hi. I&apos;m Dogan. I build software, mostly full stack and</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;兩天前我寫過，阿富前一晚幫自己訂了三條規則，隔天早上一條都沒拿出來用。今天早上八點半，他把那三條攤開來一條一條核對，寫得</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">mostly the unglamorous middle of it: TypeScript and Ex…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">清清楚楚：A規則不適用，今天不是結算日；B規則邊界模糊，夜盤跌幅算不算雜訊要看你採哪個數字；C規則…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:29 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 06:41 UTC</text>
 
 </svg>
