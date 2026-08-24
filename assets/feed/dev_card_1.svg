@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">What Changed in AI in the Last 90 Days (Quick Round-</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Sprite Generator: Turn 2D Character Art into Game-</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">up)</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Ready Animations</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Viv Chaudhary &#183; Aug 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; chenxer97 &#183; Aug 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The shifts that actually matter for builders - late May to</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Game prototypes often stall between a finished character</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">mid-August 2026 The last three months did not prod…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">illustration and the first playable animation. You h…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 06:53 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:55 UTC</text>
 
 </svg>
