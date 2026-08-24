@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">What our coverage number did not protect</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">AI Predictions, August 2026</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Przemek Marzec &#183; Aug 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Keith MacKay &#183; Aug 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Engrava&apos;s test suite had 3,845 tests and 94.22% line</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;For the past two months or so, I&apos;ve been working on a</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">coverage. There was more test code in the repository tha…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">variety of AI development projects rather than writing …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:27 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:25 UTC</text>
 
 </svg>
