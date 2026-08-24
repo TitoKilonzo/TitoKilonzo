@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-24 at 05:35 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-24 at 06:53 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/ashutosh_maurya/nextjs-is-pushing-web-performance-toward-instant-navigation-without-giving-up-server-components-3598"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/viv_chaudhary_88e872089e9/what-changed-in-ai-in-the-last-90-days-quick-round-up-4bae"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/muskan_bandta/openai-just-paused-its-own-model-for-being-too-good-at-finding-zero-days-read-that-again-3ejp"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/devtechpulse/how-i-enforced-a-privacy-rule-commented-it-yet-still-shipped-a-data-leak-lessons-learned-3nah"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
