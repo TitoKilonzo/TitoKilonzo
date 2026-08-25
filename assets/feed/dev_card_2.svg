@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Hierarchical Clustering Fails Beautifully</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Why real-time restock alerts are harder than they look</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Nishant Banginwar &#183; Aug 25, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Restockd &#183; Aug 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Classic Machine Learning Through the Eyes of an SRE — Part 8</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A restock alert sounds like a tiny programming exercise.</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">The most dangerous output in my whole Week-1 stu…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Check whether a product is in stock. Notice when the…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 03:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 04:35 UTC</text>
 
 </svg>
