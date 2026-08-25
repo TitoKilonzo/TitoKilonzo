@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-25 at 01:07 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-25 at 02:55 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/viniciusbig/per-user-two-factor-auth-in-cakephp-with-cakedcusers-opt-in-one-method-4n6d"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/adream_e_e0c901e40c61a1bd/looking-for-advice-best-patterns-for-automating-supabase-edge-workflows-in-a-reactcapacitor-app-1197"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/danielbankss/i-built-a-free-image-and-video-hosting-tool-after-imgur-blocked-the-uk-29na"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/merlonix/someone-can-get-an-ssl-certificate-for-your-domain-ct-logs-are-how-you-find-out-43nf"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
