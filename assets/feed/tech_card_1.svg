@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Forget Meta Ray-Bans. These Dorky-Looking Virtual</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Display Glasses Are Way More Useful</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Price, Release Date</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Boone Ashworth &#183; Aug 24, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Luke Larsen &#183; Aug 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Tethered display glasses are truly practical face computers.</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Apple’s Mac Mini and Mac Studio have been tough to buy for</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">They trade bulky spatial computing for simplicit…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">months, but updated versions have arrived. Both in…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 12:41 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 13:47 UTC</text>
 
 </svg>
