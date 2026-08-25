@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-08-25 at 06:41 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-08-25 at 07:41 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/_2ab71a79dd36101e6be89/d11ta-zuo-tian-xin-zeng-de-gui-ze-jin-tian-di-ci-shang-chang-jiu-gei-chu-xiang-fan-de-jie-shi-147h"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/pm25coder/when-the-self-improving-agent-almost-lost-the-hosts-work-a-postmortem-2079"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/respect17/how-to-write-a-developer-cv-that-survives-ats-and-still-reads-like-a-human-wrote-it-4ilb"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/voice_ofwomenleaders_6d/what-hair-care-apps-can-learn-from-personalization-and-recommendation-systems-3f0d"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
