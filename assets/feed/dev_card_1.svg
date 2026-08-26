@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">情報が増えたときの整理を考える—シソーラス・タクソノミー・オントロジー</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How Many Builds Can Run at Once on One VPS</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; miho &#183; Aug 26, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Görkem Yıldırım &#183; Aug 26, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;要点 呼び方の揺れにはシソーラス、置き場所の迷いにはタクソノミーが役立ちます</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The number is not a property of your deployment tool. It is</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">複数の情報がどう関係するかまで扱うなら、オントロジーを検討できます…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">your server&apos;s available memory divided by what on…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:37 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:32 UTC</text>
 
 </svg>
