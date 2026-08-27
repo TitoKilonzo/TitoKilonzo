@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">[LINE Bot Debugging] A 403 Error and Three Underlying</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Code vs. Reality: The Multi-Dimensional Role of Modern</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Issues: npm Version Drift, Node.js Requirements, and…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">QA</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Evan Lin &#183; Aug 27, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Valery Odinga &#183; Aug 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Previously &quot;URL retrieval failed, help me check the logs.&quot; I</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Confessions of a Dev: Why &quot;It Works on My Machine&quot; is No</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">receive this kind of report about once every wee…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Longer Enough For years, the definition of a success…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:54 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:45 UTC</text>
 
 </svg>
