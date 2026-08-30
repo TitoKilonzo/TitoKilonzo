@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Nobody Is Going to Read Ten Thousand Stack Traces</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How I Used an Uncensored Local LLM for Adversarial QA</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Again</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">on My macOS App</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Jeel Vankhede &#183; Aug 30, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Tetsuharu Fujiki &#183; Aug 30, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Every engineer who has been at this a while has an old Stack</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;When you build a security app as a solo developer, the</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Overflow profile sitting somewhere. A reputation…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">hardest engineering problem isn&apos;t writing the defense …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:53 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:33 UTC</text>
 
 </svg>
