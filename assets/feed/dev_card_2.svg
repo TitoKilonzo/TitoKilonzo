@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">RAG Without the Hype: Make Retrieval Observable,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How I Ran the Full Supabase Stack Locally in 100 MB of</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Testable, and Replaceable</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">RAM (No Docker)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Antonio Lopes Correia &#183; Aug 31, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Chris F A &#183; Aug 31, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;How my agent actually finds answers — and what happens when</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;How I Ran the Full Supabase Stack Locally in 100 MB of RAM</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">it doesn&apos;t Part 5 findings of an experiment: buil…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">(No Docker) Twelve containers. 1.6 GB of RAM. 45 s…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:31 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 17:51 UTC</text>
 
 </svg>
