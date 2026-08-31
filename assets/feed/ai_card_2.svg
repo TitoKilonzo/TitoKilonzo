@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">An Anthropic researcher just gave us a peek at self-</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Sony Music, Warner sue Anthropic, alleging a ‘brazen</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">improving AI</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">campaign’ of intellectual property theft</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Russell Brandom &#183; Aug 28, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Kirsten Korosec &#183; Aug 29, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Given 10 benchmarks for specific misaligned behaviors, the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;This latest lawsuit is particularly broad and homes in on</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">automated systems were able to improve performance…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">accusations of illegal piracy.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 17:51 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 22:26 UTC</text>
 
 </svg>
