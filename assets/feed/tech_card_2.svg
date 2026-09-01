@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">ATM Flaws Reveal Key Weaknesses in the Software Supply</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Dyson’s Next Act Is an Electric Toothbrush With a</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Chain</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Camera</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Lily Hay Newman &#183; Aug 31, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Julian Chokkattu &#183; Sep 01, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A security researcher discovered nine vulnerabilities</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;The company known for stick vacuums and hair dryers is</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">impacting ATM encryption and authentication software. B…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">coming for your teeth. The $499 Dyson CameraJet uses a…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 07:15 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 13:04 UTC</text>
 
 </svg>
