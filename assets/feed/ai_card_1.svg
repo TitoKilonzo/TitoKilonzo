@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI’s Astra model is on the way — and very good at</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI faces 30 more lawsuits tied to Tumbler Ridge</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">breaking into computer systems</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">shooting</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Tim Fernholz &#183; Sep 01, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Rebecca Bellan &#183; Sep 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI previewed the precautions it is taking as it prepares</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Edelson PC is filing 30 new lawsuits against OpenAI over the</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">to release Astra, its newest, cyber-critical LLM.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Tumbler Ridge shooting, escalating claims to aid…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 10:38 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 14:57 UTC</text>
 
 </svg>
