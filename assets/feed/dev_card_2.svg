@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Four Ways a Batch Runner Can Believe It Already</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How the WordPress transient API works, and when `wp</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Finished</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">transient delete` actually helps</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Jula Markova &#183; Sep 01, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Susumu Takahashi &#183; Sep 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;On 16 March 2026 the batch runner for our content pipeline</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;WordPress ships with a built-in way to store data</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">landed in a single commit. That commit already con…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">temporarily — save something for a fixed window of time, an…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:00 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 00:58 UTC</text>
 
 </svg>
