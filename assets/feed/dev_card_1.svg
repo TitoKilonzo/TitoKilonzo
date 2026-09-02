@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How I&apos;m Leveling Up My HTML Skills Using AI as a</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">MMTemplate: A Production-Ready React Native TypeScript</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Beginner 🚀</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Boilerplate</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Chamod Madhushan &#183; Sep 02, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Modha Manish (mm) &#183; Sep 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Hey everyone! 👋 I just joined Dev.to recently, and I’m</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;𝗦𝘁𝗼𝗽 𝘄𝗮𝘀𝘁𝗶𝗻𝗴 𝘁𝗶𝗺𝗲 𝗼𝗻 𝗯𝗼𝗶𝗹𝗲𝗿𝗽𝗹𝗮𝘁𝗲. 𝗦𝘁𝗮𝗿𝘁 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝘄𝗶𝘁𝗵</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">currently on a journey to learn web development. Like …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">𝗠𝗠𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲. 🚀 Calling all ReactNative developers! ⚛️ I …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:37 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:38 UTC</text>
 
 </svg>
