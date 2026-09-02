@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I Built 35+ Browser-Side Tools Because I Was Tired of</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Why is my LLM stream empty? A field guide to broken</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Uploading My Data to Random Servers</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">SSE responses</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Zhang Enquan &#183; Sep 02, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Mohammad Hasan Kaman &#183; Sep 02, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Every time I needed to format a JSON payload or compress an</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;If you have ever called an OpenAI-compatible API with</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">image, I found myself on some random tool site wi…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">streaming enabled and received... nothing , you are not…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:57 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:29 UTC</text>
 
 </svg>
