@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I built an iOS alarm that makes you scan a QR code</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Microsoft MAI-Thinking-1 Enters Public Preview Through</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">across the room to turn it off</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Foundry and MAI Playground</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Praveen kumar &#183; Sep 03, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ali Farhat &#183; Sep 03, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The problem I&apos;m a heavy sleeper. Not &quot;hit snooze once&quot;</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Microsoft AI has introduced MAI-Thinking-1 , a mid-weight</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">heavy. I would turn off three stacked alarms in my sle…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">reasoning model for enterprise tasks, in public pre…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:35 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:55 UTC</text>
 
 </svg>
