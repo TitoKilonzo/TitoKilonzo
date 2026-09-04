@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Self-Healing CI Fixes Your Environment. Your Coding</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Stop Paying for Vercel: How to Self-Host Your</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Agent Fixes the Code.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Deployments on a VPS and Keep the Same Workflow</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Kay &#183; Sep 04, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Saimul Islam &#183; Sep 04, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The agent is already in your workflow. The failed build is</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Push-to-deploy, automatic HTTPS, and preview environments on</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">where it goes blind. AI coding agents have moved f…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">a $24 droplet with Dokploy, plus the four mistak…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 00:45 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:29 UTC</text>
 
 </svg>
