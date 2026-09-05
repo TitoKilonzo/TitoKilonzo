@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">AI compute provider Nscale is looking for $3.5B in</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI confirms ‘wiki incident,’ says it’s ‘working on</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">pre-IPO financing</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">a framework’ for more disclosure</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Lucas Ropek &#183; Sep 04, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Anthony Ha &#183; Sep 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Nscale, which recently struck a $45 billion deal with</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI acknowledged its role in a recently reported incident</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Anthropic, is in talks to raise additional funds in ant…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">where AI agents took over a German wiki forum.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 17:08 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 19:55 UTC</text>
 
 </svg>
