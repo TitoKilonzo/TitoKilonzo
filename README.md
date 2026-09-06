@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-09-06 at 15:10 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-09-06 at 18:00 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/maximstone/what-it-really-takes-to-publish-a-browser-extension-jmo"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/michaelwolfenberger/docker-under-the-hood-namespaces-cgroups-and-layered-filesystems-explained-1414"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/charles_zhang_caffc21ad75/da-zao-shu-yu-zi-ji-de-wps-ai-agentge-ren-kai-fa-zhe-mcp-jie-ru-wan-quan-zhi-nan-nd9"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/akshatsoni26/beyond-vibes-architecting-closed-loop-ai-agents-with-local-slms-deterministic-evals-and-human-3kkf"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
