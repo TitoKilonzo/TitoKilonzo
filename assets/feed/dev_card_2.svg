@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Agent 审计日志的设计与实现</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">打造属于自己的 WPS AI Agent：个人开发者 MCP 接入完全指南</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Frankie &#183; Sep 06, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Charles Zhang &#183; Sep 06, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;实验组：纯 Agent 生成方式：agent_automatic 目标长度：2500 字</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;让 Claude、Cursor 直接操控你的 Word、Excel 和 PPT 每当聊到 AI</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">目标深度：intermediate 审计日志是 Agent…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">办公，我们总会遇到同一个痛点： AI 能说会道，但就是“动不了手”。 它可以给你写出周报的文案，但你得自己复制到…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 11:57 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:10 UTC</text>
 
 </svg>

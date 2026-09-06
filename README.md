@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-09-06 at 11:57 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-09-06 at 15:10 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -69,7 +69,7 @@
 <a href="https://www.wired.com/story/how-do-caterpillars-hear-without-ears/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/wilnowilx/goodbye-middlemen-how-i-built-an-open-source-bankless-donation-widget-for-the-dev-community-2koi"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/maximstone/what-it-really-takes-to-publish-a-browser-extension-jmo"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/frankie_yang_78df9e5017f8/agent-shen-ji-ri-zhi-de-she-ji-yu-shi-xian-24j7"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/charles_zhang_caffc21ad75/da-zao-shu-yu-zi-ji-de-wps-ai-agentge-ren-kai-fa-zhe-mcp-jie-ru-wan-quan-zhi-nan-nd9"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
