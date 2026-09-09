@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">U.S. Agencies Accuse China AI Firms of Distilling</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Webinar: Learn How to Answer “Are We Exposed?” Faster</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Claude, GPT, Gemini, and Grok</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">After a New CVE</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;U.S. cybersecurity and intelligence agencies have accused</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A major vulnerability is disclosed. The alert lands</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">China-based artificial intelligence (AI) companies …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">immediately. Then comes the harder question: Are we actua…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 13:23 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 17:32 UTC</text>
 
 </svg>
