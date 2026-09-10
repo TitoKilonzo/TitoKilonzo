@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Don&apos;t put getaddrinfo on your proxy&apos;s hot path</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How to send HTML form data to an email address</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Efrain Garay &#183; Sep 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Tilek Kubanov &#183; Sep 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I set out to benchmark Pingora 0.9.0 — the Rust proxy</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;You have a static page with a contact form. You want what</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">library Cloudflare runs at its edge — against nginx, in…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">people write in it to arrive in your inbox. You sea…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:23 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:42 UTC</text>
 
 </svg>
