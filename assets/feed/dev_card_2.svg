@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Grow Your Social Media By Sharing Stats &amp; Analytics</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">What SHAP Can&apos;t Explain About Agentic AI Fraud</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Uriel Bitton &#183; Sep 10, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; VectoreAI &#183; Sep 10, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Sharing stats can help you grow a social media audience when</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Traditional SHAP explanations reveal why a transaction looks</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">you explain what the numbers mean and what someo…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">risky but fail to capture the autonomous decisio…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:48 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:05 UTC</text>
 
 </svg>
