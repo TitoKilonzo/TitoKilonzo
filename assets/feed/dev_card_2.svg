@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">API Security Best Practices Every Developer Should</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">CVE-2026-12243 — How a Percent-Encoded Slash Bypasses</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Know</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">NLTK&apos;s Path Traversal Guard</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Tien Nguyen &#183; Sep 11, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; GUIDANCE WHITE &#183; Sep 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;APIs are the backbone of modern software. They power mobile</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;CVE ID CVE-2026-12243 Affects NLTK (Natural Language</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">apps, connect microservices, expose data to partn…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Toolkit) ≤ 3.9.4 Weakness CWE-22 (Path Traversal) CVSS 3…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 03:00 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:33 UTC</text>
 
 </svg>

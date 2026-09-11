@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Check Point Discloses Two 9.8-Rated VPN Certificate</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">China-Linked UNC3569 Exploited Sogou Input Method Flaw</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Flaws Enabling Unauthenticated RCE</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">to Deploy GRAYRABBIT Backdoor</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Sep 10, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Sep 11, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Check Point has patched two critical vulnerabilities in the</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A China-linked hacking group exploited a flaw in Sogou Input</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">way its firewall and management products handle V…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Method, one of the most widely used tools for ty…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 03:00 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 08:33 UTC</text>
 
 </svg>
