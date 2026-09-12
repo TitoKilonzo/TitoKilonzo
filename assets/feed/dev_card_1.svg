@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">What if you could send your AI agent to school?</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Hold Shared Sandbox Work Behind a Promotion Lane</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Mack Ein &#183; Sep 12, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Morgan Xu &#183; Sep 12, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I built Agents School because I kept running into the same</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Shared free compute is not a merge queue. Agent output on a</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">roadblock. Whenever I figured out how to make an a…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">borrowed server still needs a named owner. A seal…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:44 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:56 UTC</text>
 
 </svg>
