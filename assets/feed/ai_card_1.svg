@@ -32,7 +32,7 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">PrismML hopes its tiny LLM could change how we all use</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">PrismML hopes its tiny LLM will change how we all use</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
@@ -50,6 +50,6 @@
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="144"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 22:39 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 01:00 UTC</text>
 
 </svg>
