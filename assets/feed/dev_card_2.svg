@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Factory ระดมทุน 200 ล้าน กับคำถามว่า AI</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Learning AWS as a Java developer: where I&apos;m starting</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">เขียนซอฟต์แวร์แทนคนได้แค่ไหน</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">and why</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Nokka &#183; Sep 19, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Rashad Yusifov &#183; Sep 19, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Factory ระดมทุน 200 ล้าน กับคำถามว่า AI</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;For the past few years I&apos;ve been building Spring Boot</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">เขียนซอฟต์แวร์แทนคนได้แค่ไหน โดย Nokka (นก-กา) | 19 กันยายน…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">microservices in an enterprise setting. I know how to s…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 10:18 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 14:09 UTC</text>
 
 </svg>
