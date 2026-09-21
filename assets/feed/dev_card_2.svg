@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I built the same agent in Strands, LangGraph, and</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">HAProxy&apos;s 200 ms LLM token delay is a smart default.</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">CrewAI — and recorded every LLM call to see how they…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Here&apos;s when to change it.</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; sunnydachs &#183; Sep 21, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ron Northcutt &#183; Sep 21, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Which framework should I actually use? Every comparison</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;NOTE: I work at HAProxy, so I&apos;m probably a bit biased.</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">article has an opinion. Almost none of them has data.…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Still, this is an accurate look at the situation. A fu…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 05:59 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 12:38 UTC</text>
 
 </svg>
