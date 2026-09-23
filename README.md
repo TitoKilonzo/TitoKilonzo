@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-09-22 at 23:30 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-09-23 at 03:20 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-bybit-1alp"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/sarantoon/claude-opus-55-thuuklng-40-eprechntaetekngkhuen-sngkhraamomedlyukhaihmerimaelw-1jgh"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/skrylkovs/legendas-traduzidas-ao-vivo-numa-extensao-do-chrome-audio-da-aba-no-mv3-e-um-fluxo-em-vez-de-dois-28ae"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/jamilxt/claude-opus-55-vs-gpt-6-sol-the-same-day-price-war-deciding-what-your-ai-bill-looks-like-4a83"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
