@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Tesla’s big electric truck faces an even bigger</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Some Pancreatic Cells Are Just One Genetic Tweak Away</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">infrastructure challenge</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">From Treating Diabetes</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Aarian Marshall, wired.com &#183; Sep 26, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Jorge Garay &#183; Sep 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The 500-mile Semi arrives as charging gaps still limit</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;By deactivating a gene, researchers were able to cause cells</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">electric trucking.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">in the pancreatic ducts to produce insulin to re…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 10:33 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 18:25 UTC</text>
 
 </svg>
