@@ -142,7 +142,7 @@ const titoKilonzo = {
     devOps:    ["Docker", "Git", "Linux", "GitHub Actions"],
     security:  ["Network Security", "Penetration Testing", "SIEM", "Active Directory"],
   },
-  funFact:     "I turn caffeine into code ☕",
+  funFact:     "I turn caffeine into code ",
 };
 ```
 
@@ -163,7 +163,7 @@ const titoKilonzo = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TitoKilonzo&color=A78BFA&style=flat-square&label=Profile+Views)
 
-**Made with 🖤 by Tito Kilonzo**
+**#Dev Tito Kilonzo**
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
