@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Antino Backdoor Uses Outlook and OneDrive for C2 in</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">GitLab Patches Critical 9.9 AI Gateway Flaw Allowing</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">China-Nexus Espionage Campaign</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Command Execution on Self-Hosted Servers</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Government and policy organizations across Asia have become</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A critical flaw in GitLab&apos;s AI Gateway could let a logged-in</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">the target of a new campaign orchestrated by a Ch…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">user with Duo Agent Platform access run commands…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 06:01 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 12:13 UTC</text>
 
 </svg>
