@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">All hail electrification. But let’s talk about the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Mass quarantine issued in Russia after unexplained</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">hard part.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">death of plague researcher</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Dan Gearino, Inside Climate News &#183; Oct 04, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Beth Mole &#183; Oct 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The IEA and climate negotiators want to set a target for</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Unconfirmed reports have suggested there was a laboratory</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">shifting the economy to run on electricity.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">accident.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 17:52 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 23:44 UTC</text>
 
 </svg>
