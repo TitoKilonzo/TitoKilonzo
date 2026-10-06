@@ -32,11 +32,11 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Google Pauses OSS Product Bug Bounty Rewards After</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">LibreOffice and OpenOffice Flaws Let Malicious</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Surge in Invalid Automated Reports</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Spreadsheets Run Code Without Macro Warnings</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
@@ -44,16 +44,16 @@
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Google has stopped accepting product vulnerability reports</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A malicious spreadsheet can make LibreOffice and Apache</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">through its bug bounty program for its open-source…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">OpenOffice run an attacker&apos;s code as soon as the file…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 11:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 17:55 UTC</text>
 
 </svg>
