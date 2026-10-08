@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Microsoft Brings MAI Code 1.1 Flash Local Inference to</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">5 MCP Security Tests to Run Before Your AI Agent Gets</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">GitHub Copilot</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Tool Access</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Ali Farhat &#183; Oct 07, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; TechSavant Security Lab &#183; Oct 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Microsoft plans to bring MAI Code 1.1 Flash to local coding</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Your LLM passed every prompt-injection test. Your agent can</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">workflows in GitHub Copilot, allowing supported C…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">still be hijacked. The difference is tools. A cha…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:42 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 02:30 UTC</text>
 
 </svg>
