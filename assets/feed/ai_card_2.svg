@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic is letting METR researchers look under the</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">An Nvidia insider-turned-VC on why robotics hasn’t hit</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">hood with employee-level access</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">its ChatGPT moment, yet</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Aditya Mehta &#183; Oct 15, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Theresa Loconsolo &#183; Oct 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;METR will publish its own assessments of Anthropic’s risks,</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Amulya Vishwanath, who spent seven years leading product</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">incidents, and practices, and the frontier AI mod…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">marketing for NVIDIA’s robotics platforms, says robo…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 15:11 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 19:17 UTC</text>
 
 </svg>
