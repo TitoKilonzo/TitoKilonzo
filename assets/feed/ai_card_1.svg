@@ -36,7 +36,7 @@
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Lucas Ropek &#183; Oct 16, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Kirsten Korosec, Lucas Ropek, Rebecca… &#183; Oct 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
@@ -50,6 +50,6 @@
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 14:57 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 17:47 UTC</text>
 
 </svg>
