@@ -33,17 +33,17 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-10-17 at 20:06 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-10-17 at 22:52 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/zerabooks/migrating-books-between-providers-tying-opening-balances-to-bank-statements-with-uncleared-items-opf"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/prateek11rai/gummysearch-deletes-everyones-data-on-december-1-i-rebuilt-its-morning-loop-on-a-4b-model-on-my-71i"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/mech_app_ai/inboxwall-how-a-local-first-mcp-server-sanitizes-email-html-to-stop-prompt-injection-before-the-1ipb"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/alexander_m_92b26bbd2e838/flip-check-the-70-rule-plus-the-flags-a-hard-money-lender-actually-uses-12ne"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
