@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-10-17 at 22:52 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-10-18 at 00:37 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/prateek11rai/gummysearch-deletes-everyones-data-on-december-1-i-rebuilt-its-morning-loop-on-a-4b-model-on-my-71i"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/eliasfischer8351/nodejs-sms-alert-api-3-template-ownership-rules-for-home-security-saas-1h0f"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/alexander_m_92b26bbd2e838/flip-check-the-70-rule-plus-the-flags-a-hard-money-lender-actually-uses-12ne"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/scriptmasterlabs01/can-ai-agents-access-your-hr-and-payroll-data-safely-329-tools-counted-54-writedelete-41n5"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
