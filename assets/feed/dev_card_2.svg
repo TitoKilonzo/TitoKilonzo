@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">A Telegram transcription bot in Go: ElevenLabs instead</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Handling AI agent refunds without paying twice:</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">of Whisper, draining the queue on restart, and what…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">signatures, idempotency and limits in TypeScript</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Ismailov Uluk &#183; Oct 20, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; awab alomran &#183; Oct 20, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A few days ago I shipped a Telegram bot that turns voice</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;AI assistants are starting to call businesses&apos; systems on</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">notes, files up to 2 GB and YouTube links into text …&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">behalf of their users: &quot;return the blue jacket&quot;, &quot;m…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:20 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:05 UTC</text>
 
 </svg>
