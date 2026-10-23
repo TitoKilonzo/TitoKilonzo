@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How I Built an AI Cold Email Generator with Next.js</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How to Pick the Best Local AI Model on Your Android</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">and OpenAI</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Phone in 2026 (Fast, Balanced or Best, No Cloud)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Peter Park &#183; Oct 23, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Mohammed Ali Chherawalla &#183; Oct 23, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Last weekend, I sat down with a simple idea: build an AI</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;You want a local AI model that runs well on your Android</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">tool that writes personalized cold emails. By Sunday…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">phone, and you do not want to read quantization tabl…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 01:11 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 06:56 UTC</text>
 
 </svg>
