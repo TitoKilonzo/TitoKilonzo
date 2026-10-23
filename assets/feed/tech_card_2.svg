@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Intel gets waiver after worries fuzzy US ban on</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Inside the Pentagon, the pressure is on to find a home</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">foreign-made robots may hit fabs</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">for a new spaceport</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Jeremy Hsu &#183; Oct 23, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Stephen Clark &#183; Oct 23, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Company says foreign-made robotic vehicles are crucial to US</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Space Force considering options: public-private, federal</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">chip production.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">installation, state land.&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 20:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; Ars Technica - All content &#183; &#128336; Updated 23:48 UTC</text>
 
 </svg>
