@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-10-23 at 23:48 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-10-24 at 03:17 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/ji_ai/claude-batch-api-returned-results-out-of-order-59-of-my-labels-wrong-2big"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/sarantoon/tnthun-khwaamesiiyng-aelakhnthiitngechnrab-saetkaihnehmaaakabthiimkhnaadaihn-36h4"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/isabelle_dubuis_d858453d7/before-you-trust-an-ai-phone-agent-with-restaurant-calls-test-the-outcomes-2g0a"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/colbyhayes3521/5-ways-to-make-insurance-claims-retrieval-deletions-trustworthy-a-build-log-5l0"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
