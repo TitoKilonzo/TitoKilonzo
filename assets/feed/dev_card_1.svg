@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How to Install Jitsi Meet on Ubuntu 24.04: Self-Hosted</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Building PhotoCraft Companion: Local AI for a</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Video Calls</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">WebAssembly Editor (Rust Architecture Deep Dive)</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; FlatlinerAtheist | CLI-NERDS &#183; Oct 25, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; kobaltGIT &#183; Oct 25, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Free video calls come with strings attached. Zoom ends your</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;PhotoCraft is a modern, open-source desktop image editor</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">meeting at 40 minutes, Google Meet wants everyone…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">with an internal plugin engine built around WebAssem…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:07 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 21:25 UTC</text>
 
 </svg>
