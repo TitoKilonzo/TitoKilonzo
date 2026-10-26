@@ -33,17 +33,17 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-10-26 at 09:41 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-10-26 at 16:28 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -53,10 +53,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -66,10 +66,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://www.wired.com/ghost-stories/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/buguatec/build-a-multi-keyword-offline-voice-controller-with-onnx-and-tflite-5cmc"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/syncore/how-to-write-python-that-runs-10x-faster-with-these-tricks-51ag"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/permitcore/node-locked-vs-floating-licenses-which-one-do-you-need-iia"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/ashish_624379625242c5d263/meta-brings-immersive-college-football-to-quest-promises-100-live-sporting-events-next-year-23kc"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
