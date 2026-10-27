@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">NASA’s Oldest Martian Spacecraft Have Been Running for</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">UK Home Office May Face Investigation Over Use of</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Decades. Here’s How</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI Tech</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Meghan Bartels &#183; Oct 27, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Isabella Ward &#183; Oct 27, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Two orbiters have long outlasted their expected lifespans</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A government watchdog is considering a probe into the Home</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">and completely reshaped our understanding of the Re…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Office’s use of ChatGPT technology to process asyl…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 19:16 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 23:28 UTC</text>
 
 </svg>
