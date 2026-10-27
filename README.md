@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-10-26 at 21:20 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-10-27 at 01:07 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/shashank_chakraborty_6362/ofrenda-is-a-local-altar-for-long-lost-repositories-which-still-have-unfinished-work-1aci"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/onpont/an-agent-loop-needs-a-save-editor-that-refuses-byte-exact-writes-and-four-measured-states-3f88"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/ashish_624379625242c5d263/wenn-tech-riesen-um-geheimnisse-kampfen-und-ein-vr-spiel-still-sehkraft-zuruckgibt-20md"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/mattleeee/backtesting-the-pullback-filter-when-a-safety-check-kills-profit-4439"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
