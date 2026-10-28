@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Apple Backports Fix for Exploited CoreGraphics Flaw to</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Japan&apos;s GMO Offers $1 Million Bounty to Catch Hackers</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Older iPhones and iPads</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Behind FX Trading Cloud Breach</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Oct 27, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Oct 28, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Apple on Monday backported fixes for a high-severity</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Japan&apos;s GMO Internet Group is offering up to $1 million in</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">security flaw that was exploited in real-world cyber att…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">total for tips that help catch the attackers who b…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 03:59 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 10:29 UTC</text>
 
 </svg>
