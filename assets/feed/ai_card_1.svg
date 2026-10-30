@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Zest’s new AI agent finds restaurants and books</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Anthropic expected to receive high ‘junk’ rating from</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">reservations over text</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">credit agencies following IPO, FT report says</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Sarah Perez &#183; Oct 30, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Lucas Ropek &#183; Oct 30, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Can&apos;t agree on where to eat? Zest&apos;s AI concierge can combine</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Blackstone&apos;s forecast is just a prediction, but naturally, a</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">everyone&apos;s tastes, put restaurant options to a v…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">high junk rating would make it more difficult an…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 18:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 22:54 UTC</text>
 
 </svg>
