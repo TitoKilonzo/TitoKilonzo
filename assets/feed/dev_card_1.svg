@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Moving a production API to Hetzner, part 2: hardening</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Daily Dose of DevOps — Internal developer platform:</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">and configuring the server</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">for enterprise architecture teams</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Ajit Kumar &#183; Oct 30, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Marco &#183; Oct 30, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Series: Part 1: choosing and creating the server · Part 2:</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Internal developer platform: for enterprise architecture</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">hardening and configuring it · Part 3: migrating d…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">teams Enterprise reliability deteriorates when autom…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 06:47 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:50 UTC</text>
 
 </svg>
