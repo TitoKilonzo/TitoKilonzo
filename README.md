@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-10-29 at 20:52 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-10-30 at 00:36 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/cryptopunk_dz2_bd054446a6/mycroft-a-persona-that-lives-in-files-on-eight-machines-what-survives-a-model-swap-and-what-1f5k"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/meerpasha59bit/link-rot-ofrenda-a-local-gemma-lights-candles-for-the-web-pages-we-lost-and-wont-make-things-up-42b0"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/arame_alex/what-i-learned-from-building-four-python-csv-projects-3em6"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/li_yi_dcec96bf2647dec1b7e/i-fact-checked-the-free-tiers-of-20-ai-tools-most-listings-were-wrong-3l19"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
