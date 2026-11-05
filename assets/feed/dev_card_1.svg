@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How to reconcile Stripe payments in a double-entry</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Show HN: Fenestra – double-click a local</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">ledger</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">dist/index.html and it opens over localhost</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Sergey Radzishevskii &#183; Nov 04, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Leandro Benedet &#183; Nov 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A customer pays $2,400 by card, Stripe says the payment</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I built Fenestra because I kept opening a terminal just to</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">succeeded, and it is tempting to write one line in yo…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">serve a static build. Modern builds use ES modules…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:27 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 00:08 UTC</text>
 
 </svg>
