@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">How to check a Dockerfile for errors before building</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">How I got my first pull request merged into LiteLLM</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Capafy Factory &#183; Nov 05, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Ali Ahmed &#183; Nov 05, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Most Dockerfile mistakes don&apos;t fail your build. They fail at</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;My first contribution to LiteLLM , the open-source LLM</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">2 a.m., in production, when the image you shippe…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">gateway, was PR #38591 . It fixed a bug where content …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:07 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 22:31 UTC</text>
 
 </svg>
