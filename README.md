@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-11-07 at 17:25 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-11-07 at 21:26 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/j_avanish4/why-multi-billion-dollar-ai-models-are-cheating-in-101-labs-1j0b"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/bbt-hi/apne-claude-subscription-pr-claude-code-ko-osfoundry-worker-kii-trh-claanaa-4i8a"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/naveencb25/set-the-title-how-hindsight-lets-a-support-chat-continue-across-sessions-4001"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/tabsinone/tabs-in-one-tumce-srv-chrome-ttenb-ekaac-stnbhaat-aannaa-aanni-ram-moklii-kraa-2l2h"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
