@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">I Published 100 Articles in 13 Days. Total Reactions:</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Patch validation for CVE-2026-98851: test the error,</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">0.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">then test deletion</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; seller-mind &#183; Nov 08, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; jeffrey &#183; Nov 08, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;I published 100 articles in 13 days. Here is what it</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Patch validation for CVE-2026-98851: test the error, then</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">produced: Metric Value Articles published 100 Days 13 Re…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">test deletion A kernel patch is not validated by co…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 08:35 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:46 UTC</text>
 
 </svg>
