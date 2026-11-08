@@ -33,7 +33,7 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-11-07 at 21:26 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-11-08 at 01:04 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/bbt-hi/apne-claude-subscription-pr-claude-code-ko-osfoundry-worker-kii-trh-claanaa-4i8a"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/toai/mitigating-postgresql-row-level-locking-deadlocks-architecture-concurrency-control-and-runtime-i21"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/tabsinone/tabs-in-one-tumce-srv-chrome-ttenb-ekaac-stnbhaat-aannaa-aanni-ram-moklii-kraa-2l2h"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/ashish_624379625242c5d263/meta-quest-2pronoji-neng-kai-fa-zhong-liao-demopu-noshi-jue-toreninguha-sohutoueace-dejin-hua-sisok-keru-4a9m"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
