@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">World Models Will Soon Be Inescapable. Here’s What You</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">These WIRED-Tested Standing Desks Are Already on Sale</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Need to Know</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">for Black Friday</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Reece Rogers &#183; Nov 08, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Kat Merck &#183; Nov 09, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Moving AI from text to 3D space, world models simulate real-</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Upgrade your workspace with discounts on WIRED-tested desks</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">world physics to teach robots and autonomous cars…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">from Branch, Vari, FlexiSpot, and Uplift—plus a w…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 07:38 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 01:52 UTC</text>
 
 </svg>
