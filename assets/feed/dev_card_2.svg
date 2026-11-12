@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">China’s AI Compute Allocation Controversy | 中国AI算力分配争议</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">9 Developer Tools That Pay for Themselves in a Week</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; cognitalk &#183; Nov 12, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Vishva Variya &#183; Nov 12, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;关于中国算力的应用有个报道说中国算力超过50%以上是用于AI视频制作？</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;I tracked what each one saved me. These nine paid back their</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">这条说法我给你把来龙去脉捋一遍——它其实是一次典型的&quot; 口径偷换 + 中美叙事加成…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">price in days, not months. Last Tuesday, at 11:4…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 01:18 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 09:17 UTC</text>
 
 </svg>
