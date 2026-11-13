@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Deterministic Refactoring: Why AI needs AST-driven</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Frontend system design for enterprise apps: 8</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">visibility to stop polluting codebases</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">decisions</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Renato Marinho &#183; Nov 13, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; Adil Ben Moussa &#183; Nov 13, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;When we delegate code refactoring or maintenance to an AI</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;This is the overview of the free series Frontend system</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">agent, we aren&apos;t just asking it to write new lines;…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">design for enterprise applications , first published …&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 13:55 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:45 UTC</text>
 
 </svg>
