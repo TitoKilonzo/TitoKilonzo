@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware,</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Operation Endgame Takes Down Gootloader, CastleRAT and</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">GSocket Backdoors + 17 More Stories</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">StealC Servers, Seizes 6.4M Stolen Logins</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Nov 12, 2026</text>
+        font-size="10.5" fill="#F87171">&#9997;&#65039; info@thehackernews.com (The Hacker Ne… &#183; Nov 13, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;A search result isn&apos;t always safe. An access request isn&apos;t</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;An international police operation took down servers behind</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">always harmless. And a familiar account doesn&apos;t al…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Gootloader, CastleRAT and StealC this week. Crimin…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 05:04 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; The Hacker News &#183; &#128336; Updated 13:55 UTC</text>
 
 </svg>
