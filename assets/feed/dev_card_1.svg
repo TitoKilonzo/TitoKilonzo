@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Seu app feito no Lovable parou em 80%? O problema não</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Horde Groupware: find the authentication backend</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">é falta de função, é o que ninguém verificou</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">before trusting the login page</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Youngjun Yoon &#183; Nov 14, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; kozhevniko &#183; Nov 14, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Quase todo app que trava não está incompleto. Está sem</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Horde Groupware: find the authentication backend before</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">verificação. Com Cursor, Lovable, Bolt, v0 ou Replit d…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">trusting the login page Horde Groupware bundles webma…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:32 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 20:24 UTC</text>
 
 </svg>
