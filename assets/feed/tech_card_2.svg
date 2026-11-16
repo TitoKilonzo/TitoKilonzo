@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">No Pilots. Few Air Traffic Controllers. What Could Go</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Just 400 US Data Centers Use More Electricity Than</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Wrong?</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Michigan</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Jeff Wise &#183; Nov 14, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Molly Taft &#183; Nov 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Normally, aviation is slow to embrace new technology—but AI</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;New Harvard research shows that data-center power demand is</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">has come for the skies.&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">outstripping states—and that doesn’t even include…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 07:38 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 17:55 UTC</text>
 
 </svg>
