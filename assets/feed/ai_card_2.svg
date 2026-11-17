@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">OpenAI releases a new image classifier and ChatGPT</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Sam Altman on Nvidia without Jensen Huang: The</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">warnings to combat CSAM</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">industry will be ‘fine’</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Ivan Mehta &#183; Nov 16, 2026</text>
+        font-size="10.5" fill="#A78BFA">&#9997;&#65039; Rebecca Bellan &#183; Nov 16, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;ChatGPT will ban an account trying to access CSAM content</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;OpenAI CEO Sam Altman acknowledged the special role Nvidia</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">for 24 hours as a warning&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">CEO Jensen Huang has played in the AI boom, but ul…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 17:55 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; AI News &amp; Artificial Intelligen… &#183; &#128336; Updated 01:37 UTC</text>
 
 </svg>
