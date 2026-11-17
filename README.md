@@ -33,17 +33,17 @@
 > *Automated hourly updates — AI & Claude · Cybersecurity · Tech Advances · Dev Insights*
 
 <!-- FEED:START -->
-> 🕐 **Live Feed Last Refreshed:** `2026-11-17 at 10:11 UTC` — updates automatically every hour via GitHub Actions.
+> 🕐 **Live Feed Last Refreshed:** `2026-11-17 at 19:36 UTC` — updates automatically every hour via GitHub Actions.
 
 ### 🤖 AI & Claude
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"><img src="assets/feed/ai_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"><img src="assets/feed/ai_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -53,10 +53,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html"><img src="assets/feed/cyber_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"><img src="assets/feed/cyber_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -66,10 +66,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/"><img src="assets/feed/tech_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/"><img src="assets/feed/tech_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
@@ -79,10 +79,10 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/qunirice_verase_1ab0caeba/llamacpp-or-vllm-choosing-a-local-inference-engine-by-workload-2380"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/diagnost/reading-car-fault-codes-from-a-web-page-web-serial-and-web-bluetooth-vs-cheap-elm327-clones-m1j"><img src="assets/feed/dev_card_1.svg" width="100%" alt="Article Card"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://dev.to/paulhartness/what-is-involuntary-churn-failed-payments-not-cancellations-4iba"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
+<a href="https://dev.to/daniel_chappell_b88575970/what-it-costs-an-ai-agent-to-read-100000-web-pages-2beg"><img src="assets/feed/dev_card_2.svg" width="100%" alt="Article Card"/></a>
 </td>
 </tr>
 </table>
