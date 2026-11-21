@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">问答是扁平的：先发布，再让模型看见</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Give the second AI assistant a different deliverable</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; goodlords &#183; Nov 21, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; RRA &#183; Nov 21, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;前两篇都假设库里已经有「已上线」的问答。这一篇写它们怎么进来，以及答复怎样才算有依据。 第一篇把证据放在知识旁边：一条事</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Five assistants can produce five plausible answers without</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">实要能指回原文。这里没有再做一层向量检索去「找回证据」。一条问答的答案就是它自己的证据。编号是地址…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">establishing who owns the final article. Our curre…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 07:58 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 16:01 UTC</text>
 
 </svg>
