@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Your $180 Coat Sold for $18. One Decimal Point Did</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Node.js Postgres Cleanup Jobs: When Scheduling Should</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">That.</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Hand Work to a Queue</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; jinguo ren &#183; Nov 22, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; RemielBarrett8283 &#183; Nov 22, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The best morning of the year lasts ten seconds Black Friday,</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;A scheduled cleanup job should begin as a bounded database</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">6:40 a.m. The phone is buzzing before the alarm.…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">operation, then acquire queue workers only when ea…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 18:12 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 23:58 UTC</text>
 
 </svg>
