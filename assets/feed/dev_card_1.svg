@@ -32,28 +32,28 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">[Phân tích kỹ thuật] Google Search AI Mode tích hợp</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Agentic AI for Financial Reconciliation in LangGraph:</text>
   <!-- Title line 2 -->
   <text x="14" y="75"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">Drive và Wallet: Nước cờ cá nhân hóa từ hệ sinh thái…</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Auto-Explain 80% of Breaks Without the LLM Touching…</text>
   <!-- Author & date -->
   <text x="14" y="97"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#34D399">&#9997;&#65039; Tin Tức AI &#183; Nov 24, 2026</text>
+        font-size="10.5" fill="#34D399">&#9997;&#65039; kirandeepjassal-crypto &#183; Nov 24, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="117"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;Góc nhìn kỹ sư: Google chính thức mở rộng tính năng Personal</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Reconciliation is the best first domain for agentic AI in</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="133"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">Intelligence trên Search AI Mode với khả năng li…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">finance, and almost everyone picks it for the wrong…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="147" x2="476" y2="147"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="160"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 04:35 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; DEV Community &#183; &#128336; Updated 15:30 UTC</text>
 
 </svg>
