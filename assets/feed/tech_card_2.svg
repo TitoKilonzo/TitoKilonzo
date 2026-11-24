@@ -32,24 +32,24 @@
   <!-- Title line 1 -->
   <text x="14" y="57"
         font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-        font-size="13.5" font-weight="700" fill="#E6EDF3">States Sue SpaceX Over Grok Deepfakes</text>
+        font-size="13.5" font-weight="700" fill="#E6EDF3">Nvidia Is Powering Brain-Computer Interfaces Now</text>
   <!-- Author & date -->
   <text x="14" y="79"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Maddy Varner &#183; Nov 23, 2026</text>
+        font-size="10.5" fill="#60A5FA">&#9997;&#65039; Emily Mullin &#183; Nov 23, 2026</text>
   <!-- Excerpt line 1 -->
   <text x="14" y="99"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">&#8220;The attorneys general of Oregon and Virginia are suing</text>
+        font-size="11" fill="#8B949E" font-style="italic">&#8220;Brain-computer interface company Paradromics is using</text>
   <!-- Excerpt line 2 -->
   <text x="14" y="115"
         font-family="'Segoe UI', Georgia, serif"
-        font-size="11" fill="#8B949E" font-style="italic">several of Elon Musk’s companies, alleging they implem…&#8221;</text>
+        font-size="11" fill="#8B949E" font-style="italic">Nvidia’s computing hardware and software to process bra…&#8221;</text>
   <!-- Footer -->
   <line x1="14" y1="129" x2="476" y2="129"
         stroke="#21262d" stroke-width="1"/>
   <text x="14" y="142"
         font-family="'Courier New', 'Fira Code', monospace"
-        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 19:49 UTC</text>
+        font-size="9.5" fill="#484F58">&#128279; WIRED &#183; &#128336; Updated 04:35 UTC</text>
 
 </svg>
